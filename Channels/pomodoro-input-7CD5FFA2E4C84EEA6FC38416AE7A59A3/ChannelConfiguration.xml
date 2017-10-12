@@ -1,0 +1,36 @@
+<channel
+   name="pomodoro-input"
+   guid="7CD5FFA2E4C84EEA6FC38416AE7A59A3"
+   description=""
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_mapper
+      guid="pomodoro-input-To-ihRUOjRuPjjQcy"
+      commit_id="e75abb2db2327bccb3fbdfc8ed4bdc141730131b"
+      commit_comment="Update comments">
+      <dequeue_list>
+         <dequeue
+            source_name="self"
+            dequeue_guid="450CFA23F4A32E743B0424991BB2FA34"/>
+      </dequeue_list>
+   </to_mapper>
+   <from_file
+      file_type="ArbitraryText"
+      prepend_file_info="false"
+      eof_char=""
+      poll_time="10000"
+      max_message_size="15728640"
+      source_dir="/Users/paul.le/Documents/Iguana/support-Iguana/pomodoro-data/"
+      source_file_extension="csv"
+      archive_processed_files="false"
+      processed_dir=""
+      error_dir=""
+      ignored_segments=""
+      segment_delimiter="0x0D"
+      message_delimiter="0x0A"
+      minimum_file_age="0"
+      escape_8bit="false"
+      escape_char=" "
+      sftp_authentication_method="user_password"/>
+</channel>
