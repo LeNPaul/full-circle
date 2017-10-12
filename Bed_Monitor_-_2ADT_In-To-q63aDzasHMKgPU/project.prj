@@ -1,0 +1,16 @@
+{
+    "LocalDependencies": [
+        "bedtables.vmd",
+        "demo.vmd"
+    ],
+    "LuaDependencies": [
+        "bedmonitor.db"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1507839849",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}
