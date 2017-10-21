@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  color: #515151;
+  color: black;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -76,7 +76,8 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  color: #268bd2;
+  opacity: 0.75;
 }
 
 /* Headings */
@@ -84,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #313131;
+  color: black;
   text-rendering: optimizeLegibility;
 }
 h1 {
@@ -308,10 +309,10 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: black;
 }
 .masthead-title a {
-  color: #505050;
+  color: black;
 }
 .masthead-title small {
   font-size: 75%;
