@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+<h1 class="page-title">{{ page.title }}</h1>
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>

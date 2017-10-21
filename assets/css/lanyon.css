@@ -46,7 +46,7 @@ html {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 400;
+  font-weight: bold;
   color: black;
   letter-spacing: -.025rem;
 }
@@ -100,11 +100,16 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: black;
 }
 .masthead-title a {
-  color: #505050;
+  color: black;
 }
+
+.masthead-title a:hover {
+  color: #268bd2;
+}
+
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
@@ -155,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem; /* 14px */
+    font-size: 1.5rem; /* 14px */
   }
 }
 
@@ -173,12 +178,11 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Sidebar nav */
 .sidebar-nav {
-  border-bottom: 1px solid rgba(255,255,255,.1);
+
 }
 .sidebar-nav-item {
   display: block;
   padding: .5rem 1rem;
-  border-top: 1px solid rgba(255,255,255,.1);
 }
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
