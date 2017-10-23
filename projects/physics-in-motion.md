@@ -3,6 +3,8 @@ layout: page
 title: 'Physics in Motion'
 ---
 
+<h1 class="page-title">{{ page.title }}</h1>
+
 [![Physics in Motion]({{ "/assets/img/physics-in-motion.png" }})](https://lenpaul.github.io/physics-in-motion/)
 
 Physics is the study of nature. It is a dynamic and exciting subject, full of many mysteries and exciting ideas.

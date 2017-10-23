@@ -3,6 +3,8 @@ layout: page
 title: 'applepy'
 ---
 
+<h1 class="page-title">{{ page.title }}</h1>
+
 > "If you wish to make apple pie from scratch, you must first create the universe" - Carl Sagan
 
 A basic n-body simulation program that aims to simulate many of the processes that occur in the early stages of the universe.

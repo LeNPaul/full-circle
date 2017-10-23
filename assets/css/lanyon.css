@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto', sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  background-color: #202020;
+  background-color: white;/*#202020;*/
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -167,8 +167,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Sidebar content */
 .sidebar a {
-  font-weight: normal;
-  color: #fff;
+  font-weight: 700;
+  color: black;/*#fff;*/
 }
 .sidebar-item {
   padding: 1rem;
