@@ -5,7 +5,7 @@ permalink:           none
 plugins: [jekyll-paginate]
 
 # Setup
-title:               'Paul Le'
+title:               ''
 tagline:
 description:         ''
 url:                 ''

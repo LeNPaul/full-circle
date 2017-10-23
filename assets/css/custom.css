@@ -2,3 +2,5 @@
   color: black;
   margin-right: 10px;
 }
+
+.project-container{margin:auto;width:750px}.project-container a{margin:auto;display:inline}.project-container .project-unit{width:750px;margin:0px auto 50px;height:350px;display:block;background-position:center center;background-repeat:no-repeat;background-size:cover}.project-container .project-unit .project-overlay{transition:.2s;height:100%;width:100%;background-color:#fff;opacity:0}.project-container .project-unit .project-overlay h2{margin:0px;position:relative;top:100px}.project-container .project-unit .project-overlay p{margin:0px;color:#000;position:relative;top:100px}.project-container .project-unit:hover .project-overlay{opacity:1;transition:.2s}@media screen and (max-width: 840px){.project-container{width:75vw}.project-container .project-unit{width:75vw;height:35vw;margin-bottom:25px}}.post-content{width:750px;margin:auto auto 100px}@media screen and (max-width: 840px){.post-content{width:75vw}}

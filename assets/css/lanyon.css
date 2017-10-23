@@ -104,6 +104,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .masthead-title a {
   color: black;
+  font-size: 36px;
 }
 
 .masthead-title a:hover {
@@ -119,7 +120,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 48em) {
   .masthead-title {
-    text-align: center;
+    /*text-align: center;*/
   }
   .masthead-title small {
     display: none;
