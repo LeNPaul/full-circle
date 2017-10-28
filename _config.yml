@@ -1,19 +1,6 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
+# Site Settings
+
 permalink:           none
 plugins: [jekyll-paginate]
 
-# Setup
-title:               'Paul Le'
-tagline:
-description:         ''
-url:                 ''
-baseurl:             ''
 paginate:            5
-
-# About/contact
-author:
-  name:              ''
-  url:               ''
-  email:             ''
