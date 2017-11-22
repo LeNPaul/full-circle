@@ -11,4 +11,8 @@ As of now, the following are my current themes that I have.
 
 ## Lagrange
 
+[![Lagrange]({{ "/assets/img/lagrange-full.png" }})](https://lenpaul.github.io/Lagrange/)
+
 ## Millennial
+
+[![Millennial]({{ "/assets/img/millennial-full.png" }})](https://lenpaul.github.io/Millennial/)
