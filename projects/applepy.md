@@ -9,7 +9,7 @@ title: 'applepy'
 
 Inspired by one of Carl Sagan's most famous quotes, applepy is an [n-body simulation](https://en.wikipedia.org/wiki/N-body_simulation) program based in Python that aims to simulate many of the processes that occurred in the early stages of the universe.
 
-Shortly after the Big Bang, there was an abundance of material scattered across the universe. As the universe expanded, this material began to interact with with itself through gravity, eventually forming the stars and galaxies that we see today. The behaviour of this material does not have an exact solution (unlike calculating the trajectory of a ball thrown on earth, for example), and so scientists run n-body simulation experiments, such as the [Millennium Run](https://en.wikipedia.org/wiki/Millennium_Run), in order to best study how the early universe evolved.
+Shortly after the Big Bang, there was an abundance of material scattered across the universe. As the universe expanded, this material began to interact with with itself through forces such as gravity, eventually forming the stars and galaxies that we see today. The behaviour of this material does not have an exact solution (unlike calculating the trajectory of a ball thrown on earth, for example), and so scientists run n-body simulation experiments, such as the [Millennium Run](https://en.wikipedia.org/wiki/Millennium_Run), in order to best study how the early universe evolved.
 
 [![Big Bang](https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg)](https://en.wikipedia.org/wiki/Big_Bang)
 
