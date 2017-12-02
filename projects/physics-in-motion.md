@@ -5,9 +5,9 @@ title: 'Physics in Motion'
 
 <h1 class="page-title">{{ page.title }}</h1>
 
-[![Physics in Motion]({{ "/assets/img/physics-in-motion.png" }})](http://www.physicsinmotion.ca/)
+Physics is the study of nature. It is a dynamic and exciting subject, full of many mysteries and intriguing ideas.
 
-Physics is the study of nature. It is a dynamic and exciting subject, full of many mysteries and exciting ideas.
+[![Physics in Motion]({{ "/assets/img/physics-in-motion.png" }})](http://www.physicsinmotion.ca/)
 
 Yet for many people, the word "physics" conjures up images of teachers lecturing to sleepy students in a classroom, and of having to write exams in a hall full of hundreds of other students who would rather be doing something else. Many people view physics as being a difficult and *boring* subject. Something is wrong here.
 
