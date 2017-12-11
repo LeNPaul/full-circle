@@ -4,13 +4,103 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-12-03T21:49:46-05:00</updated>
+ <updated>2017-12-11T12:34:17-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>The Five Pillars of Getting Things Done</title>
+   <link href="http://localhost:4000/the-five-pillars-of-getting-things-done.html"/>
+   <updated>2017-10-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/the-five-pillars-of-getting-things-done</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/getting-things-done.png&quot; alt=&quot;Getting Things Done&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://gettingthingsdone.com/&quot;&gt;Getting things done&lt;/a&gt; is not about using the right app or buying the right notebook. It’s a philosophy for living your life in a clear and focused manner, that is agnostic to the underlying system that you choose to implement. In other words, it’s not about the app that you use, or the notebook that you buy. It’s about the mindset that you have.&lt;/p&gt;
+
+&lt;p&gt;There are five pillars for getting things done:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Capture&lt;/li&gt;
+  &lt;li&gt;Clarify&lt;/li&gt;
+  &lt;li&gt;Organize&lt;/li&gt;
+  &lt;li&gt;Reflect&lt;/li&gt;
+  &lt;li&gt;Engage&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;capture&quot;&gt;Capture&lt;/h2&gt;
+
+&lt;p&gt;Anything that is on your mind, that has your attention, or is nagging you, you want to get it out of your head and write it down somewhere. These are things that you need to do, finish, or make decisions on. They are called open loops, and until they are written down somewhere they will remain in your mind, occupying unwanted space. You want your mind to be empty of open loops, in order to make room for more important things, such as ideas.&lt;/p&gt;
+
+&lt;h2 id=&quot;clarify&quot;&gt;Clarify&lt;/h2&gt;
+
+&lt;p&gt;Process the stuff that you wrote down. Look at each item that you wrote, and ask yourself: is this something that is actionable?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;If no, then either delete it, put it on hold until a later date, or put it away for reference.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If yes, then what is the next action? Break it down into the most fundamental action to move things forward. If there is more than one action required, then it is considered a project.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;This is an important decision to make.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;During this stage, also consider the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you are not the appropriate person to do this task, then delegate it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If the action takes less than two minutes to do, and you are able to do it at that moment, then do it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Otherwise, defer this action until a later date, and move to the next stage of organizing your tasks.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;organize&quot;&gt;Organize&lt;/h2&gt;
+
+&lt;p&gt;Put your tasks where they belong:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tasks that need to be reassessed at a later date can be put in a category called “incubate”. You can set reminders for yourself in a calendar to review these tasks when the time is right.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tasks that belong in “reference” can be stored anyway that you like, as long as you keep it simple and maintain it regularly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Everything else can be grouped into a “next actions” category of tasks that need to be completed.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Next actions can be further organized into more categories, depending on what you find to be useful. Organizing by context can be useful, such as having a “waiting for” and a “projects” list. The important part is to remind yourself of what tasks need to be completed, and to orientate yourself accordingly.&lt;/p&gt;
+
+&lt;p&gt;Try putting everything in one place, and then sort it into lists based on your own experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflect&quot;&gt;Reflect&lt;/h2&gt;
+
+&lt;p&gt;Make sure that everything is out of your head. It is important to regularly reflect so that you can trust your system.&lt;/p&gt;
+
+&lt;p&gt;Do a daily review, preferably at night before you go to sleep, or in the morning when you wake up. Review your calendar to get a map of what is going on in the present and in the future. Look at your lists, review incomplete tasks, and determine if you have any time to complete any tasks, based on how your calendar looks. Stay present with what you are doing, and avoid any anxiety that may come from thinking that you may have missed something.&lt;/p&gt;
+
+&lt;p&gt;Do a weekly review. Take a few steps back, and get a larger picture of the tasks that are going on that are incomplete. Look at your “projects” list and calendar, and stay focused on the long-term scope of what you want to do. This is also a great time to start planning ahead, and you will actually have room in your head for creative ideas on what to do next.&lt;/p&gt;
+
+&lt;h2 id=&quot;engage&quot;&gt;Engage&lt;/h2&gt;
+
+&lt;p&gt;It is important to be present with what you are doing, and this is based on how engaged you are with everything else that is going on in your life. If you properly apply the other four pillars of getting things done, then you can trust that what you are doing in the present time is the right thing to do.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At the end of the day, getting things done is all about being present with what you are doing, and being able to have the space in your mind to do the things that you need to do. It’s okay to fall off the wagon every once in a while — if you’re not, then you’re playing a big enough game. The important thing is to know how to get back on.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Just Did It.</title>
