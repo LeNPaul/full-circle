@@ -4,13 +4,54 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-12-11T12:34:17-05:00</updated>
+ <updated>2017-12-12T22:18:26-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Don’t Just Set Goals. Achieve Results.</title>
+   <link href="http://localhost:4000/dont-set-goals-achieve-results.html"/>
+   <updated>2017-11-11T00:00:00-05:00</updated>
+   <id>http://localhost:4000/dont-set-goals-achieve-results</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/dont-set-goals-achieve-results.jpeg&quot; alt=&quot;Don't Just Set Goals. Achieve Results.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Everyone is familiar with settings goals, but not everything is familiar with achieving results. It is easy to set goals, but more difficult to achieve them. The good thing is that the more goals you achieve, the more motivated you become, as you see your achievements pile up. The trick is to set reasonable goals so that you are able to achieve them, yet still push yourself each time.&lt;/p&gt;
+
+&lt;p&gt;There are seven steps that you may follow to achieve results:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a vision — ask yourself what you want to accomplish, and make this as clear and vibrant in your mind as possible.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Divide and conquer — quantify what you would like to achieve, and break it down into smaller steps.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Process into actions — what are the next steps to accomplishing something?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Make your commitment public — hold yourself accountable, and set a date that you will accomplish your goal.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Establish accountability — find a mentor or coach to receive regular guidance and follow-up from.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Celebrate your successes — record and share your successes, and whenever you feel like giving up, ask yourself why you started in the first place.&lt;/li&gt;
+  &lt;li&gt;Review your progress — recalibrate and redo the previous steps if necessary.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;These steps are not things that you do once and forget about. They are long-term steps that help you not only set goals, but to achieve them.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.lynda.com/Business-Skills-tutorials/Achieving-Your-Goals/96757-2.html&quot;&gt;Achieving Your Goals by Dave Crenshaw&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The Five Pillars of Getting Things Done</title>
