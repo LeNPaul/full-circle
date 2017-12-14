@@ -26,6 +26,8 @@ There are seven steps that you may follow to achieve results:
 
 These steps are not things that you do once and forget about. They are long-term steps that help you not only set goals, but to achieve them.
 
-## References
+### References
 
 [Achieving Your Goals by Dave Crenshaw](https://www.lynda.com/Business-Skills-tutorials/Achieving-Your-Goals/96757-2.html)
+
+*Also published on [Medium](https://medium.com/@LeNPaul/dont-just-set-goals-achieve-results-aa36985161bd)*

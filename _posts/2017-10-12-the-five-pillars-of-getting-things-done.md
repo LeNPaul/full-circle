@@ -66,3 +66,9 @@ It is important to be present with what you are doing, and this is based on how 
 ---
 
 At the end of the day, getting things done is all about being present with what you are doing, and being able to have the space in your mind to do the things that you need to do. It’s okay to fall off the wagon every once in a while — if you’re not, then you’re playing a big enough game. The important thing is to know how to get back on.
+
+### References
+
+[Getting things done](http://gettingthingsdone.com/)
+
+*Also published on [Medium](https://medium.com/@LeNPaul/the-five-pillars-of-getting-things-done-9fdb2a3aff0e)*
