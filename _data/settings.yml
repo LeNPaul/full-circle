@@ -10,10 +10,13 @@ menu:
 - {name: 'Blog', url: 'blog.html'}
 - {name: 'Contact', url: 'contact.html'}
 
-projects:
+main-projects:
 - {name: 'Physics in Motion', image: 'physics-in-motion.png', file: 'projects/physics-in-motion.html', blurb: 'How physics was meant to be taught.'}
 - {name: 'applepy', image: 'gun.jpg', file: 'projects/applepy.html', blurb: 'The intersection between physics and computer science.'}
 - {name: 'Jekyll Themes', image: 'box.jpg', file: 'projects/jekyll-themes.html', blurb: 'Static website projects.'}
+
+side-projects:
+- {name: '', image: '', file: '', blurb: ''}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
