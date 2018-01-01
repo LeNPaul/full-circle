@@ -348,12 +348,15 @@ a.sidebar-nav-item:focus {
 .related-posts h3 {
   margin-top: 0;
 }
+.related-posts a {
+  color: black;
+}
 .related-posts li small {
   font-size: 75%;
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: black; /*#268bd2;*/
   text-decoration: none;
 }
 .related-posts li a:hover small {
