@@ -1,6 +1,6 @@
 # Site Settings
 
 permalink:           none
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-seo-tag]
 
 paginate:            5
