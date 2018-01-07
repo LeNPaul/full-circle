@@ -4,6 +4,8 @@ tagline: ''
 author:
   name: 'Paul Le'
 
+google-ID: 'UA-111549056-1'
+
 menu:
 - {name: 'About', url: ''}
 - {name: 'Projects', url: 'projects.html'}
