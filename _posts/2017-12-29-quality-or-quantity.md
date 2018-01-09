@@ -7,7 +7,9 @@ An old adage that many people often hear is “quality over quantity”. Given a
 
 In the book, [Art & Fear: Observations on the Perils (and Rewards) of Artmaking](https://www.amazon.ca/Art-Fear-Observations-Rewards-Artmaking/dp/0961454733), by David Bayles, he tells of a parable:
 
-> The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the quantity of work they produced, all those on the right solely on its quality. His procedure was simple: on the final day of class he would bring in his bathroom scales and weigh the work of the “quantity” group: fifty pound of pots rated an “A”, forty pounds a “B”, and so on. Those being graded on “quality”, however, needed to produce only one pot, albeit a “perfect” one, to get an “A”.
+> The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the quantity of work they produced, all those on the right solely on its quality.
+
+> His procedure was simple: on the final day of class he would bring in his bathroom scales and weigh the work of the “quantity” group: fifty pound of pots rated an “A”, forty pounds a “B”, and so on. Those being graded on “quality”, however, needed to produce only one pot, albeit a “perfect” one, to get an “A”.
 
 Can you guess which group did the best? Can you see which group you would best identify with?
 
