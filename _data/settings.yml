@@ -9,7 +9,7 @@ google-ID: 'UA-111549056-1'
 menu:
 - {name: 'About', url: ''}
 - {name: 'Projects', url: 'projects.html'}
-- {name: 'Blog', url: 'blog.html'}
+- {name: 'Blog', url: '/blog/'}
 - {name: 'Contact', url: 'contact.html'}
 
 main-projects:
