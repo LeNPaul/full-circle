@@ -17,13 +17,13 @@ title: Blog
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Older</a>
+    <a href="{{ paginator.next_page_path }}" class="pagination-item newer">Older</a>
   {% else %}
-    <span class="next ">Older</span>
+    <span class="pagination-item newer">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Newer</a>
+    <a href="{{ paginator.previous_page_path }}" class="pagination-item older">Newer</a>
   {% else %}
-    <span class="previous">Newer</span>
+    <span class="pagination-item older">Newer</span>
   {% endif %}
 </div>
