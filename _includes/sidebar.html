@@ -5,17 +5,13 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <nav class="sidebar-nav">
-
     {% for item in site.data.settings.menu %}
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
-
     <div class="sidebar-nav-item" style="display:inline">
-      <a href="https://twitter.com/paululele"><i class="fa fa-twitter" aria-hidden="true" style="padding:10px;" target="_blank"></i></a>
-      <a href="https://instagram.com/paululele"><i class="fa fa-instagram" aria-hidden="true" style="padding:10px;" target="_blank"></i></a>
-      <a href="https://linkedin.com/in/lenpaul"><i class="fa fa-linkedin" aria-hidden="true" style="padding:10px;" target="_blank"></i></a>
-      <a href="mailto:l.nguyen.paul@gmail.com"><i class="fa fa-envelope" aria-hidden="true" style="padding:10px;" target="_blank"></i></a>
+      {% for item in site.data.settings.social %}
+        <a href="{{ item.link }}"><i class="fa fa-{{ item.icon }}" aria-hidden="true" style="padding:10px;" target="_blank"></i></a>
+      {% endfor %}
     </div>
-
   </nav>
 </div>
