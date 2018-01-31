@@ -10,7 +10,7 @@
     {% endfor %}
     <div class="sidebar-nav-item" style="display:inline">
       {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}"><i class="fa fa-{{ item.icon }}" aria-hidden="true" style="padding:10px;" target="_blank"></i></a>
+        <a class="sidebar-social" href="{{ item.link }}"><i class="fa fa-{{ item.icon }}" aria-hidden="true" style="padding:8px;" target="_blank"></i></a>
       {% endfor %}
     </div>
   </nav>
