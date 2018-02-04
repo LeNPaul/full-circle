@@ -8,6 +8,7 @@ app.use(serveStatic('_site', {
   'index': ['index.html', 'index.htm']
 }))
 
+// Handle 404 requests
 app.use(function(req, res) {
   res.status(400);
   res.sendFile(path.join(__dirname + '/_site/404.html'));
@@ -20,4 +21,4 @@ app.use(function(error, req, res, next) {
 var port = process.env.PORT || 4000;
 
 app.listen(port)
-console.log('Magic happens on port ' + port); 	
+console.log('Magic happens on port ' + port);
