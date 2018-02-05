@@ -8,12 +8,13 @@ app.use(serveStatic('_site', {
   'index': ['index.html', 'index.htm']
 }))
 
-// Handle 404 requests
+// Handle 400 requests
 app.use(function(req, res) {
   res.status(400);
   res.sendFile(path.join(__dirname + '/_site/404.html'));
 });
 
+// Handle 500 server errors
 app.use(function(error, req, res, next) {
   res.send('500: Internal Server Error', 500);
 });
