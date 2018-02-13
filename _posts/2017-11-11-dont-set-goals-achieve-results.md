@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Don’t Just Set Goals. Achieve Results."
+category: blog
 ---
 
 ![Don't Just Set Goals. Achieve Results.]({{ "/assets/img/dont-set-goals-achieve-results.jpeg" }})

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Quality or Quantity?"
+category: blog
 ---
 
 An old adage that many people often hear is “quality over quantity”. Given a scenario where one must choose between something of high quality, or something of high quantity, one should choose high quality. In many cases, this is true. But does this apply everywhere in life?

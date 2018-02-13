@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Just Did It."
+category: blog
 ---
 
 ![Just did it.]({{ "/assets/img/just-did-it.jpeg" }})

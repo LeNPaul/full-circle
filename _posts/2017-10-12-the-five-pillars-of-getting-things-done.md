@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Five Pillars of Getting Things Done"
+category: blog
 ---
 
 ![Getting Things Done]({{ "/assets/img/getting-things-done.png" }})

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Building Resilience"
+category: blog
 ---
 
 Facing new challenges, and bouncing back from uncomfortable, difficult situations requires a high threshold for resilience. Building resilience is a habit and skill that takes time to develop. When you are in a stressful situation, it can be very emotionally draining, but when you overcome it, you become stronger. Always strive to reflect and learn from your experiences.

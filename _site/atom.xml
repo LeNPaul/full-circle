@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-02-02T16:25:49-05:00</updated>
+ <updated>2018-02-12T23:21:32-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Building Resilience</title>
-   <link href="http://localhost:4000/building-resilience.html"/>
+   <link href="http://localhost:4000/blog/building-resilience.html"/>
    <updated>2018-01-08T00:00:00-05:00</updated>
-   <id>http://localhost:4000/building-resilience</id>
+   <id>http://localhost:4000/blog/building-resilience</id>
    <content type="html">&lt;p&gt;Facing new challenges, and bouncing back from uncomfortable, difficult situations requires a high threshold for resilience. Building resilience is a habit and skill that takes time to develop. When you are in a stressful situation, it can be very emotionally draining, but when you overcome it, you become stronger. Always strive to reflect and learn from your experiences.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -91,9 +91,9 @@
  
  <entry>
    <title>Quality or Quantity?</title>
-   <link href="http://localhost:4000/quality-or-quantity.html"/>
+   <link href="http://localhost:4000/blog/quality-or-quantity.html"/>
    <updated>2017-12-29T00:00:00-05:00</updated>
-   <id>http://localhost:4000/quality-or-quantity</id>
+   <id>http://localhost:4000/blog/quality-or-quantity</id>
    <content type="html">&lt;p&gt;An old adage that many people often hear is “quality over quantity”. Given a scenario where one must choose between something of high quality, or something of high quantity, one should choose high quality. In many cases, this is true. But does this apply everywhere in life?&lt;/p&gt;
 
 &lt;p&gt;In the book, &lt;a href=&quot;https://www.amazon.ca/Art-Fear-Observations-Rewards-Artmaking/dp/0961454733&quot;&gt;Art &amp;amp; Fear: Observations on the Perils (and Rewards) of Artmaking&lt;/a&gt;, by David Bayles, he tells of a parable:&lt;/p&gt;
@@ -146,9 +146,9 @@
  
  <entry>
    <title>Learning a Programming Language in One Night</title>
-   <link href="http://localhost:4000/learning-programming-language-one-night.html"/>
+   <link href="http://localhost:4000/blog/learning-programming-language-one-night.html"/>
    <updated>2017-12-19T00:00:00-05:00</updated>
-   <id>http://localhost:4000/learning-programming-language-one-night</id>
+   <id>http://localhost:4000/blog/learning-programming-language-one-night</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/learning-programming-one-night.jpeg&quot; alt=&quot;Learning a Programming Language in One Night&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I learned a new programming language in one night once.&lt;/p&gt;
@@ -193,9 +193,9 @@
  
  <entry>
    <title>Don’t Just Set Goals. Achieve Results.</title>
-   <link href="http://localhost:4000/dont-set-goals-achieve-results.html"/>
+   <link href="http://localhost:4000/blog/dont-set-goals-achieve-results.html"/>
    <updated>2017-11-11T00:00:00-05:00</updated>
-   <id>http://localhost:4000/dont-set-goals-achieve-results</id>
+   <id>http://localhost:4000/blog/dont-set-goals-achieve-results</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/dont-set-goals-achieve-results.jpeg&quot; alt=&quot;Don't Just Set Goals. Achieve Results.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Everyone is familiar with settings goals, but not everything is familiar with achieving results. It is easy to set goals, but more difficult to achieve them. The good thing is that the more goals you achieve, the more motivated you become, as you see your achievements pile up. The trick is to set reasonable goals so that you are able to achieve them, yet still push yourself each time.&lt;/p&gt;
@@ -236,9 +236,9 @@
  
  <entry>
    <title>The Five Pillars of Getting Things Done</title>
-   <link href="http://localhost:4000/the-five-pillars-of-getting-things-done.html"/>
+   <link href="http://localhost:4000/blog/the-five-pillars-of-getting-things-done.html"/>
    <updated>2017-10-12T00:00:00-04:00</updated>
-   <id>http://localhost:4000/the-five-pillars-of-getting-things-done</id>
+   <id>http://localhost:4000/blog/the-five-pillars-of-getting-things-done</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/getting-things-done.png&quot; alt=&quot;Getting Things Done&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://gettingthingsdone.com/&quot;&gt;Getting things done&lt;/a&gt; is not about using the right app or buying the right notebook. It’s a philosophy for living your life in a clear and focused manner, that is agnostic to the underlying system that you choose to implement. In other words, it’s not about the app that you use, or the notebook that you buy. It’s about the mindset that you have.&lt;/p&gt;
@@ -332,9 +332,9 @@
  
  <entry>
    <title>Just Did It.</title>
-   <link href="http://localhost:4000/just-did-it.html"/>
+   <link href="http://localhost:4000/blog/just-did-it.html"/>
    <updated>2017-09-11T00:00:00-04:00</updated>
-   <id>http://localhost:4000/just-did-it</id>
+   <id>http://localhost:4000/blog/just-did-it</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/just-did-it.jpeg&quot; alt=&quot;Just did it.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A common roadblock that many people — including myself — come across when trying to do anything, is always waiting for things to be perfect before starting.&lt;/p&gt;
