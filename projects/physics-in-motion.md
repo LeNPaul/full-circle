@@ -19,4 +19,4 @@ Fortunately, with the prevalence of computers in recent times, I believe there i
 
 This is my goal for [Physics in Motion](http://www.physicsinmotion.ca/) - to create dynamics lessons that allow students to learn physics the way it was meant to be taught: through motion.
 
-If this interests you as well, feel free to check out this project linked in the image above. It is currently in its early stages, and for now, there is only static content on the site, but I hope to push out interactive lessons soon.
+If this interests you as well, feel free to check out this project linked in the image above. It is currently in its early stages, and for now, there is only static content on the site, but I hope to push out interactive lessons soon. The development web application can be viewed on the [development server](https://dev.physicsinmotion.ca/).
