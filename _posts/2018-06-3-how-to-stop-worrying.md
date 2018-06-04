@@ -23,3 +23,9 @@ Usually, before I get to the final step, I realize how silly my worries were to 
 Here is a favourite quote of mine that sums it all up nicely:
 
 > I’ve had a lot of worries in my life, most of which never happened. -Mark Twain
+
+### References
+
+[How to Stop Worrying and Start Living by Dale Carnegie](https://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living)
+
+*Also published on [Medium](https://medium.com/@LeNPaul/how-i-stop-worrying-and-start-living-3ab8107616a0)*
