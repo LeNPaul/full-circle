@@ -4,13 +4,56 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-02-24T22:34:21-05:00</updated>
+ <updated>2018-06-22T23:19:59-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>How I Stop Worrying (And Start Living)</title>
+   <link href="http://localhost:4000/blog/how-to-stop-worrying.html"/>
+   <updated>2018-06-03T00:00:00-04:00</updated>
+   <id>http://localhost:4000/blog/how-to-stop-worrying</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/how-to-stop-worrying.jpg&quot; alt=&quot;How to Stop Worrying&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is something that I learned from reading &lt;a href=&quot;https://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living&quot;&gt;“How to Stop Worrying and Start Living”, by Dale Carnegie&lt;/a&gt;, which has helped me immensely in overcoming moments in my life where I have experienced a lot of worry and anxiety:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Clarify exactly what is it that is bothering you, and what is causing you to feel the way you do.&lt;/strong&gt; For example, let’s say you are worried about being judged because you got a weird haircut. Your weird haircut is bothering you because you are afraid that everyone will make fun of you.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Now take this scenario, and imagine the worse possible situation that may arise out of it.&lt;/strong&gt; If you got a weird haircut and are worried about being made fun of, then the worse possible situation is everyone you know making fun of your for your haircut, and you being shunned from society.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The next step is to accept as best you can the worst possible situation.&lt;/strong&gt; People are going to make fun of you? Let them, it’s no big deal. If that is what is going to happen, then it will happen, and there is nothing much you can do if that happens but to wait it out. If you get shunned from society, prepare to move to a new country.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The final step is to meditate, and then start coming up with solutions to mitigate the worst possible scenario.&lt;/strong&gt; Now that you have accepted the worst possible scenario, you have nowhere to go but up. Start coming up with solutions to make the situation better. If you got a weird haircut, maybe you can still style it differently to make it look better. Or you can just wear a hat until it grows back. It’s hair after all.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Follow through with your plan and prepare for the worst.&lt;/strong&gt; Hopefully by now, you’ll have realized how silly your worries were to begin with — except now you have clear head, and are able to rationally handle the situation. Follow whatever solutions you came up with, and hope for the best.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Usually, before I get to the final step, I realize how silly my worries were to begin with. Often, without clarifying what it was that was bothering me, my mind ends up running wild with irrational fears and anxieties that had nothing to do with my original worry. I find that meditation helps immensely to put things into perspective, and to be able to think rationally about a problem.&lt;/p&gt;
+
+&lt;p&gt;Here is a favourite quote of mine that sums it all up nicely:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ve had a lot of worries in my life, most of which never happened. -Mark Twain&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living&quot;&gt;How to Stop Worrying and Start Living by Dale Carnegie&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Also published on &lt;a href=&quot;https://medium.com/@LeNPaul/how-i-stop-worrying-and-start-living-3ab8107616a0&quot;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Building Resilience</title>
