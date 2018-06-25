@@ -9,3 +9,5 @@ To build the site, run the following commands:
 `jekyll serve`
 
 `node server.js`
+
+Currently deployed to a Digital Ocean Droplet, and managed using pm2.
