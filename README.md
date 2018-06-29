@@ -6,6 +6,8 @@ Coming full circle after spending a lot of time trying to create my personal web
 
 To build the site, run the following commands:
 
-`jekyll serve`
+1. Run `jekyll serve` to generate the static files, and then stop the Jekyll server.
 
-`node server.js`
+2. Run `node server.js` to serve the static files using a Node server.
+
+Currently deployed to a Digital Ocean Droplet, and managed using pm2.
