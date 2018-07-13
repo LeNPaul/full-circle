@@ -13,7 +13,7 @@ title: Projects
     {% endfor %}
   </div>
 </section>
-
+<!--
 <section>
   <h1>Side Projects</h1>
   <div class="project-container">
@@ -25,3 +25,4 @@ title: Projects
     {% endfor %}
   </div>
 </section>
+-->
