@@ -17,8 +17,8 @@ main-projects:
 - {name: 'applepy', image: 'gun.jpg', file: 'projects/applepy.html', blurb: 'The intersection between physics and computer science.'}
 - {name: 'Jekyll Themes', image: 'box.jpg', file: 'projects/jekyll-themes.html', blurb: 'Static website projects.'}
 
-side-projects:
-- {name: 'FogBugz + Trello Integration ', image: '', file: 'projects/fogbugz-trello-integration.html', blurb: 'Improving workflow at work.'}
+#side-projects:
+#- {name: 'FogBugz + Trello Integration ', image: '', file: 'projects/fogbugz-trello-integration.html', blurb: 'Improving workflow at work.'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
