@@ -10,4 +10,4 @@ To build the site, run the following commands:
 
 2. Run `node server.js` to serve the static files using a Node server.
 
-Currently deployed to a Digital Ocean Droplet, and managed using pm2.
+Currently deployed to a Digital Ocean Droplet, and managed using pm2. The domain name is managed by Namecheap.
