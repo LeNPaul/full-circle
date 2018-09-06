@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 <section>
-  <h1>Main Projects</h1>
+<!--  <h1>Main Projects</h1>  -->
   <div class="project-container">
     {% for project in site.data.settings.main-projects %}
       <a href="{{ site.github.url }}/{{ project.file }}">
@@ -13,7 +13,7 @@ title: Projects
     {% endfor %}
   </div>
 </section>
-
+<!--
 <section>
   <h1>Side Projects</h1>
   <div class="project-container">
@@ -25,3 +25,4 @@ title: Projects
     {% endfor %}
   </div>
 </section>
+-->
