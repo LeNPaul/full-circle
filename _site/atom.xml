@@ -4,13 +4,32 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-05T20:09:44-04:00</updated>
+ <updated>2018-09-07T00:05:35-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Avoiding the Perfection Trap</title>
+   <link href="http://localhost:4000/blog/avoiding-the-perfection-trap.html"/>
+   <updated>2018-09-06T00:00:00-04:00</updated>
+   <id>http://localhost:4000/blog/avoiding-the-perfection-trap</id>
+   <content type="html">&lt;p&gt;A common roadblock that many people come across when starting something new is the idea that they must wait for perfect conditions to happen in order for them to start. This idea ends up being a trap, as perfect conditions rarely ever occur — most people end up never starting whatever it is that they wanted to start.&lt;/p&gt;
+
+&lt;p&gt;This trap can be seen whenever someone procrastinates.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/avoiding-the perfection-trap.jpeg&quot; alt=&quot;Avoiding the Perfection Trap&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Often, the reason for procrastination is the preconceived notion that whatever it is they must be doing must be done to perfection. As a result, they avoid doing it, until a moment of insight comes and everything suddenly falls into place. Ultimately, the reason why people never end up doing whatever it is that they want to do in life is because of procrastination.&lt;/p&gt;
+
+&lt;p&gt;You can best avoid this trap by just starting whatever it is that you must start, no matter how bad it will end up being. It is better to do something that isn’t completely perfect, than to not have anything to show. In reality, things in life are rarely perfect anyways, and those who at least have something to show end up successful.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Also published on &lt;a href=&quot;https://medium.com/@LeNPaul/avoiding-the-perfection-trap-64de769aa602&quot;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>How I Stop Worrying (And Start Living)</title>
