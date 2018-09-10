@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-09T00:13:14-04:00</updated>
+ <updated>2018-09-09T23:56:32-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -36,9 +36,9 @@
    <link href="http://localhost:4000/blog/the-importance-of-doing.html"/>
    <updated>2018-06-09T00:00:00-04:00</updated>
    <id>http://localhost:4000/blog/the-importance-of-doing</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/img/the-importance-of-doing.jpeg&quot; alt=&quot;The Importance of Doing&quot; /&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;There is an interesting lesson hidden within &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Little_Prince&quot;&gt;Le Petit Prince&lt;/a&gt; by &lt;a href=&quot;https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry&quot;&gt;Antoine de Saint-Exupéry&lt;/a&gt; (one of my favourite children’s book of all time).&lt;/p&gt;
 
-&lt;p&gt;There is an interesting lesson hidden within &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Little_Prince&quot;&gt;Le Petit Prince&lt;/a&gt; by &lt;a href=&quot;https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry&quot;&gt;Antoine de Saint-Exupéry&lt;/a&gt; (one of my favourite children’s book of all time).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/the-importance-of-doing.jpeg&quot; alt=&quot;The Importance of Doing&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In the story, the Little Prince visits a planet inhabited solely by a geographer. The geographer gets excited, thinking that the Little Prince is an explorer…&lt;/p&gt;
 

@@ -4,9 +4,9 @@ title: "The Importance of Doing"
 category: blog
 ---
 
-![The Importance of Doing]({{ "/assets/img/the-importance-of-doing.jpeg" }})
-
 There is an interesting lesson hidden within [Le Petit Prince](https://en.wikipedia.org/wiki/The_Little_Prince) by [Antoine de Saint-Exupéry](https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry) (one of my favourite children’s book of all time).
+
+![The Importance of Doing]({{ "/assets/img/the-importance-of-doing.jpeg" }})
 
 In the story, the Little Prince visits a planet inhabited solely by a geographer. The geographer gets excited, thinking that the Little Prince is an explorer…
 
