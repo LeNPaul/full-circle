@@ -4,7 +4,7 @@ title: "How I Stop Worrying (And Start Living)"
 category: blog
 ---
 
-![How to Stop Worrying]({{ "/assets/img/how-to-stop-worrying.jpg" }})
+![Death to Stock]({{ "/assets/img/how-to-stop-worrying.jpg" }})
 
 Here is something that I learned from reading [“How to Stop Worrying and Start Living”, by Dale Carnegie](https://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living), which has helped me immensely in overcoming moments in my life where I have experienced a lot of worry and anxiety:
 
