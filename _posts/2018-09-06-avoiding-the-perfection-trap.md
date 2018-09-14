@@ -8,7 +8,7 @@ A common roadblock that many people come across when starting something new is t
 
 This trap can be seen whenever someone procrastinates.
 
-![Sticky Notes]({{ "/assets/img/avoiding-the perfection-trap.jpeg" }})
+![Death to Stock]({{ "/assets/img/avoiding-the perfection-trap.jpeg" }})
 
 Often, the reason for procrastination is the preconceived notion that whatever it is they must be doing must be done to perfection. As a result, they avoid doing it, until a moment of insight comes and everything suddenly falls into place. Ultimately, the reason why people never end up doing whatever it is that they want to do in life is because of procrastination.
 
