@@ -4,7 +4,7 @@ title: "Learning a Programming Language in One Night"
 category: blog
 ---
 
-![Learning a Programming Language in One Night]({{ "/assets/img/learning-programming-one-night.jpeg" }})
+![Death to Stock]({{ "/assets/img/learning-programming-one-night.jpeg" }})
 
 I learned a new programming language in one night once.
 
