@@ -4,13 +4,32 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-17T22:43:48-04:00</updated>
+ <updated>2018-09-18T23:50:02-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Why Wait?</title>
+   <link href="http://localhost:4000/blog/why-wait.html"/>
+   <updated>2018-09-11T00:00:00-04:00</updated>
+   <id>http://localhost:4000/blog/why-wait</id>
+   <content type="html">&lt;p&gt;Every new year, people make resolutions to be better. For whatever reason, New Years Eve is special: a new year, means a new you, right?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/why-wait.jpeg&quot; alt=&quot;Death to Stock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But if you think about it, New Years Eve isn’t all that special of an event. What makes the passing of a year different from say, the passing of a month? Or the passing of a day? Why don’t people celebrate other points on the calendar?&lt;/p&gt;
+
+&lt;p&gt;The new year shouldn’t be the only time when you decide to be better, and you shouldn’t have to wait for the new year in order to set goals for yourself. A new year is no different from a new month, or a new day.&lt;/p&gt;
+
+&lt;p&gt;Any moment of your life is a good time for you to start improving yourself. Don’t wait for next year, start now.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Also published on &lt;a href=&quot;https://medium.com/@LeNPaul/why-wait-6e43345a1234&quot;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Avoiding the Perfection Trap</title>
