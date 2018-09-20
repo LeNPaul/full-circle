@@ -6,7 +6,7 @@ category: blog
 
 Often, when people first start out trying to achieve a goal, they try to set ambitious goals.
 
-![Death to Stock]({{ "/assets/img/.jpeg" }})
+![Death to Stock]({{ "/assets/img/one-step-at-a-time.jpeg" }})
 
 Don’t get me wrong, there is nothing wrong with that. In fact, you should be setting ambitious goals, all the time.
 
@@ -23,3 +23,5 @@ As you start building the habit, and associating achieving your goal with a good
 Slowly, you start to build up the habit even more, and set more and more ambitious goals. Before you know it, you’ll be running marathons. And losing weight.
 
 Start small, and build your way up.
+
+*Also published on [Medium](https://medium.com/@LeNPaul/one-step-at-a-time-83b1d0a1cc87)*

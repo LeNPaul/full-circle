@@ -4,13 +4,42 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-18T23:50:02-04:00</updated>
+ <updated>2018-09-19T23:44:17-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>One Step at a Time.</title>
+   <link href="http://localhost:4000/blog/one-step-at-a-time.html"/>
+   <updated>2018-09-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/blog/one-step-at-a-time</id>
+   <content type="html">&lt;p&gt;Often, when people first start out trying to achieve a goal, they try to set ambitious goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/one-step-at-a-time.jpeg&quot; alt=&quot;Death to Stock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong, there is nothing wrong with that. In fact, you should be setting ambitious goals, all the time.&lt;/p&gt;
+
+&lt;p&gt;The problem is, they set ambitious goals, and then they have unrealistic expectations as to how it will all turn out. When they eventually fail, they get discouraged, and then in many cases never try again.&lt;/p&gt;
+
+&lt;p&gt;A more reasonable approach is to instead start small. Have big, ambitious, extraordinary goals, but break them down into many smaller ones. How small? So small that it’s almost impossible for you to not achieve them.&lt;/p&gt;
+
+&lt;p&gt;For example, let’s say you want to lose weight. Rather than telling yourself that you will suddenly go from sitting in front of a computer all day, to going to the gym every single day at 6:00 am for 2 hours, set a goal of just simply walking more often.&lt;/p&gt;
+
+&lt;p&gt;Try to quantify it if you can. Invest in a cheap pedometer, and see how many steps you usually take, and make a reasonable goal (say, 50 more steps). Then, stick to it. Build the habit. Enjoy those small wins.&lt;/p&gt;
+
+&lt;p&gt;As you start building the habit, and associating achieving your goal with a good feeling, you will want to do it more and more. Hopefully, by then it’ll start to feel weird if you don’t achieve it.&lt;/p&gt;
+
+&lt;p&gt;Slowly, you start to build up the habit even more, and set more and more ambitious goals. Before you know it, you’ll be running marathons. And losing weight.&lt;/p&gt;
+
+&lt;p&gt;Start small, and build your way up.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Also published on &lt;a href=&quot;https://medium.com/@LeNPaul/one-step-at-a-time-83b1d0a1cc87&quot;&gt;Medium&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Why Wait?</title>
