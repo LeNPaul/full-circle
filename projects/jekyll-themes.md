@@ -13,16 +13,16 @@ I currently have three Jekyll themes that are actively being maintained (see bel
 
 Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. This theme is currently being used by about a hundred people, with this number growing every day. Check out [the demo](https://lenpaul.github.io/Lagrange), as well as the [the GitHub repository](https://github.com/LeNPaul/Lagrange) for the documentation on how to use this theme.
 
-[![Lagrange]({{ "/assets/img/lagrange-full.png" }})](https://lenpaul.github.io/Lagrange/)
+[![Lagrange]({{ site.baseurl }}{{ "/assets/img/lagrange-full.png" }})](https://lenpaul.github.io/Lagrange/)
 
 ## Millennial
 
 Millennial is another minimalist Jekyll theme that I built from scratch, similar to Lagrange, except that this theme was made for running an online publication. The purpose is to provide a simple, clean, distraction-free platform for delivering content. Check out [the demo](https://lenpaul.github.io/Millennial/), as well as the [the GitHub repository](https://github.com/LeNPaul/Millennial/) for the documentation on how to use this theme.
 
-[![Millennial]({{ "/assets/img/millennial-full.png" }})](https://lenpaul.github.io/Millennial/)
+[![Millennial]({{ site.baseurl }}{{ "/assets/img/millennial-full.png" }})](https://lenpaul.github.io/Millennial/)
 
 ## Portfolio Jekyll Theme
 
 This Jekyll theme was adopted from one of the first portfolio websites that I had built for myself, which was also built using Jekyll. Following the design considerations of my first two Jekyll themes, I made this a very clean, simple, and minimalist website, to clearly display to an audience my projects, as well as any blog posts that I had written. Check out [the demo](https://lenpaul.github.io/portfolio-jekyll-theme/), as well as the [the GitHub repository](https://github.com/LeNPaul/portfolio-jekyll-theme/) for the documentation on how to use this theme.
 
-[![Millennial]({{ "/assets/img/portfolio-jekyll-theme-full.png" }})](https://github.com/LeNPaul/portfolio-jekyll-theme/)
+[![Millennial]({{ site.baseurl }}{{ "/assets/img/portfolio-jekyll-theme-full.png" }})](https://github.com/LeNPaul/portfolio-jekyll-theme/)

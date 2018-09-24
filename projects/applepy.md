@@ -17,6 +17,6 @@ This project is currently in the early development stages, and there are plans t
 
 Below is what one of the very first versions looked like (those little white dots represent point masses that move based on how the force of gravity affects the masses):
 
-[![applepy]({{ "/assets/img/applepy-old.jpg" }})](https://github.com/LeNPaul/applepy)
+[![applepy]({{ site.baseurl }}{{ "/assets/img/applepy-old.jpg" }})](https://github.com/LeNPaul/applepy)
 
 So far, this program is able to inefficiently do basic n-body simulations, using the [Euler method](https://en.wikipedia.org/wiki/Euler_method) of solving for the equations of motion. Check out the [GitHub repository](https://github.com/LeNPaul/applepy) for this project for the source code, and some additional information.

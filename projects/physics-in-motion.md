@@ -5,7 +5,7 @@ title: 'Physics in Motion'
 
 <h1 class="page-title">{{ page.title }}</h1>
 
-[![Physics in Motion]({{ "/assets/img/physics-in-motion.png" }})](http://www.physicsinmotion.ca/)
+[![Physics in Motion]({{ site.baseurl }}{{ "/assets/img/physics-in-motion.png" }})](http://www.physicsinmotion.ca/)
 
 Physics is the study of nature. It is a dynamic and exciting subject, full of many mysteries and intriguing ideas.
 
