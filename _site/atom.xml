@@ -4,13 +4,22 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-09-19T23:44:17-04:00</updated>
+ <updated>2018-09-23T22:56:19-04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Focus Focus</title>
+   <link href="http://localhost:4000/focus-focus.html"/>
+   <updated>2018-09-18T00:00:00-04:00</updated>
+   <id>http://localhost:4000/focus-focus</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>One Step at a Time.</title>
