@@ -4,7 +4,7 @@ title: "Don’t Just Set Goals. Achieve Results."
 category: blog
 ---
 
-![Death to Stock]({{ "/assets/img/dont-set-goals-achieve-results.jpeg" }})
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/dont-set-goals-achieve-results.jpeg" }})
 
 Everyone is familiar with settings goals, but not everything is familiar with achieving results. It is easy to set goals, but more difficult to achieve them. The good thing is that the more goals you achieve, the more motivated you become, as you see your achievements pile up. The trick is to set reasonable goals so that you are able to achieve them, yet still push yourself each time.
 

@@ -4,7 +4,7 @@ title: "The Five Pillars of Getting Things Done"
 category: blog
 ---
 
-![Wikipedia]({{ "/assets/img/getting-things-done.png" }})
+![Wikipedia]({{ site.baseurl }}{{ "/assets/img/getting-things-done.png" }})
 
 [Getting things done](http://gettingthingsdone.com/) is not about using the right app or buying the right notebook. It’s a philosophy for living your life in a clear and focused manner, that is agnostic to the underlying system that you choose to implement. In other words, it’s not about the app that you use, or the notebook that you buy. It’s about the mindset that you have.
 

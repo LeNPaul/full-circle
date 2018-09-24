@@ -6,7 +6,7 @@ category: blog
 
 There is an interesting lesson hidden within [Le Petit Prince](https://en.wikipedia.org/wiki/The_Little_Prince) by [Antoine de Saint-Exupéry](https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry) (one of my favourite children’s book of all time).
 
-![The Little Prince]({{ "/assets/img/the-importance-of-doing.jpeg" }})
+![The Little Prince]({{ site.baseurl }}{{ "/assets/img/the-importance-of-doing.jpeg" }})
 
 In the story, the Little Prince visits a planet inhabited solely by a geographer. The geographer gets excited, thinking that the Little Prince is an explorer…
 
@@ -26,7 +26,7 @@ In the story, the Little Prince visits a planet inhabited solely by a geographer
 
 This sounds great! The Little Prince has finally found someone who seemed to know a thing or two about something, unlike the previous people he had visited. Upon further inquiry though, the Little Prince discovers something about the geographer…
 
-![The Geographer]({{ "/assets/img/the-importance-of-doing-geographer.jpeg" }})
+![The Geographer]({{ site.baseurl }}{{ "/assets/img/the-importance-of-doing-geographer.jpeg" }})
 
 > “Your planet is very beautiful,” he said. “Has it any oceans?”
 

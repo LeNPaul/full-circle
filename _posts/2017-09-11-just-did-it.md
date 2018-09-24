@@ -4,7 +4,7 @@ title: "Just Did It."
 category: blog
 ---
 
-![Death to Stock]({{ "/assets/img/just-did-it.jpeg" }})
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/just-did-it.jpeg" }})
 
 A common roadblock that many people — including myself — come across when trying to do anything, is always waiting for things to be perfect before starting.
 
