@@ -4,6 +4,8 @@ title: "Using Failure to Your Advantage"
 category: blog
 ---
 
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/failure-advantage.jpeg" }})
+
 Being in a situation that is out of your comfort zone is rarely ever pleasing. Our brains are hardwired to always avoid danger, which in modern times includes our idea of failure.
 
 Although this trait has continued to serve us well for millions of years, in some cases it can hinder our personal development. We avoid things that we perceive as dangerous (even though in the grand scheme of things they are really harmless), and we stick to our comfort zones. Any attempt to leave this comfort zone results in us eventually returning back to it.
@@ -22,4 +24,6 @@ What failure should not do is discourage you, or cause you to give up. Every suc
 
 The only true failure is when you stop trying, and give up.
 
-I have not failed. I’ve just found 10,000 ways that won’t work” — Thomas Edison
+> I have not failed. I’ve just found 10,000 ways that won’t work” — Thomas Edison
+
+*Also published on [Medium](https://medium.com/@LeNPaul/using-failure-to-your-advantage-5b96e19f07ca)*
