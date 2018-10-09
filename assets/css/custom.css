@@ -10,3 +10,7 @@
 .blog-container p {
   color: black;
 }
+
+.post img {
+  margin: 0 auto 1rem;
+}
