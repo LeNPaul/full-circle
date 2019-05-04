@@ -14,15 +14,17 @@ An important characteristic of many keystone habits is that they are often habit
 
 **Here are some keystone habits that I personally practice myself in my own life, that I feel have the greatest impact:**
 
-
 ### Journaling
+
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/keystone-habits-1.png" }})
 
 I personally keep a journal that I write in regularly, at least once a week. I have a dedicated journal where I write about what is going on in my life at the moment, and my thoughts and feelings on it all. I find it helps me to organize my thoughts better. Many times, it serves as a cathartic release for me. As a bonus, it serves as a record of my thoughts at a given time, and I enjoy reading back on past entries, and seeing how much I’ve changed since then.
 
 There are of course many benefits of journaling. These benefits include improved physiological and mental well-being, improved mindfulness and happiness, and improved focus, memory and cognitive ability, among many other benefits.
 
-
 ### Exercise
+
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/keystone-habits-2.png" }})
 
 This may seem like an obvious one, but there are many more benefits of exercising than people realize:
 
@@ -30,8 +32,9 @@ This may seem like an obvious one, but there are many more benefits of exercisin
 
 You can read my post on [making exercise a habit](https://hungryminds.quora.com/Making-Exercise-a-Habit) for a good approach to building this habit.
 
-
 ### Reading
+
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/keystone-habits-3.png" }})
 
 In my opinion, reading is one of the best habits that I have developed in my life. Although I have always been a bookworm from a very young age, as I grew older I found I had less and less time to read. By the end of high school I was only reading books assigned to me from school. Fortunately, I was able to reignite this habit, and [made reading a habit once more](https://hungryminds.quora.com/How-to-Make-Reading-a-Habit).
 
