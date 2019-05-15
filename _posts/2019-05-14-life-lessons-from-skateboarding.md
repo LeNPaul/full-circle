@@ -28,8 +28,10 @@ Again, you will inevitably fail when you first learn something new. For many peo
 
 ### You have to take risks, but only calculated risks. Don't be stupid.
 
-This one is one of the most important lessons you can ever learn. There will always be risks that you have to take in order to move forward in life, but these risks should not be stupid risks. They should be calculated risks, risks that you know are just beyond your comfort zone, but are doable if you push yourself just a little bit.
+This one is one of the most important lessons you can ever learn. There will always be risks that you have to take in order to move forward in life, but these risks *should not* be stupid risks. They should be calculated risks, risks that you know are just beyond your comfort zone, but are doable if you push yourself just a little bit.
 
-I was fortunate enough to have picked up skateboarding at an early age, where I was able to learn these lessons slowly over time. Although I didn't do any sports growing up, skateboarding was the one activity that I did that I was truly passionate about, that in a way was a sport. 
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/lessons-from-skateboarding.jpeg" }})
+
+I was fortunate enough to have picked up skateboarding at an early age, where I was able to learn these lessons slowly over time. Although I didn't do any sports growing up, skateboarding was the one activity that I did that I was truly passionate about, that in a way *was* a sport. 
 
 I think these lessons can be learned from  any sport, not just skateboarding, as it just so happens to be with me. These are the kinds of lessons that I think everyone should learn at some point in their lives. I know that they have helped me in many ways in my own life.
