@@ -4,6 +4,8 @@ title: "It Costs Nothing to Ask"
 category: blog
 ---
 
+<hr>
+
 It costs nothing to ask.
 
 These were words told to me by my father a few a few years ago, and since then, they have been constant theme in my life.
