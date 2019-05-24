@@ -14,7 +14,7 @@ It was during this time that my time management and organization abilities were 
 
 ### What is Human-Centered Designed?
 
-According to Design Kit, Human-Centered Design can be summarized as follows:
+According to [Design Kit](http://www.designkit.org/human-centered-design), Human-Centered Design can be summarized as follows:
 
 > It’s a process that starts with the people you’re designing for and ends with new solutions that are tailor made to suit their needs. Human-centered design is all about building a deep empathy with the people you’re designing for; generating tons of ideas; building a bunch of prototypes; sharing what you’ve made with the people you’re designing for; and eventually putting your innovative new solution out in the world.
 
