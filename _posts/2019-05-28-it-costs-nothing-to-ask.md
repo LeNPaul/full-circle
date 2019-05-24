@@ -4,6 +4,16 @@ title: "It Costs Nothing to Ask"
 category: blog
 ---
 
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/it-costs-nothing-to-ask.jpeg" }})
+
+The following is a transcript of the first speech that I ever did for a Toastmasters club meeting.
+
+For those that don't know, Toastmasters is an international non-profit organization that facilitates club meetings all over the world that help people with their public speaking and leadership skills.
+
+Public speaking has always been something that has intimidated me, especially since I was very shy growing up. At some point during my university years though, the fear of public speaking mostly went away, but I always felt that my public speaking ability was always lacking (not being afraid of public speaking is not the same as being good at public speaking).
+
+For that reason, I decided to leave my comfort zone of where I was with my public speaking ability, and join a local Toastmasters club. The following is my Ice Breaker speech, which is the first speech that all new Toastmasters members do when they join a club.
+
 <hr>
 
 It costs nothing to ask.
