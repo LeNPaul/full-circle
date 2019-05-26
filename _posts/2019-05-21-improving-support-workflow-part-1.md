@@ -53,7 +53,7 @@ The original support workflow was as follows:
 
 6. Once the client is satisfied, then mark the ticket “Closed”.
 
-Although the original workflow worked just fine, there were a few things that could have been improved on. For example, once the support ticket has been assigned to yourself in step 3, all changes to the support ticket must be done on FogBugz, which doesn’t have a very user-friendly interface, and can get tedious when making changes to the state of the support tickets.
+Although the original workflow worked just fine, there were a few things that could have been improved on. For example, once the support ticket has been assigned to yourself in step 3, all changes to the support ticket must be done on [FogBugz](https://www.fogbugz.com/), which doesn’t have a very user-friendly interface, and can get tedious when making changes to the state of the support tickets.
 
 Once a ticket was assigned to yourself and marked “Resolved (Responded)” on the web application, you would have to find the ticket again on FogBugz by searching based on the ticket’s identification number, if you wanted to close the ticket. It does not remain shown on the web application, so there is no way to keep track of all of the tickets that you are working on from the beginning of the workflow to the very end. In addition, once a ticket has been closed, it becomes very hard to find the ticket again.
 
@@ -87,6 +87,6 @@ This solution would probably have each of the 5 categories as a list, and I woul
 
 At first, I tried just writing down all of the support tickets that I am working on in a notebook (I tried both physical and digital), but I found that it was difficult to keep track of tickets still, especially when there was a high volume. Support tickets were too dynamic, and at a given time there may be many tickets in many different states.
 
-Fortunately, I have been a long-time user of Trello, a web application based around the Kanban system of project and task management, and realized that it would be a perfect tool to use for my prototype.
+Fortunately, I have been a long-time user of [Trello](https://trello.com/), a web application based around the Kanban system of project and task management, and realized that it would be a perfect tool to use for my prototype.
 
 ### To be continued in part II
