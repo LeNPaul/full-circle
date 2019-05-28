@@ -6,7 +6,7 @@ category: blog
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/it-costs-nothing-to-ask.jpeg" }})
 
-The following is a transcript of the first speech that I ever did for a Toastmasters club meeting.
+The following is a transcript of the first speech that I ever did for a [Toastmasters](https://www.toastmasters.org/) club meeting.
 
 For those that don't know, Toastmasters is an international non-profit organization that facilitates club meetings all over the world that help people with their public speaking and leadership skills.
 
