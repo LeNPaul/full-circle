@@ -38,6 +38,7 @@ The actual process that I followed looked something like this:
 
 ## Discovery
 
+
 ### Original Workflow
 
 The original support workflow was as follows:
