@@ -16,7 +16,7 @@ For that reason, I decided to leave my comfort zone of where I was with my publi
 
 <hr>
 
-It costs nothing to ask.
+*It costs nothing to ask.
 
 These were words told to me by my father a few a few years ago, and since then, they have been constant theme in my life.
 
@@ -58,4 +58,4 @@ Since then, I took the chance that I was given, and worked hard to learn and imp
 
 I joined Toastmasters, because I recognize that communication is a skill that I have a lot to work on. Constantly communicating effectively with clients is an important part of my job. I am excited to be a part of Toastmasters, as I work on improving my communication skills.
 
-Thank you very much.
+Thank you very much.*
