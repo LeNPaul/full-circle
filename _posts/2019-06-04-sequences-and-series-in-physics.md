@@ -8,9 +8,9 @@ category: blog
 
 One thing I wish my mathematics professors emphasized more (or at least mentioned in passing) was how useful sequences and series are in physics, especially Taylor Series.
 
-The main idea with Taylor Series is that you can represent any analytic function as an infinite sum of terms calculated from the values of the function's derivatives at a single point.
+The main idea with [Taylor Series](https://en.wikipedia.org/wiki/Taylor_series) is that you can represent any analytic function as an infinite sum of terms calculated from the values of the function's derivatives at a single point.
 
-Any function that can be represented as a Taylor Series can be approximated using a finite number of terms of its Taylor Series, typically by only looking at the first few terms in the series.
+> Any function that can be represented as a Taylor Series can be approximated using a finite number of terms of its Taylor Series, typically by only looking at the first few terms in the series.
 
 What this means is, given a complicated function, you can approximate what that function will look like near a given point, typically by using a line or even a parabola:
 
@@ -22,14 +22,14 @@ This is a very powerful idea, because often times in physics, the best we can do
 
 You will definitely come across this in your classical mechanics class at some point, most notably when you study Hooke's Law again. If you look at the graph above, you will notice that it is a graph plotting the force exerted by a Hookean spring as a function of its displacement from its equilibrium position.
 
-The dotted line is how the spring actually behaves, but it is a very complicated and nasty function (in this case it looks like a cubic function, but many times we are not that lucky), and the red line represents Hooke's Law, which is simply the second term of the Taylor Series representation of the dotted line function:
+The dotted line is how the spring actually behaves, but it is a very complicated and nasty function (in this case it looks like a cubic function, but many times we are not that lucky), and the red line represents [Hooke's Law](https://en.wikipedia.org/wiki/Hooke's_law), which is simply the second term of the Taylor Series representation of the dotted line function:
 
 If we take the constant to be at the origin, you get Hooke's Law (the first term is a constant we can ignore in this case because it is zero, and the factor in front of the second term is equal to -k, which we determine experimentally):
 
-This is only one, albeit an important application of sequences and series. 
+**This is only one, albeit an important application of sequences and series.**
 
 When you take introductory quantum mechanics, you learn how to use power series to solve the Schrödinger equation, in the context of a harmonic oscillator. Here is what that looks like, for some motivation: Harmonic oscillator - series solution
 
 ---
 
-Adapted from my answer to a question on Quora.
+Adapted from [my answer to a question on Quora](https://www.quora.com/Are-series-and-sequences-used-in-physics/answer/Paul-Le-2).
