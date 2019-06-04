@@ -4,8 +4,6 @@ title: "Sequences and Series in Physics"
 category: blog
 ---
 
----
-
 One thing I wish my mathematics professors emphasized more (or at least mentioned in passing) was how useful sequences and series are in physics, especially Taylor Series.
 
 The main idea with [Taylor Series](https://en.wikipedia.org/wiki/Taylor_series) is that you can represent any analytic function as an infinite sum of terms calculated from the values of the function's derivatives at a single point.
