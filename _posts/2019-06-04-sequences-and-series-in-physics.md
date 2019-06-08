@@ -12,6 +12,8 @@ The main idea with [Taylor Series](https://en.wikipedia.org/wiki/Taylor_series) 
 
 What this means is, given a complicated function, you can approximate what that function will look like near a given point, typically by using a line or even a parabola:
 
+![]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-1.png" }})
+
 Notice how the dotted line fits pretty nicely with the red line near the origin. Think of the dotted line as a complicated, nasty function, and the red line as an approximation of that complicated, nasty function, that works pretty well if you stay close to the origin. Where do you get the red line from?
 
 It's the first two terms of the Taylor Series, which is essentially a line:
