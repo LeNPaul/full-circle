@@ -18,6 +18,8 @@ Notice how the dotted line fits pretty nicely with the red line near the origin.
 
 It's the first two terms of the Taylor Series, which is essentially a line:
 
+![]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-2.png" }})
+
 This is a very powerful idea, because often times in physics, the best we can do is approximate. The Taylor Series representation of a function is a tool that allows us to approximate many things, and in many cases (like above, with the complicated, nasty function) simplifies things greatly, without sacrificing too much accuracy.
 
 You will definitely come across this in your classical mechanics class at some point, most notably when you study Hooke's Law again. If you look at the graph above, you will notice that it is a graph plotting the force exerted by a Hookean spring as a function of its displacement from its equilibrium position.
