@@ -4,7 +4,7 @@ title: "Improving Support Workflow Through Human-Centered Design Part I"
 category: blog
 ---
 
-![Stock Photo]({{ site.baseurl }}{{ "/assets/img/human-centered-design-part-1.jpeg" }})
+![Stock Photo]({{ site.baseurl }}{{ "/assets/img/human-centered-design-part-1-1.jpeg" }})
 
 Part of my job at work involves taking on support tickets that come in from our clients. This entails taking responsibility for the ticket, responding to it in a timely matter, following through until it is resolved, and ensuring the client is satisfied. All of this is done in addition to other projects that I do at work.
 
@@ -83,6 +83,8 @@ Based on my experience being the main person in charge of support for a few mont
 5. Closed
 
 Every support ticket that comes in can fit into these 5 categories, and typically, during the lifecycle of a given support ticket, it may go between states two to four many times before finally being closed. So whatever improvement that I would want to make needs to have a way to easily show what state a ticket is in, as well as all of the tickets that are currently active and being worked on.
+
+![Flow of incoming support tickets and their states]({{ site.baseurl }}{{ "/assets/img/human-centered-design-part-1-1.jpeg" }})
 
 This solution would probably have each of the 5 categories as a list, and I would be placing each support ticket under one those categories, moving them around as the status of the ticket changed.
 
