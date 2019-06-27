@@ -26,7 +26,11 @@ You will definitely come across this in your classical mechanics class at some p
 
 The dotted line is how the spring actually behaves, but it is a very complicated and nasty function (in this case it looks like a cubic function, but many times we are not that lucky), and the red line represents [Hooke's Law](https://en.wikipedia.org/wiki/Hooke's_law), which is simply the second term of the Taylor Series representation of the dotted line function:
 
+![]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-3.png" }})
+
 If we take the constant to be at the origin, you get Hooke's Law (the first term is a constant we can ignore in this case because it is zero, and the factor in front of the second term is equal to -k, which we determine experimentally):
+
+![]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-4.png" }})
 
 **This is only one, albeit an important application of sequences and series.**
 
