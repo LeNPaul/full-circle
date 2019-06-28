@@ -92,4 +92,4 @@ At first, I tried just writing down all of the support tickets that I am working
 
 Fortunately, I have been a long-time user of [Trello](https://trello.com/), a web application based around the Kanban system of project and task management, and realized that it would be a perfect tool to use for my prototype.
 
-### To be continued in part II
+### [To be continued in part II]()
