@@ -21,3 +21,5 @@ The final hurdle to overcome is actually finishing your endeavor. A lot of time 
 There is a lot of value in paying attention to detail, but in reality, nothing in truly perfect. Sometimes, all you end up doing is wasting a lot of time. A good rule of thumb is that as long as your completed work is at a 8/10 level, you can consider it finished, and start on your next project.
 
 Although ideally, we would all like to be able to produce perfect work, in the end nothing will ever truly be perfect to us. Only things that have been completed will have impact, and often times these completed things are only good, but with great potential to be perfect.
+
+*Also published on [Medium](https://medium.com/@LeNPaul/perfect-is-the-enemy-of-good-2191fa1cdb85)*

@@ -39,3 +39,5 @@ When you take introductory quantum mechanics, you learn how to use power series 
 ---
 
 Adapted from [my answer to a question on Quora](https://www.quora.com/Are-series-and-sequences-used-in-physics/answer/Paul-Le-2).
+
+*Also published on [Medium](https://medium.com/@LeNPaul/sequences-and-series-in-physics-573ad0918185)*

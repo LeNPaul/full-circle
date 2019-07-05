@@ -25,3 +25,5 @@ If you are not constantly changing your mind about your views and opinions, then
 One last important thing that you should remember is that reading and learning in general should never be a purely passive activity. Don’t forget to spend time actively thinking about certain ideas, debating with yourself the many different perspectives, and questioning everything.
 
 The more you do it, the better you get.
+
+*Also published on [Medium](https://medium.com/@LeNPaul/where-do-ideas-come-from-675746a0f883)*

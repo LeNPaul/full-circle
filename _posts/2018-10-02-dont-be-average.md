@@ -17,3 +17,5 @@ When you do this, then you will realize that there are a lot of things that you 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/dont-be-average.jpeg" }})
 
 Follow those realizations, and by nature of the fact that you’re not doing what most people are doing, you will no longer be average.
+
+*Also published on [Medium](https://medium.com/@LeNPaul/dont-be-average-8d343f07603)*

@@ -57,3 +57,5 @@ It is always a good idea to pick only one habit to work on at a time. There will
 [The Power of Habit: Keystone Habits](https://sites.duke.edu/theconnection/2013/05/24/the-power-of-habit-keystone-habits/)
 
 [Can Reading Make You Happier?](http://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier)
+
+*Also published on [Medium](https://medium.com/@LeNPaul/the-importance-of-keystone-habits-37ecd25d3ce)*

@@ -59,3 +59,5 @@ For that reason, I decided to leave my comfort zone of where I was with my publi
 > I joined Toastmasters, because I recognize that communication is a skill that I have a lot to work on. Constantly communicating effectively with clients is an important part of my job. I am excited to be a part of Toastmasters, as I work on improving my communication skills.
 >
 > Thank you very much.
+
+*Also published on [Medium](https://medium.com/@LeNPaul/it-costs-nothing-to-ask-7fb5ca51fde4)*

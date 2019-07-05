@@ -57,3 +57,5 @@ Conclusion
 This little project that I did was an experiment that I did on my own time out of curiosity. I had a lot of fun pretending to be a UX designer on my spare time, and it really did give me a lot of appreciation as to how important good UX design is, in any discipline. It’s unfortunate, especially in the IT world how under-appreciated UX design can be, but I hope that after reading this, you might have a different perspective.
 
 Thank you for reading!
+
+*Also published on [Medium](https://blog.prototypr.io/improving-support-workflow-through-human-centered-design-part-ii-bf693f54f70)*

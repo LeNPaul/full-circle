@@ -35,3 +35,5 @@ This one is one of the most important lessons you can ever learn. There will alw
 I was fortunate enough to have picked up skateboarding at an early age, where I was able to learn these lessons slowly over time. Although I didn't do any sports growing up, skateboarding was the one activity that I did that I was truly passionate about, that in a way *was* a sport. 
 
 I think these lessons can be learned from  any sport, not just skateboarding, as it just so happens to be with me. These are the kinds of lessons that I think everyone should learn at some point in their lives. I know that they have helped me in many ways in my own life.
+
+*Also published on [Medium](https://medium.com/@LeNPaul/life-lessons-from-skateboarding-2f3e304355ab)*

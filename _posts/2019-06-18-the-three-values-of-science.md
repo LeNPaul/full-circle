@@ -50,3 +50,5 @@ Years later, he would give a lecture at the University of Washington, where he w
 > “The first principle is that we should not fool ourselves, and we are the easiest to fool.”
 >
 > The ultimate value of science is that science protects us from fooling ourselves. Thank you all.
+
+*Also published on [Medium](https://medium.com/@LeNPaul/the-three-values-of-science-2d5a6a273652)*

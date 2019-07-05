@@ -23,3 +23,5 @@ This is an important lesson.
 **In essence: don’t keep on making excuses for your situation in life, and wallowing in self-pity. Instead, take action and do something about it.**
 
 Life is a gift, and you want to take ownership of your own life, and make great things happen.
+
+*Also published on [Medium](https://medium.com/@LeNPaul/no-excuses-5878b9dcde61)*
