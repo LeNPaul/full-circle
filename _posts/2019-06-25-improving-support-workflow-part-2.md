@@ -6,20 +6,22 @@ category: blog
 
 In my previous post, I gave an introduction to the problem that I was trying to solve, I had talked about the process that I would take in solving that problem, and then I began going through that process and describing what I was doing at each step. If you have not read part I yet, then please check that out first, as this article is a continuation of part I.
 
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/human-centered-design-part-2-1.jpeg" }})
 
-Death to Stock
-Prototype
+### Prototype
+
 Setting up a prototype was simple — all I had to do was create a new board in Trello, and set up lists for each major state outlined in Brainstorm. As support tickets came in, I would assign them to myself and create a card in Trello to represent that support ticket. I would then move the card between the different lists, based on what state the support ticket was in.
 
+![What the Trello board looked like]({{ site.baseurl }}{{ "/assets/img/human-centered-design-part-2-2.jpeg" }})
 
-What the Trello board looked like
 I gave this a try for a few weeks, and I immediately noticed that I felt less stressed, since I have a high-level view of all of the support tickets that I was working on at a given time, and what states they were all in. I liked the ease of which I could move cards around between different lists.
 
 More importantly, I could rest assured that I would not be missing any tickets that I was working on, and that I only had to worry about what was on this Trello board.
 
 The last step to improve this even further was to automate the creation of cards, as well as automatically setting the status of each support ticket in FogBugz through the Trello user interface, without having to go into FogBugz and manually setting the status of the FogBugz tickets (which was one of the pain points outlined during the Discovery step).
 
-Integrating FogBugz with Trello
+## Integrating FogBugz with Trello
+
 Rather than having to manually create a Trello card myself every time a new support ticket came in and was assigned to myself, I wanted to automatically generate the Trello card instead. The created card should have information such as the ticket number, the subject line of the support ticket, as well as a link that would take me directly to the FogBugz page for the support ticket.
 
 To do this, I implemented some scripting in a programming language called Lua, and I used an integration engine called Iguana to run the script on a regular basis (there are other ways to do this, but I work with Iguana on a daily basis as part of my job, so it was the best tool at the time to use).
@@ -33,7 +35,8 @@ If the card was moved to the “Responded with solution” list (the Trello API 
 If the card was moved to the “Closed” list (the Trello API would be used to regularly poll this list for new cards), then change the status of the ticket on FogBugz to “Closed” using the FogBugz API.
 Automating the workflow this way also helped to solve one of the big problems that I was experiencing with the original workflow outlined in Discovery, which was that of having to use the FogBugz user interface to change the status of support tickets. This way, I would never have to actually interact with the FogBugz interface, and even if I did, the FogBugz ticket was linked in the Trello card itself which made finding the ticket significantly easier.
 
-Repeat
+## Repeat
+
 True human-centered design is an iterative process, and typically after the first iteration, there is further user testing done, after which the entire process is repeated again with the newfound insights gathered from the user testing.
 
 In this case, the user testing consisted of me using the system that I developed over the course of a few months, where I used this system on a daily basis. During that time, I did make a few changes that improved the usability of my system.
