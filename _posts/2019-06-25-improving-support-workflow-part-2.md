@@ -12,7 +12,7 @@ In my previous post, I gave an introduction to the problem that I was trying to 
 
 Setting up a prototype was simple — all I had to do was create a new board in Trello, and set up lists for each major state outlined in Brainstorm. As support tickets came in, I would assign them to myself and create a card in Trello to represent that support ticket. I would then move the card between the different lists, based on what state the support ticket was in.
 
-![What the Trello board looked like]({{ site.baseurl }}{{ "/assets/img/human-centered-design-part-2-2.jpeg" }})
+![What the Trello board looked like]({{ site.baseurl }}{{ "/assets/img/human-centered-design-part-2-2.png" }})
 
 I gave this a try for a few weeks, and I immediately noticed that I felt less stressed, since I have a high-level view of all of the support tickets that I was working on at a given time, and what states they were all in. I liked the ease of which I could move cards around between different lists.
 
