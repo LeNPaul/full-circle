@@ -4,7 +4,7 @@ title: "The Three Values of Science"
 category: blog
 ---
 
-The following is a transcript of a speech that I did for a Toastmasters club meeting a few months ago.
+The following is a transcript of a speech that I did for a [Toastmasters](https://www.toastmasters.org/) club meeting a few months ago.
 
 The objective of this speech was to research any topic that I chose, and then present a structured speech on this topic. After the speech, I would receive feedback and advice for improvement from the audience and my speech evaluator. I would then present the speech again at a later date, applying the feedback and advice that I had received.
 
@@ -47,7 +47,7 @@ Years later, he would give a lecture at the University of Washington, where he w
 >
 > To wrap up Richard Feynman’s three values of science, I would like to say again my quote from a few meetings ago.
 >
-> “The first principle is that we should not fool ourselves, and we are the easiest to fool.”
+> **“The first principle is that we should not fool ourselves, and we are the easiest to fool.”**
 >
 > The ultimate value of science is that science protects us from fooling ourselves. Thank you all.
 
