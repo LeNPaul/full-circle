@@ -12,13 +12,13 @@ The main idea with [Taylor Series](https://en.wikipedia.org/wiki/Taylor_series) 
 
 What this means is, given a complicated function, you can approximate what that function will look like near a given point, typically by using a line or even a parabola:
 
-![]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-1.png" }})
+![Hooke's Law]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-1.png" }})
 
 Notice how the dotted line fits pretty nicely with the red line near the origin. Think of the dotted line as a complicated, nasty function, and the red line as an approximation of that complicated, nasty function, that works pretty well if you stay close to the origin. Where do you get the red line from?
 
 It's the first two terms of the Taylor Series, which is essentially a line:
 
-![]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-2.png" }})
+![Equation 1]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-2.png" }})
 
 This is a very powerful idea, because often times in physics, the best we can do is approximate. The Taylor Series representation of a function is a tool that allows us to approximate many things, and in many cases (like above, with the complicated, nasty function) simplifies things greatly, without sacrificing too much accuracy.
 
@@ -26,11 +26,11 @@ You will definitely come across this in your classical mechanics class at some p
 
 The dotted line is how the spring actually behaves, but it is a very complicated and nasty function (in this case it looks like a cubic function, but many times we are not that lucky), and the red line represents [Hooke's Law](https://en.wikipedia.org/wiki/Hooke's_law), which is simply the second term of the Taylor Series representation of the dotted line function:
 
-![]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-3.png" }})
+![Equation 2]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-3.png" }})
 
 If we take the constant to be at the origin, you get Hooke's Law (the first term is a constant we can ignore in this case because it is zero, and the factor in front of the second term is equal to -k, which we determine experimentally):
 
-![]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-4.png" }})
+![Equation 3]({{ site.baseurl }}{{ "/assets/img/sequences-and-series-in-physics-4.png" }})
 
 **This is only one, albeit an important application of sequences and series.**
 
