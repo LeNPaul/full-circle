@@ -4,6 +4,8 @@ title: "The Three Values of Science"
 category: blog
 ---
 
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/the-three-values-of-science.jpeg" }})
+
 The following is a transcript of a speech that I did for a [Toastmasters](https://www.toastmasters.org/) club meeting a few months ago.
 
 The objective of this speech was to research any topic that I chose, and then present a structured speech on this topic. After the speech, I would receive feedback and advice for improvement from the audience and my speech evaluator. I would then present the speech again at a later date, applying the feedback and advice that I had received.
