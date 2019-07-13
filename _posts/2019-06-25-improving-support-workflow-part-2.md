@@ -66,4 +66,6 @@ This little project that I did was an experiment that I did on my own time out o
 
 Thank you for reading!
 
+---
+
 *Also published on [Medium](https://blog.prototypr.io/improving-support-workflow-through-human-centered-design-part-ii-bf693f54f70)*
