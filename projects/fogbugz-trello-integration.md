@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'FogBugz + Trello Integration'
+title: 'Improving Support Workflow'
 ---
 
-# FogBugz + Trello Integration
+# Improving Support Workflow
 
 Please check out the following two articles for more information on this project:
 
