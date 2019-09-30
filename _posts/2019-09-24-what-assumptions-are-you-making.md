@@ -4,7 +4,7 @@ title: "What Assumptions Are You Making? And Are They Justified?"
 category: blog
 ---
 
-![Death to Stock]({{ site.baseurl }}{{ "/assets/img/what-assumptions-are-you-making.jpeg" }})
+![]({{ site.baseurl }}{{ "/assets/img/what-assumptions-are-you-making.jpeg" }})
 
 In the couple of years that I have been working professionally now in IT - in roles ranging from customer support, professional services, to software development - one of the most important lessons that I have learned is the following:
 
