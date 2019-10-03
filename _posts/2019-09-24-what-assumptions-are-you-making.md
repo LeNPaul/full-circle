@@ -15,3 +15,5 @@ This seems like a simple thought but you will be surprised at how many assumptio
 For example, simple or obvious solutions are often ruled out in the initial stages of problem solving, with the assumption being that they would not work. But many times, it is these simple or obvious solutions that end up being the best.
 
 Knowing and understanding these assumptions is crucial not only in being successful in IT, but in your general life as well.
+
+*Also published on [Medium](https://medium.com/@LeNPaul/what-assumptions-are-you-making-c328b80d3a67)*
