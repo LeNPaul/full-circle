@@ -4,7 +4,7 @@ title: "Life Isn't Always Fair"
 category: blog
 ---
 
-Over the past couple of months, I developed an interest in Formula 1 racing, after YouTube started recommending videos from the Formula 1 YouTube channel to me.
+Over the past couple of months, I developed an interest in [Formula 1 racing](https://en.wikipedia.org/wiki/Formula_One), after YouTube started recommending videos from the [Formula 1 YouTube channel](https://www.youtube.com/user/Formula1) to me.
 
 It’s an interesting sport that really caters to the side of me that loves engineering and technology mixed with human skill and achievement.
 
