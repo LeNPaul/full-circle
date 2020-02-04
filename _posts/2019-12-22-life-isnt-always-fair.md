@@ -12,6 +12,7 @@ The more that I learn about the sport, the more that I realize how many importan
 
 Here are some lessons that I have learned so far.
 
+![]({{ site.baseurl }}{{ "/assets/img/life-isnt-always-fair.jpeg" }})
 
 ### You Can’t Control Everything
 
