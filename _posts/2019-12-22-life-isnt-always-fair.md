@@ -23,6 +23,7 @@ Regardless of how much control drivers and mechanics may try to have during a ra
 Even when things are going well in a race for a team, a driver may be asked to let their teammate pass them to take the win, because their teammate may have a better chance at winning the championship, or one driver may get special treatment and better opportunities than the other.
 
 Sometimes, you are dealt a bad hand and there is nothing you can do to change it.
+
 Nevertheless, it is better to focus on things that you can control instead.
 
 ### Don’t Underestimate the Young People
@@ -35,7 +36,9 @@ But as you get older, you also get weaker, and your reflexes decrease to a certa
 
 That being said, this doesn’t mean that you should give up and stop trying as you grow older — plenty of older people still remain at the top as they age, or make unexpected comebacks — but it’s worth knowing when to step back and focus your efforts on where your strengths may lie as you grow older and gain more experience.
 
-All of this is to say: Life isn’t always fair.
+---
+
+All of this is to say: *Life isn’t always fair.*
 
 Sometimes, there will be things that are just outside of your control, that you cannot change.
 That does not mean that you stop trying, because circumstances do change, and those that are ready and can adapt will eventually succeed.
