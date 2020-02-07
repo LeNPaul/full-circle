@@ -12,7 +12,7 @@ The more that I learn about the sport, the more that I realize how many importan
 
 Here are some lessons that I have learned so far.
 
-![]({{ site.baseurl }}{{ "/assets/img/life-isnt-always-fair.jpeg" }})
+![Death to Stock]({{ site.baseurl }}{{ "/assets/img/life-isnt-always-fair.jpeg" }})
 
 ### You Can’t Control Everything
 
@@ -24,13 +24,13 @@ Even when things are going well in a race for a team, a driver may be asked to l
 
 Sometimes, you are dealt a bad hand and there is nothing you can do to change it.
 
-Nevertheless, it is better to focus on things that you can control instead.
+Nevertheless, it is better to focus on things that you *can* control instead.
 
 ### Don’t Underestimate the Young People
 
 In many physical sports and endeavours that involve intense physical and mental effort, young people in their twenties tend to have an advantage.
 
-Growing up, I always thought that the older you get, the more experience you gain, and therefore, the better you can get at something. In many cases, this is true,
+Growing up, I always thought that the older you get, the more experience you gain, and therefore, the better you can get at something. In many cases, this is true.
 
 But as you get older, you also get weaker, and your reflexes decrease to a certain extent. Your performance in a given endeavor may peak at a younger age, and gradually decline as you grow older. Younger talent will emerge and replace the previous generation at the top.
 
@@ -38,11 +38,12 @@ That being said, this doesn’t mean that you should give up and stop trying as 
 
 ---
 
-All of this is to say: *Life isn’t always fair.*
+All of this is to say: *Life isn’t always fair*.
 
 Sometimes, there will be things that are just outside of your control, that you cannot change.
+
 That does not mean that you stop trying, because circumstances do change, and those that are ready and can adapt will eventually succeed.
 
 Focus on what you can control instead, and be ready to take an opportunity when it is given to you.
 
-*Also published on [Medium]()*
+*Also published on [Medium](https://medium.com/@LeNPaul/life-isnt-always-fair-855bda9ebcf)*
