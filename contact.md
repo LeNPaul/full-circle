@@ -5,6 +5,7 @@ title: Contact
 <section>
   <h1>Contact</h1>
   <p>Feel free to contact me <a href="mailto:l.nguyen.paul@gmail.com" target="_blank">through my email</a> or <a href="https://twitter.com/intent/tweet?text=%40paululele" target="_blank">tweet at me</a>.</p>
+  <img src="/assets/img/profile.jpg" alt="This is me">
   <p>I also like being followed.</p>
   <div class="social-media">
       <nav>
