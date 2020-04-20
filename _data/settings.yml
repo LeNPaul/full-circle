@@ -22,6 +22,7 @@ main-projects:
 #- {name: '', image: '', file: '', blurb: ''}
 
 social:
+- {icon: 'github', link: 'https://github.com/lenpaul'}
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
