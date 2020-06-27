@@ -17,6 +17,7 @@ main-projects:
 #- {name: 'applepy', image: 'gun.jpg', file: 'projects/applepy.html', blurb: 'The intersection between physics and computer science.'}
 - {name: 'Jekyll Themes', image: 'box.jpg', file: 'projects/jekyll-themes.html', blurb: 'Static website templates for GitHub pages.'}
 - {name: 'Improving Support Workflow', image: '', file: 'projects/fogbugz-trello-integration.html', blurb: 'Improving support workflow through human-centered design.'}
+- {name: 'Human-centred design in hospital technology', image: '', file: 'projects/human-centred-design-in-hospital-technology.html', blurb: 'Using human-centred design to solve a problem using technology in the hospital.'}
 
 #side-projects:
 #- {name: '', image: '', file: '', blurb: ''}
