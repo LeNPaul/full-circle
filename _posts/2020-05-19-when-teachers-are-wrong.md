@@ -4,7 +4,7 @@ title: "When Teachers are Wrong"
 category: blog
 ---
 
-Sooner or later, we all eventually realize that teachers are not the all-knowing, omnipotent beings we once thought they were.
+*Sooner or later, we all eventually realize that teachers are not the all-knowing, omnipotent beings we once thought they were.*
 
 [When we were younger, teachers were the ones many of us turned to for answers](https://photomatt7.wordpress.com/2012/01/03/myth-teachers-know-everything/). For some, a teacher’s word held more weight than even their own parents’. But somewhere along the way of growing up, we eventually realize that teachers are not always right.
 
