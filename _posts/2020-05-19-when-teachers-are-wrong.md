@@ -51,3 +51,5 @@ For example, students studying for a bachelors in psychology start analyzing cur
 The point of education, and the role that teachers play in education, I think, is not to always be right, or to always have the correct answers to every question memorized. Instead, it is to understand that not every question has an answer to begin with, or even a single answer. The point of education is to develop a paradigm of thinking of how to creatively approach problems, how to ask the right questions, and to always be open to new ideas — even if these new ideas mean admitting when one is wrong, and adopting a new idea.
 
 *[Based my answer to a question on Quora.](https://www.quora.com/When-was-the-first-time-you-realized-that-a-teacher-cannot-always-be-right/answer/Paul-Le-2)*
+
+*Also published on [Medium](https://medium.com/@LeNPaul/when-teachers-are-wrong-f37c304aa74d)*
