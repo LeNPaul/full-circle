@@ -12,7 +12,7 @@ A few years ago, I was in my final years of completing university. Like many, I 
 
 I laid out numerous goals that I wanted to achieve by the end of the summer. I wanted to review everything that I had learned so far as an astrophysics major, as well as new topics that I would be learning the following semester. I also wanted to put on some muscle mass, learn how to code, [create a commonplace book](https://ryanholiday.net/how-and-why-to-keep-a-commonplace-book/), and also read several books.
 
-Unfortunately, by the end of the summer, although I had done a lot, I did not achieve anywhere near as many goals as I had planned. **In fact, I never fully completed any of my goals**. This ended up being the case the next summer as well.
+Unfortunately, by the end of the summer, although I had done a lot, I did not achieve anywhere near as many goals as I had planned. In fact, **I never fully completed any of my goals**. This ended up being the case the next summer as well.
 
 Around that time, I had read *[The Power of Less](https://zenhabits.net/the-power-of-less-has-launched-free-giveaways-for-book-buyers/)*, by Leo Babauta. It’s a great book on minimalism, and it highlights an important lesson that I think everyone should learn, one that I had eventually learned myself after those unproductive summers.
 
@@ -56,4 +56,4 @@ What I learned after those summers was that I was trying to focus on too many go
 
 In reality, I was being inefficient, and setting myself up for failure. I realized that I would have achieved more if I had focused on just one or a few goals at a time, as opposed to trying to focus on everything all at once. Instead, my approach should have been to *focus on just a few things at a time*.
 
-*Also published on [Medium](https://medium.com/the-innovation/different-but-the-same-what-every-productivity-system-has-in-common-c39dc9d416cf)*
+*Also published on [Medium](https://medium.com/the-innovation/the-importance-of-singular-focus-in-achieving-goals-9b0f983b2540)*
