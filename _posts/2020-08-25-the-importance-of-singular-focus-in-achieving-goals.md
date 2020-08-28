@@ -55,3 +55,5 @@ To focus means not only choosing a small number of goals to focus on, but also h
 What I learned after those summers was that I was trying to focus on too many goals at the same time. It felt like I was being productive, like I was achieving a lot in a short period of time, and it felt good.
 
 In reality, I was being inefficient, and setting myself up for failure. I realized that I would have achieved more if I had focused on just one or a few goals at a time, as opposed to trying to focus on everything all at once. Instead, my approach should have been to *focus on just a few things at a time*.
+
+*Also published on [Medium](https://medium.com/the-innovation/different-but-the-same-what-every-productivity-system-has-in-common-c39dc9d416cf)*
