@@ -8,6 +8,8 @@ category: blog
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/the-importance-of-singular-focus-in-achieving-goals.jpeg" }})
 
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
+
 A few years ago, I was in my final years of completing university. Like many, I had big plans after graduation, all of which required competitive grades. One summer after the school year had ended, I took it upon myself to try and catch up on my studies, as well as prepare for the upcoming year.
 
 I laid out numerous goals that I wanted to achieve by the end of the summer. I wanted to review everything that I had learned so far as an astrophysics major, as well as new topics that I would be learning the following semester. I also wanted to put on some muscle mass, learn how to code, [create a commonplace book](https://ryanholiday.net/how-and-why-to-keep-a-commonplace-book/), and also read several books.
