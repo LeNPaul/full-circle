@@ -7,7 +7,6 @@ category: blog
 *Ignore at your own peril*
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/the-importance-of-singular-focus-in-achieving-goals.jpeg" }})
-
 *Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 A few years ago, I was in my final years of completing university. Like many, I had big plans after graduation, all of which required competitive grades. One summer after the school year had ended, I took it upon myself to try and catch up on my studies, as well as prepare for the upcoming year.
