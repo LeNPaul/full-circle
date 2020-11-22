@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/human-centred-design-in-hospital-technology-1.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 If you have ever read [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman, you have probably heard of the term, “human-centred design”. In simple terms, human-centred design is about designing things for human users. This may sound like an obvious and simple task, but it really isn’t, and is often taken for granted.
 
