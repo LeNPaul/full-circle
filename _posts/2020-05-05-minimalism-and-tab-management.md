@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/minimalism-and-tab-management-1.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 For years, I have always struggled with tab management on my internet browser. I had a terrible habit of always keeping several dozen tabs opened at the same time - each one seemingly important enough that I needed the tab opened, just in case.
 
