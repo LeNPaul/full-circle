@@ -13,6 +13,7 @@ The more that I learn about the sport, the more that I realize how many importan
 Here are some lessons that I have learned so far.
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/life-isnt-always-fair.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 ### You Can’t Control Everything
 
