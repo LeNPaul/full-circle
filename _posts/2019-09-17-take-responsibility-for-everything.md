@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/take-responsibility-for-everything.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 As I progress through my career, I find that I am in more positions of leadership, where I have to work with a team to achieve some kind of deliverable.
 
