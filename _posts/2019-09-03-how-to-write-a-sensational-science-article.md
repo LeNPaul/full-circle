@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/how-to-write-a-sensational-science-article.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 Within the media, journalists often sensationalize headlines in order to gain more readers. This has the unfortunate consequence of information being misrepresented, and a loss of accuracy in what is being reported. This is most strongly felt when topics of science, especially physics and astronomy, are reported on.
 
