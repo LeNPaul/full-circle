@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/just-did-it.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 A common roadblock that many people — including myself — come across when trying to do anything, is always waiting for things to be perfect before starting.
 
