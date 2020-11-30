@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/learning-programming-one-night.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 I learned a new programming language in one night once.
 
