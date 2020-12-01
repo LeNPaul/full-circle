@@ -9,6 +9,7 @@ Facing new challenges, and bouncing back from uncomfortable, difficult situation
 > Avoidance of small mistakes makes big ones more severe — Nassim Taleb
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/building-resilience.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 ## Preparation
 
