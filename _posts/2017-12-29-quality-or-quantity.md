@@ -17,6 +17,7 @@ Can you guess which group did the best? Can you see which group you would best i
 Chances are, it is the group on the right: those being judged on the quality of their single pot. Surely, the group on the left — those being judged for quantity — will not have as high a standard as the group on the right, and simply just produce mediocre work.
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/quality-or-quantity.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 In our lives, we tend to act like the group on the right. We always aim to produce things that are of high quality, that are perfect — often on the first try.
 
