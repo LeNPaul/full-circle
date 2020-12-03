@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/how-to-stop-worrying.jpg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 Here is something that I learned from reading [“How to Stop Worrying and Start Living”, by Dale Carnegie](https://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living), which has helped me immensely in overcoming moments in my life where I have experienced a lot of worry and anxiety:
 
