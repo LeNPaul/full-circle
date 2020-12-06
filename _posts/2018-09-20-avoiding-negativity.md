@@ -7,6 +7,7 @@ category: blog
 Why would you ever waste time doing anything that doesn’t move you forward? **Yet that is what many of us to on a daily basis.**
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/avoiding-negativity.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 From worrying about petty problems, to imagining what it would be like if your situation was different, to wallowing in self-pity, many of us spend a portion of our days doing something that is counter-productive to our personal development. Over time, all of this negativity adds up.
 
