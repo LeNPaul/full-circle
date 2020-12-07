@@ -7,6 +7,7 @@ category: blog
 Often, when people first start out trying to achieve a goal, they try to set ambitious goals.
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/one-step-at-a-time.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 Don’t get me wrong, there is nothing wrong with that. In fact, you should be setting ambitious goals, all the time.
 
