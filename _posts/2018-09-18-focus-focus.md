@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/focus-focus-runner.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 The average adult attention span isn’t very long. Depending on where you look you will get varying answers as to how long people can focus for, but generally the average adult attention span is less than half an hour.
 
