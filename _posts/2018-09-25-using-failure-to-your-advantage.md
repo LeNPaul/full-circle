@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/failure-advantage.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 Being in a situation that is out of your comfort zone is rarely ever pleasing. Our brains are hardwired to always avoid danger, which in modern times includes our idea of failure.
 
