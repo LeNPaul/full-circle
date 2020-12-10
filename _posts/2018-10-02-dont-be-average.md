@@ -15,6 +15,7 @@ It’s always important to stop every once in a while, reflect, and determine wh
 When you do this, then you will realize that there are a lot of things that you don’t have to do, that everyone else does, or things that you’ve always wanted to do, but were afraid of being judged by others.
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/dont-be-average.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 Follow those realizations, and by nature of the fact that you’re not doing what most people are doing, you will no longer be average.
 
