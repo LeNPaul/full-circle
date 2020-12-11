@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/food-tie.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 [In an earlier post](https://medium.com/@LeNPaul/avoiding-the-perfection-trap-64de769aa602), I talked about how a common trap that many people fall into when starting starting something new is the trap of waiting for perfect conditions to happen before they start. This results in many people not even starting whatever it is that they wanted to start.
 
