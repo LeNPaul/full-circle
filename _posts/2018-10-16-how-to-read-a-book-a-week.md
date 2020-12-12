@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/girl-train.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 **Reading is one of those things that many people wish they had more time for, but never get around to.** It is no surprise that books contain vast amounts of knowledge that many agree would be beneficial to our lives. Books are a way to explore a topic or collection of ideas all in one package, as opposed to information scattered across numerous articles all over the internet. The only problem is the time commitment and habit required to read an entire book, especially on a regular basis.
 
