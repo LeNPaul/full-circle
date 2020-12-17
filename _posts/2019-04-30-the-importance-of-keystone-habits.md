@@ -17,6 +17,7 @@ An important characteristic of many keystone habits is that they are often habit
 ### Journaling
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/keystone-habits-1.png" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 I personally keep a journal that I write in regularly, at least once a week. I have a dedicated journal where I write about what is going on in my life at the moment, and my thoughts and feelings on it all. I find it helps me to organize my thoughts better. Many times, it serves as a cathartic release for me. As a bonus, it serves as a record of my thoughts at a given time, and I enjoy reading back on past entries, and seeing how much I’ve changed since then.
 
