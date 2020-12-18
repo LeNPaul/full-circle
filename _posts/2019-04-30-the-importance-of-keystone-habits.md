@@ -26,6 +26,7 @@ There are of course many benefits of journaling. These benefits include improved
 ### Exercise
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/keystone-habits-2.png" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 This may seem like an obvious one, but there are many more benefits of exercising than people realize:
 
