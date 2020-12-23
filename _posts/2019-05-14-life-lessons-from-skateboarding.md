@@ -31,6 +31,7 @@ Again, you will inevitably fail when you first learn something new. For many peo
 This one is one of the most important lessons you can ever learn. There will always be risks that you have to take in order to move forward in life, but these risks *should not* be stupid risks. They should be calculated risks, risks that you know are just beyond your comfort zone, but are doable if you push yourself just a little bit.
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/lessons-from-skateboarding.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 I was fortunate enough to have picked up skateboarding at an early age, where I was able to learn these lessons slowly over time. Although I didn't do any sports growing up, skateboarding was the one activity that I did that I was truly passionate about, that in a way *was* a sport. 
 
