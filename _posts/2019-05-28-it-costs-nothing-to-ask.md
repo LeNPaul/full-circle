@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/it-costs-nothing-to-ask.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 The following is a transcript of the first speech that I ever did for a [Toastmasters](https://www.toastmasters.org/) club meeting.
 
