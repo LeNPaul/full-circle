@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/focus-only-on-what-you-can-control.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 A few weeks ago, I read [Meditations, by Marcus Aurelius](https://en.wikipedia.org/wiki/Meditations). It was a book that was recommended to me by many, that I had been meaning to read for a long time.
 
