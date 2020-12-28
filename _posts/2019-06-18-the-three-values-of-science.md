@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/the-three-values-of-science.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 The following is a transcript of a speech that I did for a [Toastmasters](https://www.toastmasters.org/) club meeting a few months ago.
 
