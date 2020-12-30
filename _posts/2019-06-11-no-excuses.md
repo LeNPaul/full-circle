@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/no-excuses.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 Growing up, there was one movie that I had watched almost daily, over and over again: [Pokémon: The First Movie](https://en.wikipedia.org/wiki/Pok%C3%A9mon:_The_First_Movie).
 
