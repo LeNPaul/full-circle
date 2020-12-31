@@ -37,6 +37,7 @@ You can read my post on [making exercise a habit](https://hungryminds.quora.com/
 ### Reading
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/keystone-habits-3.png" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 In my opinion, reading is one of the best habits that I have developed in my life. Although I have always been a bookworm from a very young age, as I grew older I found I had less and less time to read. By the end of high school I was only reading books assigned to me from school. Fortunately, I was able to reignite this habit, and [made reading a habit once more](https://hungryminds.quora.com/How-to-Make-Reading-a-Habit).
 
