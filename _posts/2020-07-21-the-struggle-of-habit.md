@@ -7,6 +7,7 @@ category: blog
 *How a misunderstanding of the power of habit can lead to a struggle in building new habits*
 
 ![Photo by Pxfuel]({{ site.baseurl }}{{ "/assets/img/the-struggle-of-habit-1.jpeg" }})
+*Photo by [Photo by Pxfuel](https://deathtothestockphoto.com/)*
 
 Ever since it was first published in 2012, [The Power of Habit by Charles Duhigg](https://charlesduhigg.com/the-power-of-habit/) has become something of an icon of personal development books, cited by many — [including myself](https://medium.com/@LeNPaul/the-importance-of-keystone-habits-37ecd25d3ce) — in numerous blog articles on how to change or build habits.
 
