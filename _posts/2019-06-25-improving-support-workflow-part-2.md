@@ -7,6 +7,7 @@ category: blog
 [In my previous post]({% post_url 2019-05-21-improving-support-workflow-part-1 %}), I gave an introduction to the problem that I was trying to solve, I had talked about the process that I would take in solving that problem, and then I began going through that process and describing what I was doing at each step. If you have not [read part I yet, then please check that out first]({% post_url 2019-05-21-improving-support-workflow-part-1 %}), as this article is a continuation of part I.
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/human-centered-design-part-2-1.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 ## Prototype
 
