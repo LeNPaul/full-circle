@@ -5,6 +5,7 @@ category: blog
 ---
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/img/the-importance-of-hobbies.jpeg" }})
+*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 Whenever I feel like I am in a rut in my life, I try and focus on my hobbies. Most of the time, I find that I am in a rut *because* I have stopped practicing my hobbies. It could be because of how busy life can get, or because of laziness, that I begin to neglect my hobbies.
 
