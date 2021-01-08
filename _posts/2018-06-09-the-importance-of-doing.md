@@ -27,6 +27,7 @@ In the story, the Little Prince visits a planet inhabited solely by a geographer
 This sounds great! The Little Prince has finally found someone who seemed to know a thing or two about something, unlike the previous people he had visited. Upon further inquiry though, the Little Prince discovers something about the geographer…
 
 ![The Geographer]({{ site.baseurl }}{{ "/assets/img/the-importance-of-doing-geographer.jpeg" }})
+*The Geographer*
 
 > “Your planet is very beautiful,” he said. “Has it any oceans?”
 
