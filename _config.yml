@@ -1,6 +1,5 @@
 # Site Settings
 
-show_drafts: false
 permalink:           none
 plugins: [jekyll-paginate, jekyll-seo-tag]
 
