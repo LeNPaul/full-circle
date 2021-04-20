@@ -7,3 +7,17 @@ body {
   color: $bodyColor;
   font-family: $bodyFont;
 }
+
+nav a {
+  text-decoration: none;
+  color: $bodyColor;
+  font-family: $bodyFont;
+}
+
+.navlogo {
+  float: left;
+}
+
+.navlinks {
+  float: right;
+}
