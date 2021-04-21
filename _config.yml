@@ -1,3 +1,7 @@
+title: "paul le"
+email: "hello@paulle.ca"
+
+mailchimp: "https://hungryminds.us7.list-manage.com/subscribe?u=08fe04e6a6ba1be08842091b9&id=01717016fd"
+
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "paul le" # the name of your site, e.g. ACME Corp.
