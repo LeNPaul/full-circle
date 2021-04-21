@@ -8,8 +8,13 @@ body {
   font-family: $bodyFont;
 }
 
-header a {
+a {
+  color: #268bd2;
   text-decoration: none;
-  color: $bodyColor;
-  font-family: $bodyFont;
+}
+
+a:hover,
+a:focus {
+  color: #268bd2;
+  opacity: 0.75;
 }
