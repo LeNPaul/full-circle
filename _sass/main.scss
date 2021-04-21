@@ -1,0 +1,24 @@
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: "Roboto", sans-serif;
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+}
+
+a {
+  color: #268bd2;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #268bd2;
+  opacity: 0.75;
+}
+
+.social-media-icons a {
+  color: $bodyColor;
+}

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: default
+title: "About"
 ---
 
-<h1 class="page-title">{{ page.title }}</h1>
+{% include about.html %}

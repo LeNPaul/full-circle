@@ -1,0 +1,22 @@
+<div class="row g-5">
+  <div>
+    <h2 class="border-bottom pb-3 mb-5">Contact</h2>
+    <div class="row g-5 mb-5">
+      <div class="col-md-6">
+        <h5>Newsletter</h5>
+        <p>Sign up for my newletter to get updates on any blog posts through my blog.</p>
+        <form action="{{ site.mailchimp }}" method="post" name="mc-embedded-subscribe-form" target="_blank" novalidate class="col-8">
+          <div class="input-group mb-3">
+            <input type="email" placeholder="Email" class="form-control" name="EMAIL">
+            <button type="submit" value="Subscribe" class="btn btn-outline-secondary" name="subscribe">Sign Up</button>
+          </div>
+        </form>
+      </div>
+      <div class="col-md-6">
+        <h5>Email</h5>
+        <p>Feel free to reach out to me through my email.</p>
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </div>
+    </div>
+  </div>
+</div>
