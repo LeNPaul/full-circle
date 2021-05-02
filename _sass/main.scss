@@ -27,3 +27,32 @@ a:focus {
 .social-media-icons a {
   color: $bodyColor;
 }
+
+.blog-post h1,
+.blog-post h2,
+.blog-post h3,
+.blog-post h4,
+.blog-post h5,
+.blog-post h6 {
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+}
+
+.blog-post p {
+  font-size: 18px;
+  margin-bottom: 1.5rem;
+}
+
+.blog-post blockquote,
+.blog-post q {
+    color: #74777a;
+    font-style: italic;
+}
+
+.blog-post blockquote {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 1.5rem;
+    padding: 0 1rem;
+    border-left: solid 0.25rem;
+}
