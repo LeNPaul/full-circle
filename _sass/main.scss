@@ -1,6 +1,7 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
 $bodyFont: "Roboto", sans-serif;
+$linkColor: #268bd2;
 
 body {
   background: $backgroundColor;
@@ -9,14 +10,18 @@ body {
 }
 
 a {
-  color: #268bd2;
+  color: $linkColor;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #268bd2;
+  color: $linkColor;
   opacity: 0.75;
+}
+
+.container {
+  max-width: 960px;
 }
 
 .social-media-icons a {
