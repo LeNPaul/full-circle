@@ -20,7 +20,7 @@ Usually, before I get to the final step, I realize how silly my worries were to 
 
 Here is a favourite quote of mine that sums it all up nicely:
 
-> I’ve had a lot of worries in my life, most of which never happened. -Mark Twain
+> I’ve had a lot of worries in my life, most of which never happened. - Mark Twain
 
 ### References
 

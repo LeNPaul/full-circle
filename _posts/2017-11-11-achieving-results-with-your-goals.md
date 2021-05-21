@@ -1,11 +1,8 @@
 ---
 layout: post
-title: "Don’t Just Set Goals. Achieve Results."
+title: "Achieving Results With Your Goals"
 category: blog
 ---
-
-![Death to Stock]({{ site.baseurl }}{{ "/assets/img/dont-set-goals-achieve-results.jpeg" }})
-*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
 
 Everyone is familiar with settings goals, but not everything is familiar with achieving results. It is easy to set goals, but more difficult to achieve them. The good thing is that the more goals you achieve, the more motivated you become, as you see your achievements pile up. The trick is to set reasonable goals so that you are able to achieve them, yet still push yourself each time.
 
@@ -22,6 +19,7 @@ There are seven steps that you may follow to achieve results:
 5. Establish accountability — find a mentor or coach to receive regular guidance and follow-up from.
 
 6. Celebrate your successes — record and share your successes, and whenever you feel like giving up, ask yourself why you started in the first place.
+
 7. Review your progress — recalibrate and redo the previous steps if necessary.
 
 ---
