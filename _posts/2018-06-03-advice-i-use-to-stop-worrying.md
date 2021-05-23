@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "How I Stop Worrying (And Start Living)"
+title: "Advice I Use to Stop Worrying"
 category: [ lessons learned ]
 ---
 
-Here is something that I learned from reading [“How to Stop Worrying and Start Living”, by Dale Carnegie](https://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living), which has helped me immensely in overcoming moments in my life where I have experienced a lot of worry and anxiety:
+Here are steps that I learned from reading [“How to Stop Worrying and Start Living”, by Dale Carnegie](https://en.wikipedia.org/wiki/How_to_Stop_Worrying_and_Start_Living), which have helped me immensely in overcoming moments in my life where I have experienced worry and anxiety:
 
 1. **Clarify exactly what is it that is bothering you, and what is causing you to feel the way you do.** For example, let’s say you are worried about being judged because you got a weird haircut. Your weird haircut is bothering you because you are afraid that everyone will make fun of you.
 
