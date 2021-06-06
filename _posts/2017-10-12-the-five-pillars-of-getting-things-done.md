@@ -74,4 +74,6 @@ At the end of the day, getting things done is all about being present with what 
 
 ### References
 
-[Getting things done](http://gettingthingsdone.com/)
+[Getting Things Done](http://gettingthingsdone.com/)
+
+[Getting Things Done by David Allen](https://www.linkedin.com/learning/getting-things-done)

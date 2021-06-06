@@ -46,4 +46,4 @@ Building resilience is not something that you learn from reading a book. It is s
 
 ### References
 
-[Building Resilience by Tatiana Kolovou](https://www.lynda.com/Leadership-Management-tutorials/Building-Resilience/170777-2.html)
+[Building Resilience by Tatiana Kolovou](https://www.linkedin.com/learning/building-resilience)

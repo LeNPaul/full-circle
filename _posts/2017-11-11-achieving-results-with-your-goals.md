@@ -28,4 +28,4 @@ These steps are not things that you do once and forget about. They are long-term
 
 ### References
 
-[Achieving Your Goals by Dave Crenshaw](https://www.lynda.com/Business-Skills-tutorials/Achieving-Your-Goals/96757-2.html)
+[Achieving Your Goals by Dave Crenshaw](https://www.linkedin.com/learning/achieving-your-goals)

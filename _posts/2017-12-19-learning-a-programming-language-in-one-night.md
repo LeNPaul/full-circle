@@ -36,4 +36,4 @@ So moral of the story is this:
 
 You are going to have to work hard to increase your knowledge in something, and one night is not enough to learn something as vast and complex as an entire programming language.
 
-Keep in mind though that I was by no means a professional developer — I still don’t consider my self one. I was simply a student at that time learning how to program. I’d image someone with more experience could pull it off, but I certainly was not able to.
+Keep in mind though that I was by no means a professional developer — I still don’t consider my self one. I was simply a student at that time learning how to program. I’d image someone with more experience could learn a programming language in one night, but I certainly was not able to.
