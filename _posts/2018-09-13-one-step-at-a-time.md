@@ -18,6 +18,6 @@ Try to quantify it if you can. Invest in a cheap pedometer, and see how many ste
 
 As you start building the habit, you will associate that habit with a good feeling, and you will be motivated to stick to your habit and to achieve more. Hopefully, by then, it’ll start to feel weird if you don’t achieve your habit.
 
-Slowly, you start to build up the habit even more, and set more and more ambitious goals. Before you know it, you’ll be running marathons. And losing weight.
+Slowly, you start to build up the habit even more, and set more ambitious goals. Before you know it, you’ll be running marathons. And losing weight.
 
-Start small, and build your way up.
+Start small, and build your way up, *one step at a time*.

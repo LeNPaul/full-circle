@@ -22,7 +22,7 @@ Unfortunately, this is not always the case.
 
 A distinction should be made between the final product, and the rough drafts. The final product is what we present to the world, while the rough drafts are what we make when we are creating the final products.
 
-In [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things), by Don Norman, he talks about a concept called Human-centered design (HCD). He goes on to say:
+In *[The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)* by Don Norman, he talks about a concept called Human-centered design (HCD). He goes on to say:
 
 > The HCD principle is to avoid specifying the problem as long as possible but instead to iterate upon repeated approximations. This is done through rapid tests of ideas, and after each test modifying the approach and the problem definition.
 
