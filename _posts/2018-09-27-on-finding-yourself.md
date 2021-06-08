@@ -15,5 +15,3 @@ Even in the beginning stages, where you are "finding your calling", it is never 
 The best thing that you can do is to have as many diverse experiences as you can. Read books on topics you typically do not read about. Watch movies or TV shows in genres you usually would not watch. Learn about new things that you have never explored before. Try new things and make plenty of mistakes.
 
 It is through this incremental process of constantly refining your own image of yourself that you "find yourself".
-
-*Adapted from [my answer to a question on Quora](https://www.quora.com/How-did-you-know-when-you-found-yourself/answer/Paul-Le-2)*
