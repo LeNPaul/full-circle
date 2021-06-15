@@ -30,7 +30,7 @@ Somehow, this compromise seemed to work - I cut my time on Facebook down to a fe
 
 Although I did not intend this originally, as I reflected on this many years later, and having read [The Power of Habit by Charles Duhigg](https://charlesduhigg.com/the-power-of-habit/), I realized that part of why I was successful in kicking my Facebook addiction was that I was [manipulating the habit loop](https://charlesduhigg.com/how-habits-work/).
 
-![How Habits Work — Charles Duhigg]({{ site.baseurl }}{{ "/assets/img/kicked-facebook-addiction.jpg" }})
+![How Habits Work — Charles Duhigg]({{ site.baseurl }}{{ "/assets/images/kicked-facebook-addiction.jpg" }})
 
 What I realized was that the routine part of my habit was scrolling through my Facebook newsfeed, seeing what my friends were doing, and clicking on interesting articles that came up. It wasn’t Facebook that I was addicted to, it was the act of scrolling through my Facebook newsfeed that would draw me in for hours.
 
@@ -45,5 +45,3 @@ In the past, when I have tried to intentionally manipulate the habit loop to cha
 It’s clear though, that manipulating the habit loop is a powerful tool in changing and building habits, and the goal is to ultimately be able to recognize true triggers and routines, and to be able to manipulate these as desired.
 
 Maybe in the past when I tried manipulating the habit loop, I just didn’t pick the right triggers.
-
-*Also published on [Medium](https://medium.com/@LeNPaul/how-i-kicked-my-facebook-addiction-7f5522ea01a4)*

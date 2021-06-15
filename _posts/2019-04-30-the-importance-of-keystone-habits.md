@@ -26,15 +26,15 @@ This may seem like an obvious one, but there are many more benefits of exercisin
 
 ### Reading
 
-In my opinion, reading is one of the best habits that I have developed in my life. Although I have always been a bookworm from a very young age, as I grew older I found I had less and less time to read. By the end of high school I was only reading books assigned to me from school. Fortunately, I was able to reignite this habit, and have since made reading a habit once more.
+In my opinion, reading is one of the best habits that I have developed in my life. Although I have always been a bookworm from a very young age, as I grew older I found I had less time to read. By the end of high school I was only reading books assigned to me from school. Fortunately, I was able to reignite this habit, and have since made reading a habit once more.
 
 Among the many obvious benefits of reading more books, reading has been shown to improve one’s happiness and mental well-being, and better one’s empathy.
 
 ### Conclusion
 
-It is always a good idea to pick only one habit to work on at a time. There will time to develop other habits, but if you try to do too many habits at a time, you will end up doing none of them. These keystones habits will inevitably lead to other good habits anyways, so it’s a good idea not to get too greedy in the beginning.
+It is always a good idea to pick only one habit to work on at a time. There will be time to develop other habits, but if you try to do too many habits at a time, you will end up keeping none of them. These keystones habits will inevitably lead to other good habits anyways, so it’s a good idea not to get too greedy in the beginning.
 
-### Footnotes
+### References
 
 [Keeping A Food Diary Doubles Diet Weight Loss, Study Suggests](https://www.sciencedaily.com/releases/2008/07/080708080738.htm)
 
