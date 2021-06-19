@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life Isn't Always Fair"
+title: "Life Lessons From Formula 1"
 category: blog
 ---
 
@@ -12,12 +12,9 @@ The more that I learn about the sport, the more that I realize how many importan
 
 Here are some lessons that I have learned so far.
 
-![Death to Stock]({{ site.baseurl }}{{ "/assets/img/life-isnt-always-fair.jpeg" }})
-*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
-
 ### You Can’t Control Everything
 
-The only thing that the drivers have in their control — to a certain extent — is their ability to drive their car. The team mechanics also (again, to a certain extent) have control over how well a car can adapt and perform to changing conditions.
+The only thing that the drivers have in their control - to a certain extent - is their ability to drive their car. The team mechanics also - again, to a certain extent - have control over how well a car can adapt and perform to changing conditions.
 
 Regardless of how much control drivers and mechanics may try to have during a race, external circumstances such as weather, track conditions, getting caught in accidents, and unexpected car troubles can all affect a race.
 
@@ -25,7 +22,7 @@ Even when things are going well in a race for a team, a driver may be asked to l
 
 Sometimes, you are dealt a bad hand and there is nothing you can do to change it.
 
-Nevertheless, it is better to focus on things that you *can* control instead.
+Nevertheless, it is better to focus on things that you *can* control instead, as drivers and teams that are at the top undoubtably earn their position through merit.
 
 ### Don’t Underestimate the Young People
 
@@ -33,7 +30,7 @@ In many physical sports and endeavours that involve intense physical and mental 
 
 Growing up, I always thought that the older you get, the more experience you gain, and therefore, the better you can get at something. In many cases, this is true.
 
-But as you get older, you also get weaker, and your reflexes decrease to a certain extent. Your performance in a given endeavor may peak at a younger age, and gradually decline as you grow older. Younger talent will emerge and replace the previous generation at the top.
+But as you get older, your peak physical strength may decline, and your reflexes decrease to a certain extent. Your performance in a given endeavor may peak at a younger age, and gradually decline as you grow older. Younger talent will emerge and replace the previous generation at the top.
 
 That being said, this doesn’t mean that you should give up and stop trying as you grow older — plenty of older people still remain at the top as they age, or make unexpected comebacks — but it’s worth knowing when to step back and focus your efforts on where your strengths may lie as you grow older and gain more experience.
 
@@ -46,5 +43,3 @@ Sometimes, there will be things that are just outside of your control, that you 
 That does not mean that you stop trying, because circumstances do change, and those that are ready and can adapt will eventually succeed.
 
 Focus on what you can control instead, and be ready to take an opportunity when it is given to you.
-
-*Also published on [Medium](https://medium.com/@LeNPaul/life-isnt-always-fair-855bda9ebcf)*

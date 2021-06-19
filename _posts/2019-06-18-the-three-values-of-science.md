@@ -26,7 +26,7 @@ The second value of science is the intellectual enjoyment and inspiration that c
 
 In the early 1960’s when [John F. Kennedy gave his famous speech to the United States](https://www.youtube.com/watch?v=QXqlziZV63k), where he spoke of dreams of going to the Moon, he had inspired an entire generation of scientists and engineers to work even harder over the next few years to realize that dream.
 
-Taking pleasure in finding things out is something that is uniquely human. In ancient times when our ancestors first began having more free time, one of the first things that they did was look up at the skies and wonder why things are the way that they are. The kind of curiosity that science brings about inspires us to achieve great things, and in doing so, progress society forward.
+Taking pleasure in finding things out is something that is uniquely human. In ancient times when our ancestors first began having more free time, one of the first things that they did was look up at the skies and wonder why things were the way that they are. The kind of curiosity that science brings about inspires us to achieve great things, and in doing so, progress society forward.
 
 ### Dealing with the Unknown
 
