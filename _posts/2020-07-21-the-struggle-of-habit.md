@@ -6,14 +6,11 @@ category: blog
 
 *How a misunderstanding of the power of habit can lead to a struggle in building new habits*
 
-![Photo by Pxfuel]({{ site.baseurl }}{{ "/assets/img/the-struggle-of-habit-1.jpeg" }})
-*Photo by [Photo by Pxfuel](https://deathtothestockphoto.com/)*
-
 Ever since it was first published in 2012, [The Power of Habit by Charles Duhigg](https://charlesduhigg.com/the-power-of-habit/) has become something of an icon of personal development books, cited by many — [including myself](https://medium.com/@LeNPaul/the-importance-of-keystone-habits-37ecd25d3ce) — in numerous blog articles on how to change or build habits.
 
 [In simple terms, The Power of Habit claims that habits are governed by a neurological loop that consists of three elements: a cue, a routine, and a reward](https://charlesduhigg.com/how-habits-work/). The cue is anything that triggers the routine, the routine is the action that makes up the habit, and the reward is the benefit that comes out of the routine. To change or build a habit, you must manipulate the habit loop, changing the cue and the routine to achieve a similar reward as your original habit.
 
-![The habit loop: routine — reward — cue]({{ site.baseurl }}{{ "/assets/img/the-struggle-of-habit-2.jpg" }})
+![The habit loop: routine — reward — cue]({{ site.baseurl }}{{ "/assets/images/the-struggle-of-habit-2.jpg" }})
 
 In the years since I first read The Power of Habit, I had tried applying this advice in my own life many times, and had failed, many times.
 
