@@ -14,17 +14,23 @@ The following are some keystone habits that I personally practice myself in my o
 
 ### Journaling
 
+![Death to Stock]({{ site.baseurl }}{{ "/assets/images/keystone-habits-1.png" }})
+
 I personally keep a journal that I write in regularly, at least once a week. I have a dedicated journal where I write about what is going on in my life at the moment, and my thoughts and feelings on it all. I find it helps me to organize my thoughts better. Many times, it serves as a cathartic release for me. As a bonus, it serves as a record of my thoughts at a given time, and I enjoy reading back on past entries, and seeing how much I’ve changed since then.
 
 There are of course many benefits of journaling. These benefits include improved physiological and mental well-being, improved mindfulness and happiness, and improved focus, memory and cognitive ability, among many other benefits.
 
 ### Exercise
 
+![Death to Stock]({{ site.baseurl }}{{ "/assets/images/keystone-habits-2.png" }})
+
 This may seem like an obvious one, but there are many more benefits of exercising than people realize:
 
 > “When people start habitually exercising, even as infrequently as once a week, they start changing other, unrelated patterns in their lives, often unknowingly. Typically people who exercise start eating better and becoming more productive at work. They smoke less and show more patience with colleagues and family. They use their credit cards less frequently and say they feel less stressed. It’s not completely clear why…’Exercise spills over,’ said James Prochaska, a University of Rhode Island researcher. ‘There’s something about it that makes other good habits easier.’” (p. 109)
 
 ### Reading
+
+![Death to Stock]({{ site.baseurl }}{{ "/assets/images/keystone-habits-3.png" }})
 
 In my opinion, reading is one of the best habits that I have developed in my life. Although I have always been a bookworm from a very young age, as I grew older I found I had less time to read. By the end of high school I was only reading books assigned to me from school. Fortunately, I was able to reignite this habit, and have since made reading a habit once more.
 

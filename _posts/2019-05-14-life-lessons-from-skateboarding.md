@@ -6,6 +6,8 @@ category: blog
 
 > To learn how to do a skateboard trick… how many times do you have to get something wrong until you get it right… and you hurt yourself… and you learn to do that trick, now you get a life lesson. - Jerry Seinfeld
 
+![Death to Stock]({{ site.baseurl }}{{ "/assets/images/life-lessons-from-skateboarding.jpg" }})
+
 Growing up, skateboarding was a huge a passion of mine - one of the earliest that I can remember. Ever since I first played Tony Hawk's American Wasteland on PlayStation 2, I had wanted to learn how to skateboard. When I finally got my first skateboard, I would spend almost every single day outside practicing. 
 
 The first time I ever did an ollie, I was ecstatic. Not only did I spend countless hours practicing - falling, getting back up and trying again - but for the first time in my life, I was able to achieve something for myself that I previously did not think was possible for me to do.
