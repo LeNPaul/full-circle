@@ -10,7 +10,7 @@ Not only does this take up a lot of computing resources, but I’ve realized tha
 
 A few years ago, I stumbled across a browser plugin called [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall), which promises to "save up to 95% memory and reduce tab clutter". The idea is that whenever you find that there are too many tabs opened on your browser, you simply click on the OneTab button, and all of your tabs will be closed and prepended into the OneTab tab, which contains a list of all of the tabs you previously had opened.
 
-![The latest tabs that I have added to my OneTab tab — yes, I have more than 11k tabs saved in total]({{ site.baseurl }}{{ "/assets/images/minimalism-and-tab-management-2.jpeg" }})
+![The latest tabs that I have added to my OneTab tab — yes, I have more than 11k tabs saved in total]({{ site.baseurl }}{{ "/assets/images/minimalism-and-tab-management.jpeg" }})
 
 This is different from many of the other tab management plugins that I have tried, as you still have a tab opened on your browser with your closed tabs. When you click on the list item for a tab, that page will be opened as a new tab, and be removed from your OneTab tab.
 
