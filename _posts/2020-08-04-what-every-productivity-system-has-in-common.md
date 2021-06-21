@@ -4,6 +4,8 @@ title: "What Every Productivity System Has in Common"
 category: blog
 ---
 
+![Photo by Death to Stock]({{ site.baseurl }}{{ "/assets/images/what-every-productivity-system-has-in-common-1.jpeg" }})
+
 Over the years, I had come across and read about many different productivity systems, from [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/), the [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique), the [Eisenhower Matrix](https://todoist.com/productivity-methods/eisenhower-matrix), and [SMART goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals), to project management methodologies such as [Scrum and Kanban](https://www.atlassian.com/agile/kanban/kanban-vs-scrum).
 
 In those same years, I had also done my fair share of experimenting with these productivity methods — jumping from one productivity method to another, often reverting back to a previous system, before finding a new system to try. It seemed like a regular cycle that would occur at least once every few months.
@@ -22,7 +24,7 @@ Similar to how [unit testing is about breaking down code into its smallest parts
 
 The way that I apply this in my own life, is to be mindful of when I create tasks in [Todoist](https://todoist.com/) (my application of choice for managing my tasks), and to always break down my tasks into smaller tasks where possible. I try to avoid having a single broad task such as “Write Medium blog post”, and instead break down that task into smaller tasks, which completed together will achieve the task of “Write Medium blog post”.
 
-![An example of what my tasks in Todoist looks like when I write a blog post]({{ site.baseurl }}{{ "/assets/img/different-but-the-same-2.png" }})
+![An example of what my tasks in Todoist looks like when I write a blog post]({{ site.baseurl }}{{ "/assets/images/what-every-productivity-system-has-in-common-2.png" }})
 
 The degree to which a task is broken down into a smaller task will be dependent on the person. You could break down a task into hundreds of smaller tasks, such as “write one sentence”, or “open browser”, but after a certain point, that becomes counterproductive. The best balance will be different for everyone, and can only be found through experimentation. A good rule of thumb that I try to follow is to create individual tasks that can be done in 30–60 minutes.
 
