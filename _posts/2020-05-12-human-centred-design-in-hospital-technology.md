@@ -4,9 +4,6 @@ title: "Human-centred design in hospital technology"
 category: blog
 ---
 
-![Death to Stock]({{ site.baseurl }}{{ "/assets/img/human-centred-design-in-hospital-technology-1.jpeg" }})
-*Photo by [Death to Stock](https://deathtothestockphoto.com/)*
-
 If you have ever read [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman, you have probably heard of the term, “human-centred design”. In simple terms, human-centred design is about designing things for human users. This may sound like an obvious and simple task, but it really isn’t, and is often taken for granted.
 
 In [Made to Stick](https://en.wikipedia.org/wiki/Made_to_Stick) by Chip and Dan Heath, they introduce the idea of “The Curse of Knowledge”. You are cursed with knowledge when you are no longer able to put yourself in the shoes of someone who does not know what you know. When you try to explain something to someone, you make all sorts of assumptions about what the other person knows. As a result, the other person has a difficult time trying to understand what you are trying to explain to them, for no fault of their own.
@@ -101,7 +98,7 @@ Although a very basic solution, this was a perfect starting point for building a
 
 After sketching out a few ideas on how this would all look, I came up with the following wireframes showing the general workflow of the application:
 
-![Wireframes and workflow diagram]({{ site.baseurl }}{{ "/assets/img/human-centred-design-in-hospital-technology-2.png" }})
+![Wireframes and workflow diagram]({{ site.baseurl }}{{ "/assets/images/human-centred-design-in-hospital-technology.png" }})
 
 1. When a healthcare provider opens the application, they will see a home page with two large buttons, indicating if they want to add a new patient, or view current patients in the ER.
 
