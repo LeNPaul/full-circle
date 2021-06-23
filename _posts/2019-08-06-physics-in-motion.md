@@ -4,7 +4,7 @@ title: "Physics in Motion"
 category: blog
 ---
 
-![Physics in Motion]({{ site.baseurl }}{{ "/assets/img/physics-in-motion.png" }})
+![Physics in Motion]({{ site.baseurl }}{{ "/assets/images/physics-in-motion.png" }})
 
 Physics is the study of nature. It is a dynamic and exciting subject, full of many mysteries and intriguing ideas.
 
