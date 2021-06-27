@@ -23,5 +23,3 @@ I learned that changing habits is not as simple as just picking a new cue or rou
 All of this is to say that changing or building habits will always be a struggle, and not a trivial matter. To change or build a habit, you will have to experiment — sometimes for a very long time — before you find the right conditions that will allow you to truly change or build a habit.
 
 The purpose of the habit loop is not to offer a magic pill that will allow you to change or build any habit — and in fact, [this is exactly what Charles Duhigg says](https://charlesduhigg.com/the-power-of-habit/). Instead, the habit loop is like a tool that will provide you with better insight on how habits work, and will help you know how to approach changing habits, and when you have found the right formula to change or build a habit.
-
-*Also published on [Medium](https://medium.com/the-innovation/the-struggle-of-habit-ca175616106c)*
