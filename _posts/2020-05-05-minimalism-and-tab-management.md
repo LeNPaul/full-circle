@@ -6,7 +6,7 @@ category: blog
 
 For years, I have always struggled with tab management on my internet browser. I had a terrible habit of always keeping several dozen tabs opened at the same time - each one seemingly important enough that I needed the tab opened, just in case.
 
-Not only does this take up a lot of computing resources, but I’ve realized that it also takes up a lot of mental resources as well. Having several tabs opened at the same time can be overwhelming, and a big weight on your mind. This is especially true when you are trying to get something done, and you have several unrelated tabs opened for other tasks that you also needed to get done.
+Not only does this take up a lot of computing resources, but I’ve realized that it also takes up a lot of mental resources as well. Having several tabs opened at the same time can be overwhelming, and a big weight on your mind. This is especially true when you are trying to get something done, and you have several unrelated tabs opened for other tasks that you also need to get done.
 
 A few years ago, I stumbled across a browser plugin called [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall), which promises to "save up to 95% memory and reduce tab clutter". The idea is that whenever you find that there are too many tabs opened on your browser, you simply click on the OneTab button, and all of your tabs will be closed and prepended into the OneTab tab, which contains a list of all of the tabs you previously had opened.
 
@@ -16,7 +16,7 @@ This is different from many of the other tab management plugins that I have trie
 
 To me, being able to manage my tabs on the browser inside of a tab made me feel better about "closing" my tabs and bringing them into OneTab, as my saved tabs are still visible and easily accessible.
 
-Despite all of that, I still had the habit of keeping several dozen tabs opened at the same time. I would always wait until I absolutely had to being my tabs into OneTab, before I actually did. Usually, this would be at the end of the week, when I’ve had over 30 tabs opened that I have been trying to navigate through for the past week.
+Despite all of that, I still had the habit of keeping several dozen tabs opened at the same time. I would always wait until I absolutely had to bring my tabs into OneTab, before I actually did. Usually, this would be at the end of the week, when I’ve had over 30 tabs opened that I have been trying to navigate through for the past week.
 
 In many ways, I was still back to where I had started a few years ago when I had first discovered OneTab.
 
@@ -36,4 +36,4 @@ The last rule above also draws on a common theme in minimalism. Instead of alway
 
 Sometimes, I’ll realize that some of the tabs that I previously had opened were actually useless, and that I don’t need to keep them anymore. But more often than not, I have come across many new insights from rereading pages that I had saved in the past, and have found use out of them again.
 
-In the end, finally, I think I have learned how to be a minimalist with my browser tabs.
+Finally, I think I have learned how to be a minimalist with my browser tabs.

@@ -133,5 +133,3 @@ The point of going through all of this was not necessarily the final product, bu
 In the end, miraculously, I ended up getting a job offer the very next day. The hiring manager (who is still my current manager) was impressed.
 
 Having gotten the job, I looked forward to truly learning more about the healthcare IT industry, and hopefully using the problem-solving skills that I learned throughout all of this to solve real problems in healthcare IT.
-
-*Also published on [Medium](https://uxdesign.cc/human-centred-design-in-hospital-technology-b8f89910c0e3)*
