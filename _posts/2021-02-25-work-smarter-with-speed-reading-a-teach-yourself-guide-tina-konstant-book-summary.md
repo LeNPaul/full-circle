@@ -10,6 +10,8 @@ hidden: false
 comments: false
 ---
 
+![Work Smarter with Speed Reading: A Teach Yourself Guide]({{ site.baseurl }}{{ "/assets/images/work-smarter-with-speed-reading-a-teach-yourself-guide.png" }})
+
 I first came across speed reading many years ago while browsing for books at the library. *Work Smarter with Speed Reading: A Teach Yourself Guide* by Tina Konstant was one of the books that I came across that had the most comprehensive information on speed reading. Every speed reading resource that I have come across since then offers the same advice found in this book, which are found in the summary below.
 
 ### Summary

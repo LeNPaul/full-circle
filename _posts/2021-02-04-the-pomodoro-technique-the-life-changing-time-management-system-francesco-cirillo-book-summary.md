@@ -10,6 +10,8 @@ hidden: false
 comments: false
 ---
 
+![The Pomodoro Technique: The Life-Changing Time-Management System]({{ site.baseurl }}{{ "/assets/images/the-pomodoro-technique-the-life-changing-time-management-system.png" }})
+
 *The Pomodoro Technique: The Life-Changing Time-Management System* by Francesco Cirillo was a life-changing book for me. I discovered the Pomodoro technique almost a decade ago while studying in university, and since then, I have been consistently using this technique for doing any kind of focused work.
 
 Not many people know that the creator of the Pomodoro Technique also wrote a small book outlining their technique and philosophy. Although the Pomodoro technique is very simple and can be explained in one sentence, this book offers a complete framework for becoming more efficient at your work and handling distractions using the Pomodoro Technique.

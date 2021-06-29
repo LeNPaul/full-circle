@@ -10,6 +10,8 @@ hidden: false
 comments: false
 ---
 
+![The Inner Game of Tennis]({{ site.baseurl }}{{ "/assets/images/the-inner-game-of-tennis-timothy-gallwey-book-summary.png" }})
+
 I first heard about *The Inner Game of Tennis* by Timothy Gallwey many years ago on a guitar forum. It was recommended because the principles in this book apply not only to tennis, but to many other activities, including playing the guitar. I eventually read this book when I was in university, and indeed, the concepts in this book have since had a big influence on how I perform many activities, such as weightlifting and playing the guitar.
 
 ### Summary

@@ -8,7 +8,7 @@ Ever since it was first published in 2012, *[The Power of Habit](https://charles
 
 [In simple terms, *The Power of Habit* claims that habits are governed by a neurological loop that consists of three elements: a cue, a routine, and a reward](https://charlesduhigg.com/how-habits-work/). The cue is anything that triggers the routine, the routine is the action that makes up the habit, and the reward is the benefit that comes out of the routine. To change or build a habit, you must manipulate the habit loop, changing the cue and the routine to achieve a similar reward as your original habit.
 
-![The habit loop: routine — reward — cue]({{ site.baseurl }}{{ "/assets/images/the-struggle-of-habit-2.jpg" }})
+![The habit loop: routine — reward — cue]({{ site.baseurl }}{{ "/assets/images/the-struggle-of-habit.jpg" }})
 
 In the years since I first read *The Power of Habit*, I had tried applying this advice in my own life many times, and had failed, many times.
 

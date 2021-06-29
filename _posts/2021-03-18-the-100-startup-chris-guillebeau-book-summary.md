@@ -10,6 +10,8 @@ hidden: false
 comments: false
 ---
 
+![The $100 Startup]({{ site.baseurl }}{{ "/assets/images/100-startup-chris-guillebeau.png" }})
+
 I first came across *The $100 Startup* by Chris Guillebeau at a local bookstore many years ago while I was in university. At the time when I read this book, the concepts were not immediately relevant to me. However, since graduating, many of the ideas in this book have had an influence on me. This book offers plenty of practical advice and detailed steps on starting a small business. The following summary includes the essence of each chapter.
 
 ### Summary

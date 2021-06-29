@@ -10,6 +10,8 @@ hidden: false
 comments: false
 ---
 
+![The Richest Man in Babylon]({{ site.baseurl }}{{ "/assets/images/the-richest-man-in-babylon-george-clason-book-summary.png" }})
+
 *The Richest Man in Babylon* by George S. Clason is a classic book on personal finance. I first read this book while in the middle of university, and since graduating, the advice given in this book has proven to be valuable. This book presents timeless personal financial advice in the form of fictional parables that take place in ancient Babylon. It's a very short read, with much of the advice condensed in the summary below.
 
 ### Summary

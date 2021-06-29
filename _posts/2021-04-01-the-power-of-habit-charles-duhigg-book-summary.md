@@ -10,6 +10,8 @@ hidden: false
 comments: false
 ---
 
+![The Power of Habit]({{ site.baseurl }}{{ "/assets/images/the-power-of-habit-charles-duhigg-book-summary.png" }})
+
 I first read *The Power of Habit* by Charles Duhigg when I was in university. It was one of the first personal development/popular psychology books I had ever read. Since then, I have used many of the concepts in this book to change and build new habits.
 
 ### Summary

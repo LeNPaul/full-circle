@@ -10,6 +10,8 @@ hidden: false
 comments: false
 ---
 
+![The Subtle Art of Not Giving a F\*ck]({{ site.baseurl }}{{ "/assets/images/the-subtle-art-of-not-giving-a-fuck-by-mark-manson-book-summary.png" }})
+
 I first came across *The Subtle Art of Not Giving a F\*ck* by Mark Manson at the local book store, and recall how the cover immediately caught my attention - both the colour, typography, and the actual title of the book. I eventually read this book after it was recommended to me many times.
 
 Although I don't think this book offers anything new, I still think it is a great summary of much of the self-improvement advice that you will come across in this genre, packaged into a single book.
