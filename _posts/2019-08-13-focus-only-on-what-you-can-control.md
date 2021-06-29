@@ -4,7 +4,7 @@ title: "Focus Only on What You Can Control"
 category: [ lessons learned ]
 ---
 
-A few weeks ago, I read [Meditations, by Marcus Aurelius](https://en.wikipedia.org/wiki/Meditations). It was a book that was recommended to me by many, that I had been meaning to read for a long time.
+A few weeks ago, I read *[Meditations](https://en.wikipedia.org/wiki/Meditations)* by Marcus Aurelius. It was a book that was recommended to me by many, that I had been meaning to read for a long time.
 
 I was on vacation with my family for two weeks, and thought that it would be a fitting book to read, as this was the first real break I have had from work in a while.
 

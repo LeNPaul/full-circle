@@ -4,7 +4,7 @@ title: "What Assumptions Are You Making?"
 category: [ lessons learned ]
 ---
 
-In the last few years that I have been working professionally in IT - in roles ranging from customer support, professional services, to software development - one of the most important lessons that I have learned is the following:
+In the last few years that I have been working professionally in IT in roles ranging from customer support, professional services, to software development, one of the most important lessons that I have learned is the following:
 
 > What assumptions are you making, and are they justified?
 

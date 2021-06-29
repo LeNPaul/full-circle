@@ -6,11 +6,11 @@ category: blog
 
 As I was looking though the Chrome extensions that I had collected over the past few years to remove the ones that I didn’t use anymore, I noticed an old one that I had from my university years - [News Feed Eradicator for Facebook](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en).
 
-In my late high school and university years, I was addicted to Facebook. In high school, I would come home from school and be glued to my computer, browsing Facebook. By the time I was in university, instead of studying, I would spend time scrolling through my Facebook home page - getting dopamine hit after dopamine hit as I clicked on interesting articles that caught my attention, or saw what my friends were doing with their lives.
+In my late high school and university years, I was addicted to Facebook. In high school, I would come home from school and be glued to my computer, browsing Facebook. By the time I was in university, instead of studying, I would spend time scrolling through my Facebook home page, getting dopamine hit after dopamine hit as I clicked on interesting articles that caught my attention, or saw what my friends were doing with their lives.
 
 I knew that I was spending a lot of time on Facebook, but I did not know just how much time I was wasting.
 
-To help quantify just how much time I was spending on Facebook, I used [RescueTime](https://www.rescuetime.com/) to help track my time. The numbers were surprising to me - up 17 hours a day on some days. It was clear that I needed to waste less time on Facebook.
+To help quantify just how much time I was spending on Facebook, I used [RescueTime](https://www.rescuetime.com/) to help track my time. The numbers were surprising to me: up 17 hours a day on some days. It was clear that I needed to waste less time on Facebook.
 
 At first, I tried some of the usual ways: willing myself to spend less time on Facebook, and attempting to go cold turkey, blocking Facebook using some kind of site blocker.
 
@@ -28,7 +28,7 @@ Somehow, this compromise seemed to work - I cut my time on Facebook down to a fe
 
 ### Lessons Learned
 
-Although I did not intend this originally, as I reflected on this many years later, and having read [The Power of Habit by Charles Duhigg](https://charlesduhigg.com/the-power-of-habit/), I realized that part of why I was successful in kicking my Facebook addiction was that I was [manipulating the habit loop](https://charlesduhigg.com/how-habits-work/).
+Although I did not intend this originally, as I reflected on this many years later, and having read *[The Power of Habit](https://charlesduhigg.com/the-power-of-habit/)* by Charles Duhigg, I realized that part of why I was successful in kicking my Facebook addiction was that I was [manipulating the habit loop](https://charlesduhigg.com/how-habits-work/).
 
 ![How Habits Work — Charles Duhigg]({{ site.baseurl }}{{ "/assets/images/kicked-facebook-addiction.jpg" }})
 
@@ -44,4 +44,4 @@ In the past, when I have tried to intentionally manipulate the habit loop to cha
 
 It’s clear though, that manipulating the habit loop is a powerful tool in changing and building habits, and the goal is to ultimately be able to recognize true triggers and routines, and to be able to manipulate these as desired.
 
-Maybe in the past when I tried manipulating the habit loop, I just didn’t pick the right triggers.
+In the past when I tried manipulating the habit loop, I just didn’t pick the right triggers. The lesson learned here is that experimentation is required to find the right cue, routines, and rewards.

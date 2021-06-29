@@ -24,4 +24,4 @@ I would also try and keep my to-do list down to around a dozen tasks every day, 
 
 After a while, I noticed that my productivity increased, and that I would feel less overwhelmed throughout the day.
 
-Whenever I find that I start to pile unnecessary tasks into Todoist, I take a few steps back and pare away the excess tasks.
+Now, whenever I find that I start to pile unnecessary tasks into Todoist, I take a few steps back and pare away the excess tasks.
