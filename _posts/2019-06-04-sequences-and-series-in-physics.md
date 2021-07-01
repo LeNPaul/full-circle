@@ -14,7 +14,7 @@ What this means is, given a complicated function, you can approximate what that 
 
 For example, take the function represented by the dotted line in the following diagram:
 
-<img alt="Hooke's Law" src="/assets/images/sequences-and-series-in-physics-1.png" style="width:250px; margin: auto; display: block;"/>
+<img alt="Hooke's Law diagram" src="/assets/images/sequences-and-series-in-physics-1.png" style="width:250px; margin: auto; display: block;"/>
 
 Notice how the dotted line fits pretty nicely with the red line near the origin. Think of the dotted line as a complicated, nasty function, and the red line as an approximation of that complicated, nasty function, that works pretty well if you stay close to the origin. Where do you get the red line from?
 

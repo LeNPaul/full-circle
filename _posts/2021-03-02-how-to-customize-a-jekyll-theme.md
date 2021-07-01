@@ -62,11 +62,11 @@ You can then change the font family for the different components of your Jekyll 
 
 [Google Fonts](https://fonts.google.com/) is a popular source of fonts that are used by many Jekyll themes. From the home page, choose a font that you would like to use, and select all the styles that you need (you will usually need a regular, bold, and italicized style). Once you have your font styles selected, on the top right, there is a menu that you can click on that will slide out:
 
-![Changing Fonts]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-3.png" }})
+![Google Fonts]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-3.png" }})
 
 On the right slide-out menu, copy the code snippet into the `<head>` of your HTML. In most Jekyll themes, the best place to paste this will be in the `_layouts/default.YAML` file:
 
-![Changing Fonts]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-4.png" }})
+![Google Fonts]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-4.png" }})
 
 #### Changing Colours
 

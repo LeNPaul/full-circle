@@ -4,7 +4,7 @@ title: "Moving Mountains"
 category: [ lessons learned ]
 ---
 
-![Moving Mountains]({{ site.baseurl }}{{ "/assets/images/moving-mountains.jpg" }})
+![Mountains from Death to Stock]({{ site.baseurl }}{{ "/assets/images/moving-mountains.jpg" }})
 
 Some of the best experiences of my life were travelling to places with mountains. Mountains fascinate me because of how enormous and ancient they are. Witnessing a mountain range is a humbling experience because of how indifferent they are to our problems. On the scale that mountains operate on, our problems are insignificant.
 

@@ -4,7 +4,7 @@ title: "Quality or Quantity?"
 category: [ lessons learned ]
 ---
 
-![Person sewing]({{ site.baseurl }}{{ "/assets/images/quality-or-quantity.jpeg" }})
+![Person sewing from Death to Stock]({{ site.baseurl }}{{ "/assets/images/quality-or-quantity.jpeg" }})
 
 An old adage that people often hear is “quality over quantity”. Given a scenario where one must choose between something of high quality, or something of high quantity, one should choose high quality. In many cases, this is true. But does this apply everywhere in life?
 

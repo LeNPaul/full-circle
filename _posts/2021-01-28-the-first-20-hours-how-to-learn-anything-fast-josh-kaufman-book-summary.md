@@ -10,7 +10,7 @@ hidden: false
 comments: false
 ---
 
-![The First 20 Hours: How to Learn Anything . . . Fast!]({{ site.baseurl }}{{ "/assets/images/first-20-hours-how-to-learn-anything-fast-book-summary.png" }})
+![The First 20 Hours: How to Learn Anything... Fast!]({{ site.baseurl }}{{ "/assets/images/first-20-hours-how-to-learn-anything-fast-book-summary.png" }})
 
 *The First 20 Hours: How to Learn Anything... Fast!* by Josh Kaufman is a book on how to efficiently acquire skills. Written by the same author as *The Personal MBA: Master the Art of Business*, this book promises to teach you how to learn anything... fast - presumably, within the first 20 hours.
 

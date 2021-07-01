@@ -4,7 +4,7 @@ title: "What Every Productivity System Has in Common"
 category: blog
 ---
 
-![Photo by Death to Stock]({{ site.baseurl }}{{ "/assets/images/what-every-productivity-system-has-in-common-1.jpeg" }})
+![Sticky notes from Death to Stock]({{ site.baseurl }}{{ "/assets/images/what-every-productivity-system-has-in-common-1.jpeg" }})
 
 Over the years, I had come across and read about many different productivity systems, from [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/), the [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique), the [Eisenhower Matrix](https://todoist.com/productivity-methods/eisenhower-matrix), and [SMART goals](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals), to project management methodologies such as [Scrum and Kanban](https://www.atlassian.com/agile/kanban/kanban-vs-scrum).
 

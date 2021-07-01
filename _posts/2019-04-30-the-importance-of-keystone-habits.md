@@ -14,7 +14,7 @@ The following are some keystone habits that I personally practice, that I feel h
 
 ### Journaling
 
-![Death to Stock]({{ site.baseurl }}{{ "/assets/images/keystone-habits-1.png" }})
+![Person journaling from Death to Stock]({{ site.baseurl }}{{ "/assets/images/keystone-habits-1.png" }})
 
 I personally keep a journal that I write in regularly, at least once a week. I have a dedicated journal where I write about what is going on in my life at the moment, and my thoughts and feelings on it all. I find it helps me to organize my thoughts better. Many times, it serves as a cathartic release for me. As a bonus, it serves as a record of my thoughts at a given time, and I enjoy reading back on past entries, and seeing how much I’ve changed since then.
 
@@ -22,7 +22,7 @@ There are of course many benefits of journaling. These benefits include improved
 
 ### Exercise
 
-![Death to Stock]({{ site.baseurl }}{{ "/assets/images/keystone-habits-2.png" }})
+![Person riding bike from Death to Stock]({{ site.baseurl }}{{ "/assets/images/keystone-habits-2.png" }})
 
 This may seem like an obvious one, but there are many more benefits of exercising than people realize. From *The Power of Habit*:
 
@@ -30,7 +30,7 @@ This may seem like an obvious one, but there are many more benefits of exercisin
 
 ### Reading
 
-![Death to Stock]({{ site.baseurl }}{{ "/assets/images/keystone-habits-3.png" }})
+![Person reading from Death to Stock]({{ site.baseurl }}{{ "/assets/images/keystone-habits-3.png" }})
 
 In my opinion, reading is one of the best habits that I have developed in my life. Although I have always been a bookworm from a very young age, as I grew older I found I had less time to read. By the end of high school I was only reading books assigned to me from school. Fortunately, I was able to reignite this habit, and have since made reading a habit once more.
 

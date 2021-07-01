@@ -30,7 +30,7 @@ Somehow, this compromise seemed to work - I cut my time on Facebook down to a fe
 
 Although I did not intend this originally, as I reflected on this many years later, and having read *[The Power of Habit](https://charlesduhigg.com/the-power-of-habit/)* by Charles Duhigg, I realized that part of why I was successful in kicking my Facebook addiction was that I was [manipulating the habit loop](https://charlesduhigg.com/how-habits-work/).
 
-![How Habits Work — Charles Duhigg]({{ site.baseurl }}{{ "/assets/images/kicked-facebook-addiction.jpg" }})
+![The habit loop — Charles Duhigg]({{ site.baseurl }}{{ "/assets/images/kicked-facebook-addiction.jpg" }})
 
 What I realized was that the routine part of my habit was scrolling through my Facebook newsfeed, seeing what my friends were doing, and clicking on interesting articles that came up. It wasn’t Facebook that I was addicted to - it was the act of scrolling through my Facebook newsfeed and seeing the posts that would draw me in for hours.
 
