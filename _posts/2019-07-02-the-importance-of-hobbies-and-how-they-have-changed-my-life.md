@@ -38,13 +38,13 @@ When you feel this strongly about something, you cultivate passion. When you fin
 
 As a result of my guitar ability, I was able to play with a few bands, and do a few live performances at local venues by the end of high school, and during my years in university. It was a really fun time in my life, and I have many stories to tell from it.
 
-Hobbies make your life more interesting, and gives you something to look forward to in your life outside of school and work.
+Hobbies make your life more interesting, and gives you something to look forward to in your life outside of school and work. As evident with pen spinning, you see things that other people don't see. These nuances make your world bigger and more exciting.
 
 ---
 
 Whenever I feel like I am in a rut in my life, I try and focus on my hobbies. Most of the time, I find that I am in a rut *because* I have stopped practicing my hobbies. It could be because of how busy life can get, or because of laziness, that I begin to neglect my hobbies.
 
-Whatever the reason, as soon as I catch myself, I try my best to get back on track with my hobbies. Whether it be reading books, going to the gym, or playing a musical instrument - just spending some time working on my hobbies is enough to get me out of a rut.
+Whatever the reason, as soon as I catch myself, I try my best to get back on track. Whether it be reading books, going to the gym, or playing a musical instrument - just spending some time working on my hobbies is enough to get me out of a rut.
 
 With many people these days so focused on school or on their careers, it can be hard to find time for hobbies - which are often seen as something done only for leisure. People might rather do something else for leisure on the little free time that they have.
 

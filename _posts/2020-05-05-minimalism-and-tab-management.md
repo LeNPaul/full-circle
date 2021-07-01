@@ -36,4 +36,4 @@ The last rule above also draws on a common theme in minimalism. Instead of alway
 
 Sometimes, I’ll realize that some of the tabs that I previously had opened were actually useless, and that I don’t need to keep them anymore. But more often than not, I have come across many new insights from rereading pages that I had saved in the past, and have found use out of them again.
 
-Finally, I think I have learned how to be a minimalist with my browser tabs.
+Through applying some principles of minimalism, I now have a much better grasp of how I manage my browser tabs.

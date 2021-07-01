@@ -14,7 +14,7 @@ In the years since I first read *The Power of Habit*, I had tried applying this 
 
 What I eventually realized was that in the times that I had failed to change or build a habit, I was simply just picking a habit that I had wanted to change or build, and then in an ad hoc manner choosing a new cue or routine to try and replace or build a new habit. Of course, this would always fail, because the new cue or routine was never the right one for changing or building the habit.
 
-In the times that I had been successful in changing a habit, such as [when I kicked my Facebook addiction]({% post_url 2019-09-10-kicked-facebook-addiction %}), I had never actually consciously chose a new cue or routine. Instead, it always came by accident, after countless attempts at experimenting, and trying new things until I stumbled on the right combination of a new cue and routine that would lead to a new or changed habit.
+In the times that I had been successful in changing a habit, such as [when I kicked my Facebook addiction]({% post_url 2019-09-10-how-i-kicked-my-facebook-addiction %}), I had never actually consciously chose a new cue or routine. Instead, it always came by accident, after countless attempts at experimenting, and trying new things until I stumbled on the right combination of a new cue and routine that would lead to a new or changed habit.
 
 I learned that changing habits is not as simple as just picking a new cue or routine. It comes after numerous attempts with experimenting with many different cues and routines, before you find one that “just clicks”.
 

@@ -4,7 +4,7 @@ title: "How Computer Programming Revolutionized Physics Research"
 category: blog
 ---
 
-There is an interesting history behind the relationship between computer programming and physics, at least in astrophysics and nuclear physics.
+There is an interesting history behind the relationship between computer programming and physics, especially in astrophysics.
 
 In physics, many problems do not have exact, analytical solutions. What this means is that these solutions cannot be written as exact functions. In fact, many of the problems we learn about in school often represent special cases where an exact answer can be calculated using pen and paper with [very specific tricks and fancy footwork](https://en.wikipedia.org/wiki/Introduction_to_Quantum_Mechanics_(book)). Most problems in physics are not as simple.
 

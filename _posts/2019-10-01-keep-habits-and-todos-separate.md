@@ -10,7 +10,7 @@ To me, Todoist is the perfect blend of minimalist and clean design, with the rig
 
 Naturally, I was tempted to put everything into Todoist: from my long-term goals, random thoughts, to even my reoccurring habits that I like to track.
 
-Within a few weeks of doing this though, I noticed that my daily to-do lists would gradually get bigger. I would look at my to-do list and feel overwhelmed, not knowing where to start.
+Within a few weeks of doing this though, I noticed that my daily to-do list would gradually get bigger. I would look at my to-do list and feel overwhelmed, not knowing where to start.
 
 I have found in my experience that the following paradox is true:
 

@@ -6,11 +6,13 @@ category: blog
 
 When I first learned about sequences and series in calculus class in my first year of university, I initially thought that this was a niche topic that was not really useful outside of mathematics. It wasn't until my later years in university when I took more advanced physics classes that I saw how useful sequences and series are in physics, especially Taylor Series.
 
-The main idea with [Taylor Series](https://en.wikipedia.org/wiki/Taylor_series) is that you can represent any analytic function as an infinite sum of terms calculated from the values of the function's derivatives at a single point.
+The main idea with [Taylor Series](https://en.wikipedia.org/wiki/Taylor_series) is that you can represent any analytic function as an infinite sum of terms calculated from the values of the function's derivatives at a single point. Consequently:
 
 > Any function that can be represented as a Taylor Series can be approximated using a finite number of terms of its Taylor Series, typically by only looking at the first few terms in the series.
 
-What this means is, given a complicated function, you can approximate what that function will look like near a given point, typically by using a line or a parabola:
+What this means is, given a complicated function, you can approximate what that function will look like near a given point, typically by using a line or a parabola.
+
+For example, take the function represented by the dotted line in the following diagram:
 
 <img alt="Hooke's Law" src="/assets/images/sequences-and-series-in-physics-1.png" style="width:250px; margin: auto; display: block;"/>
 

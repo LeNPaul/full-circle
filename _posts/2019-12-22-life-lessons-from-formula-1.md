@@ -42,4 +42,4 @@ Sometimes, there will be things that are just outside of your control, that you 
 
 That does not mean that you stop trying, because circumstances do change, and those that are ready and can adapt will eventually succeed.
 
-Focus on what you can control instead, and be ready to take an opportunity when it is given to you.
+[Focus on what you can control]({% post_url 2019-08-13-focus-only-on-what-you-can-control %}) instead, and be ready to take an opportunity when it is given to you.

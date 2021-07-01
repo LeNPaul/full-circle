@@ -8,9 +8,9 @@ In his book, *[The Power of Habit](http://charlesduhigg.com/the-power-of-habit/)
 
 For example, [in a study that was done on weight loss](http://www.webmd.com/diet/20080708/keeping-food-diary-helps-lose-weight), participants were asked to keep a food journal, where they tracked what they ate throughout the day. It was found that “those who kept daily food records lost twice as much weight as those who kept no records. It seems that the simple act of writing down what you eat encourages people to consume fewer calories”. Interestingly enough, the habit of tracking food consumption led to the habit of eating less, most likely due to newfound awareness of one’s eating habits.
 
-An important characteristic of many keystone habits is that they are often habits which depend on tracking and quantifying something that you are trying to improve on. It’s not hard to see how the above study could also be extended to other habits, another example being that of a graduate student who stopped her nail-biting habit in large part by recording each time she bit her nails.
+An important characteristic of many keystone habits is that they are often habits which depend on tracking and quantifying something that you are trying to improve on. It’s not hard to see how the above study could also be extended to other habits, with another example being that of a graduate student who stopped her nail-biting habit in large part by recording each time she bit her nails.
 
-The following are some keystone habits that I personally practice myself in my own life, that I feel have the greatest impact.
+The following are some keystone habits that I personally practice, that I feel have the greatest impact in my life.
 
 ### Journaling
 
@@ -24,9 +24,9 @@ There are of course many benefits of journaling. These benefits include improved
 
 ![Death to Stock]({{ site.baseurl }}{{ "/assets/images/keystone-habits-2.png" }})
 
-This may seem like an obvious one, but there are many more benefits of exercising than people realize:
+This may seem like an obvious one, but there are many more benefits of exercising than people realize. From *The Power of Habit*:
 
-> “When people start habitually exercising, even as infrequently as once a week, they start changing other, unrelated patterns in their lives, often unknowingly. Typically people who exercise start eating better and becoming more productive at work. They smoke less and show more patience with colleagues and family. They use their credit cards less frequently and say they feel less stressed. It’s not completely clear why…’Exercise spills over,’ said James Prochaska, a University of Rhode Island researcher. ‘There’s something about it that makes other good habits easier.’” (p. 109)
+> “When people start habitually exercising, even as infrequently as once a week, they start changing other, unrelated patterns in their lives, often unknowingly. Typically people who exercise start eating better and becoming more productive at work. They smoke less and show more patience with colleagues and family. They use their credit cards less frequently and say they feel less stressed. It’s not completely clear why…’Exercise spills over,’ said James Prochaska, a University of Rhode Island researcher. ‘There’s something about it that makes other good habits easier.’”
 
 ### Reading
 
