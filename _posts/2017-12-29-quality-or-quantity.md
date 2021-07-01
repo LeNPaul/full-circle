@@ -4,6 +4,8 @@ title: "Quality or Quantity?"
 category: [ lessons learned ]
 ---
 
+![Person sewing]({{ site.baseurl }}{{ "/assets/images/quality-or-quantity.jpeg" }})
+
 An old adage that people often hear is “quality over quantity”. Given a scenario where one must choose between something of high quality, or something of high quantity, one should choose high quality. In many cases, this is true. But does this apply everywhere in life?
 
 In the book, *[Art & Fear: Observations on the Perils (and Rewards) of Artmaking](https://www.amazon.ca/Art-Fear-Observations-Rewards-Artmaking/dp/0961454733)* by David Bayles, he tells of a parable:

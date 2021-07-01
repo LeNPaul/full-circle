@@ -10,7 +10,7 @@ Although this trait has served us well for millions of years, in some cases, it 
 
 Contrary to the paradigm that most of us are brought up on that failure is bad, there are actually many benefits of failure.
 
-Willingly putting ourselves in situations where failure is almost inevitable forces us to become resourceful, since we have no other choice but failure. This will lead to personal growth as you overcome your challenges. Even if you do fail, your efforts will not be wasted as you will have learned many lessons along the way.
+Being in situations where failure is almost inevitable forces us to become resourceful, since we have no other choice but failure. This will lead to personal growth as you overcome your challenges. Even if you do fail, your efforts will not be wasted as you will have learned many lessons along the way.
 
 Experiencing and overcoming failure builds your emotional strength, analogous to how muscle fibers grow back stronger after a workout. It can lead to new insights and wisdom about your situation that you might not have otherwise made, had you succeeded without a problem. Each failure that you experience may motivate you to try and succeed at the next opportunity.
 

@@ -8,19 +8,19 @@ Everyone is familiar with settings goals, but not everything is familiar with ac
 
 There are seven steps that you may follow to achieve results:
 
-1. Create a vision — ask yourself what you want to accomplish, and make this as clear and vibrant in your mind as possible.
+1. **Create a vision.** Ask yourself what you want to accomplish, and make this as clear and vibrant in your mind as possible.
 
-2. Divide and conquer — quantify what you would like to achieve, and break it down into smaller steps.
+2. **Divide and conquer.** Quantify what you would like to achieve, and break it down into smaller steps.
 
-3. Process into actions — what are the next steps to accomplishing something?
+3. **Process into actions.** What are the next steps to accomplishing something?
 
-4. Make your commitment public — hold yourself accountable, and set a date that you will accomplish your goal.
+4. **Make your commitment public.** Hold yourself accountable, and set a date that you will accomplish your goal.
 
-5. Establish accountability — find a mentor or coach to receive regular guidance and follow-up from.
+5. **Establish accountability.** Find a mentor or coach to receive regular guidance and follow-up from.
 
-6. Celebrate your successes — record and share your successes, and whenever you feel like giving up, ask yourself why you started in the first place.
+6. **Celebrate your successes.** Record and share your successes, and whenever you feel like giving up, ask yourself why you started in the first place.
 
-7. Review your progress — recalibrate and redo the previous steps if necessary.
+7. **Review your progress.** Recalibrate and redo the previous steps if necessary.
 
 ---
 

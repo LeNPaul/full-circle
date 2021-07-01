@@ -6,7 +6,7 @@ category: [ lessons learned ]
 
 ![Moving Mountains]({{ site.baseurl }}{{ "/assets/images/moving-mountains.jpg" }})
 
-Some of the best experiences of my life were travelling to places with mountains. Mountains fascinate me because of how enormous and ancient they are. Witnessing a mountain range is a humbling experience because of how indifferent they are to our problems. On the scale that mountains operation on, our problems are insignificant.
+Some of the best experiences of my life were travelling to places with mountains. Mountains fascinate me because of how enormous and ancient they are. Witnessing a mountain range is a humbling experience because of how indifferent they are to our problems. On the scale that mountains operate on, our problems are insignificant.
 
 For this reason, the idea of moving mountains seems impossible. Even the notion of climbing a mountain seems almost out of reach.
 
@@ -28,6 +28,6 @@ For example:
 
 2. Rather than saying that you will read a dozen books this year, make a small goal of reading a few pages a day. By the end of the year, you will have made more progress than you would have expected.
 
-3. Rather than setting the goal to clear your email inbox, which is a daunting task, set the task of clearing 10 emails a day, and consider that task done once you do it. You will better manage your email in the long run.
+3. Rather than setting the goal to clear your email inbox, which is a daunting task, set the task of clearing 10 emails a day, and consider that task done once you complete it. You will better manage your email in the long run.
 
 Over time, you'll look back and realize you've moved a mountain.
