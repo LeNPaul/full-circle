@@ -4,7 +4,7 @@ title: "Improving Support Workflow Through Human-Centered Design Part II"
 category: blog
 ---
 
-[In my previous post]({% post_url 2019-05-21-improving-support-workflow-part-1 %}), I gave an introduction to the problem that I was trying to solve, I had talked about the process that I would take in solving that problem, and then I began going through that process and describing what I was doing at each step. If you have not [read part I yet, then please check that out first]({% post_url 2019-05-21-improving-support-workflow-part-1 %}), as this article is a continuation of part I.
+[In my previous post]({% post_url 2019-05-21-improving-support-workflow-through-human-centered-design-part-i %}), I gave an introduction to the problem that I was trying to solve, I had talked about the process that I would take in solving that problem, and then I began going through that process and describing what I was doing at each step. If you have not [read part I yet, then please check that out first]({% post_url 2019-05-21-improving-support-workflow-through-human-centered-design-part-i %}), as this article is a continuation of part I.
 
 ## Prototype
 
