@@ -4,6 +4,8 @@ title: "One Step at a Time."
 category: blog
 ---
 
+![Person walking up stairs from Death to Stock]({{ site.baseurl }}{{ "assets/images/one-step-at-a-time.jpeg" }})
+
 People are often inclined to set ambitious goals when they wish to make a change in their life.
 
 There is nothing wrong with setting ambitious goals, and one should have ambitious goals in their life.

@@ -4,6 +4,8 @@ title: "Learning a Programming Language in One Night"
 category: blog
 ---
 
+![Laptop on table from Death to Stock]({{ site.baseurl }}{{ "/assets/images/learning-a-programming-language-in-one-night.jpeg" }})
+
 I learned a new programming language in one night once.
 
 Actually, it didn’t really work out at all.
