@@ -8,7 +8,7 @@ Sooner or later, we all eventually realize that teachers are not the all-knowing
 
 [When we were younger, teachers were the ones many of us turned to for answers](https://photomatt7.wordpress.com/2012/01/03/myth-teachers-know-everything/). For some, a teacher’s word held more weight than even their own parents’. But somewhere along the way of growing up, we eventually realize that teachers are not always right.
 
-![A young boy standing in front of a chalkboard with several math equations.]({{ site.baseurl }}{{ "/assets/images/when-teachers-are-wrong.jpeg" }})
+![A young boy standing in front of a chalkboard with several math equations from Death to Stock]({{ site.baseurl }}{{ "/assets/images/when-teachers-are-wrong.jpg" }})
 
 This realization may come early on, but for many, this happens most notably in high school — the rebellious years — where many students question the utility of what they are learning in school.
 

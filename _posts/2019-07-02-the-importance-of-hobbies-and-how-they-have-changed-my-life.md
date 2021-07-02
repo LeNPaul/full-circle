@@ -4,6 +4,8 @@ title: "The Importance of Hobbies and How They Have Changed My Life"
 category: blog
 ---
 
+![Guitar and camera from Death to Stock]({{ site.baseurl }}{{ "/assets/images/the-importance-of-hobbies-and-how-they-have-changed-my-life.jpg" }})
+
 Many years ago, on my first day of highschool, I had coincidentally sat next to an old friend who I had not seen or spoken to for more than five years. After we both realized that we had known each other from a long time ago, we quickly became friends.
 
 After a few days of classes, he had asked me a question that I thought was very strange: he wanted all the empty and broken pens from my pencil case. I thought this was a strange request, but I was going to throw those pens out anyways, so I gave them all to him. He was surprisingly ecstatic.
