@@ -3,6 +3,8 @@ layout: post
 title: "Analysing Data From Olympic Weightlifting Athletes"
 ---
 
+Olympic weightlifting is a an Olympic sport where an athlete competes by performing two lifts: the [snatch](https://www.youtube.com/watch?v=3jdGt9cftyU) and the [clean & jerk](https://www.youtube.com/watch?v=PRlJWcPzg-8). It's a sport that I have developed an interest in over the past year. Being the nerd that I am, I was interested in doing some data analysis on Olympic weightlifting athletes.
+
 Using data gathered from the [International Weightlifting Federation's](http://www.iwf.net/) website, I generated a few graphs using Python's [Matplotlib](https://matplotlib.org/) library comparing a number of variables affecting a weightlifter's results at the Olympics.
 
 There were two things that I wanted to analyze: how a weightlifter's bodyweight compares with their total weight lifted, and the ratio between their snatch and clean & jerk lifts.
