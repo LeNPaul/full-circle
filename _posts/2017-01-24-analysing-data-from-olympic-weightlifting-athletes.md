@@ -21,4 +21,4 @@ This is interesting, because I believe the [Sinclair Coefficient](http://www.iwf
 
 ![Snatch to Clearn & Jerk Ratio]({{ site.baseurl }}{{ "/assets/images/analysing-data-from-olympic-weightlifting-athletes-2.png" }})
 
-It's common knowledge that there is a strong linear relationship between a weightlifter's snatch, and clean & jerk lifts. The above plot just shows this more clearly. The line of best fit for this dataset is 81 +/- 3%, which fits nicely with anecdotal knowledge.
+It's common knowledge that there is a strong linear relationship between a weightlifter's snatch and clean & jerk lifts, where the snatch should be around 80% of the clean & jerk. The above plot just shows this more clearly. The line of best fit for this dataset is 81 +/- 3%, which fits nicely with anecdotal knowledge.
