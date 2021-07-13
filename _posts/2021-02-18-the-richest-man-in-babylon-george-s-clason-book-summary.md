@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "The Richest Man in Babylon by George S. Clason Book Summary"
-categories: [ book summary ]
-tags: [ personal finance ]
-image: assets/images/the-richest-man-in-babylon-george-clason-book-summary.png
-description: "The Richest Man in Babylon by George S. Clason Book Summary"
-featured: false
-hidden: false
-comments: false
 ---
 
 ![The Richest Man in Babylon]({{ site.baseurl }}{{ "/assets/images/the-richest-man-in-babylon-george-clason-book-summary.png" }})

@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "The First 20 Hours: How to Learn Anything... Fast! by Josh Kaufman Book Summary"
-categories: [ book summary ]
-tags: [ personal development ]
-image: assets/images/first-20-hours-how-to-learn-anything-fast-book-summary.png
-description: "The First 20 Hours: How to Learn Anything... Fast! by Josh Kaufman Book Summary"
-featured: false
-hidden: false
-comments: false
 ---
 
 ![The First 20 Hours: How to Learn Anything... Fast!]({{ site.baseurl }}{{ "/assets/images/first-20-hours-how-to-learn-anything-fast-book-summary.png" }})

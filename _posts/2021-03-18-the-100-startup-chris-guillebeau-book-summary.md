@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "The $100 Startup by Chris Guillebeau Book Summary"
-categories: [ book summary ]
-tags: [ career ]
-image: assets/images/100-startup-chris-guillebeau.png
-description: "The $100 Startup by Chris Guillebeau Book Summary"
-featured: false
-hidden: false
-comments: false
 ---
 
 ![The $100 Startup]({{ site.baseurl }}{{ "/assets/images/100-startup-chris-guillebeau.png" }})

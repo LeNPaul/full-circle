@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "How to Win Friends and Influence People by Dale Carnegie Book Summary"
-categories: [ book summary ]
-tags: [ personal development ]
-image: assets/images/how-to-win-friends-and-influence-people.png
-description: "How to Win Friends and Influence People by Dale Carnegie Book Summary"
-featured: false
-hidden: false
-comments: false
 ---
 
 ![How to Win Friends and Influence People]({{ site.baseurl }}{{ "/assets/images/how-to-win-friends-and-influence-people.png" }})

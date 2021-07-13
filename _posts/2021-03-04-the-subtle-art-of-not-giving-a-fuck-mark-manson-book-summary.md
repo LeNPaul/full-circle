@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "The Subtle Art of Not Giving a F*ck by Mark Manson Book Summary"
-categories: [ book summary ]
-tags: [ personal development ]
-image: assets/images/the-subtle-art-of-not-giving-a-fuck-by-mark-manson-book-summary.png
-description: "The Subtle Art of Not Giving a F*ck by Mark Manson Book Summary"
-featured: false
-hidden: false
-comments: false
 ---
 
 ![The Subtle Art of Not Giving a F\*ck]({{ site.baseurl }}{{ "/assets/images/the-subtle-art-of-not-giving-a-fuck-by-mark-manson-book-summary.png" }})

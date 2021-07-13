@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "The Ultimate Guide to Managing a Personal Website or Blog with Jekyll and GitHub Pages"
-categories: [ tutorial ]
-tags: [ blogging ]
-image: assets/images/the-ultimate-guide-to-managing-a-personal-website-or-blog-with-jekyll-and-github-pages.jpg
-description: "The Ultimate Guide to Managing a Personal Website or Blog with Jekyll and GitHub Pages"
-featured: false
-hidden: false
-comments: false
 ---
 
 I first discovered [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/) in my second last year of university. During that time, I was looking to learn how to code in order to pursue a career in software development. I read that Jekyll and GitHub pages were a good platform to start your personal website or blog on. However, being new to this, I was intimidated and confused by [all the resources that I came across](https://www.google.com/search?q=jekyll+github+pages).

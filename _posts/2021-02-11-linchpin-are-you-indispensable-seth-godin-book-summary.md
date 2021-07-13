@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "Linchpin: Are You Indispensable? by Seth Godin Book Summary"
-categories: [ book summary ]
-tags: [ career ]
-image: assets/images/linchpin-are-you-indispensable-seth-godin-book-summary.png
-description: "Linchpin: Are You Indispensable? by Seth Godin Book Summary"
-featured: false
-hidden: false
-comments: false
 ---
 
 ![Linchpin: Are You Indispensable?]({{ site.baseurl }}{{ "/assets/images/linchpin-are-you-indispensable-seth-godin-book-summary.png" }})

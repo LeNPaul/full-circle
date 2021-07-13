@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "How to Start a Blog or Personal Website Using Jekyll and GitHub Pages"
-categories: [ tutorial ]
-tags: [ blogging ]
-image: assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages.jpg
-description: "How to Start a Blog or Personal Website Using Jekyll and GitHub Pages"
-featured: false
-hidden: false
-comments: false
 ---
 
 By the end of this guide, you will have a blog or personal website that looks something like [this](https://lenpaul.github.io/Lagrange/). It will be under a unique domain name, and you will have complete control over your site.

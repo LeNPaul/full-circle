@@ -1,13 +1,6 @@
 ---
 layout: post
 title:  "How to Customize a Jekyll Theme"
-categories: [ tutorial ]
-tags: [ blogging ]
-image: assets/images/how-to-customize-a-jekyll-theme.jpg
-description: "How to Customize a Jekyll Theme"
-featured: false
-hidden: false
-comments: false
 ---
 
 This guide outlines how to fully customize your Jekyll site. It includes all the common changes that are typically made, such as how to use your own custom domain name when hosting your Jekyll site on GitHub Pages, to more complicated changes to the look of your site.
