@@ -16,3 +16,11 @@ This book is broken down into four main sections:
 3. Automation
 
 4. Liberation
+
+#### Step I: D is for Definition
+
+#### Step II: E is for Elimination
+
+#### Step III: A is for Automation
+
+#### Step IV: L is for Liberation
