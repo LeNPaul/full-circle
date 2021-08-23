@@ -3,7 +3,7 @@ layout: post
 title: "Saving Time With Task Automation"
 ---
 
-With our digital lives slowly becoming our regular lives, automation has become a term that promises to save us time. Automation can come in many forms, and can mean different things in different contexts.
+With our digital lives slowly becoming our regular lives, automation has become a term that promises to save us time. Automation can come in many forms, and can mean different things in different contexts. Once the majority of our information became available in digital form, it became easier to automate tasks such as storing and searching for information. Depending on how this is implemented, this can save us a lot of time, but it can also introduce scenarios that require some manual work, in some cases negating the time-saving benefits.
 
 For example, as part of my job, I need to keep track of professional services hours and how I allocate my time between different projects, both internal and with clients. At my job, we use a tool called [Harvest](https://www.getharvest.com/) to input our hours. Needless to say, this was a part of my job that I did not particularly enjoy, and would always put off until I absolutely had to do it at the end of the month.
 
