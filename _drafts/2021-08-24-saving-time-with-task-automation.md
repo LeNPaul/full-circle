@@ -19,12 +19,15 @@ I came across [Clockify](https://clockify.me/), which was a time tracker that al
 
 I began tracking my hours in Clockify and using the pomodoro timer, which was a natural transition. I now needed a means to automate the process of taking the tasks. Incedentally, my job involves building integrations, so I was in a good position to build a custom integration.
 
-Build the integration.
+### Notes
 
-Compare times saved for putting time into Harvest vs. automating or making it easier to put in time
-Compare times saved for putting activities into Pipedrive
-Keyboard shortcuts
+* Build the integration.
 
+* Compare times saved for putting time into Harvest vs. automating or making it easier to put in time
 
-No longer using this integration because I no longer use Clockify to do my Pomodoros, and do not track what was done during a Pomodoro
+* Compare times saved for putting activities into Pipedrive
+
+* Keyboard shortcuts
+
+* No longer using this integration because I no longer use Clockify to do my Pomodoros, and do not track what was done during a Pomodoro
 
