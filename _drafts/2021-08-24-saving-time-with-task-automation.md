@@ -5,9 +5,13 @@ title: "Saving Time With Task Automation"
 
 With our digital lives slowly becoming our regular lives, automation has become a term that promises to save us time. Automation can come in many forms, and can mean different things in different contexts. Once the majority of our information became available in digital form, it became easier to automate tasks such as storing and searching for information. Depending on how this is implemented, this can save us a lot of time, but it can also introduce scenarios that require some manual work, in some cases negating the time-saving benefits.
 
+### The Problem
+
 For example, as part of my job, I need to keep track of professional services hours and how I allocate my time between different projects, both internal and with clients. At my job, we use a tool called [Harvest](https://www.getharvest.com/) to input our hours. Needless to say, this was a part of my job that I did not particularly enjoy, and would always put off until I absolutely had to do it at the end of the month.
 
 Unfortunately, this meant that I would spend a lot of time inputting my hours, as I had to go through my calendar and emails in order to remember how I spent my time. This was time consuming, and a real chore. Although I tried to input my hours daily, as I utilize them, it was always something that I would forget or procrastinate on. I found it too much trouble to open the Harvest webpage and put in my hours.
+
+### A Potential Solution
 
 I soon came across a method that would save me time. I was always a practitioner of the Pomodoro Technique. I used to use [Pomotodo](https://pomotodo.com/), which was allowed me to not only set Pomodoro timers, but also to keep track of what I did with each Pomodoro. This was how I would put my hours into Harvest: by going through my Pomodoros and counting how many Pomodoros I spent for each task.
 
