@@ -13,7 +13,7 @@ Unfortunately, this meant that I would spend a lot of time inputting my hours, a
 
 ### A Potential Solution
 
-I soon came across a method that would save me time. I was always a practitioner of the Pomodoro Technique. I used to use [Pomotodo](https://pomotodo.com/), which was allowed me to not only set Pomodoro timers, but also to keep track of what I did with each Pomodoro. This was how I would put my hours into Harvest: by going through my Pomodoros and counting how many Pomodoros I spent for each task.
+I soon came across a method that would save me time. I was always a practitioner of the Pomodoro Technique. I used to use [Pomotodo](https://pomotodo.com/), which was allowed me to not only set Pomodoro timers, but also to keep track of what I did with each Pomodoro. This was how I would put my hours into Harvest: by going through my Pomodoros and counting how many Pomodoros I spent for each task. To me, this was a small change that was easy to implement without making any significant changes to my Pomodoro workflow.
 
 This was a manual activity that was begging to be automated. For a long time, I put this off, because I thought that the initial trouble of setting up this automation was not worth it. I always thought that task automation was more trouble to set up initially than it was worth.
 
