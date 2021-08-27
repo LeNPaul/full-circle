@@ -9,7 +9,7 @@ I first read *The 4-Hour Workweek* by Tim Ferriss sometime in my early 20's. As 
 
 This book is broken down into four main sections:
 
-1. Definitions
+1. Definition
 
 2. Elimination
 
