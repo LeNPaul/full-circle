@@ -23,6 +23,8 @@ I came across [Clockify](https://clockify.me/), which was a time tracker that al
 
 I began tracking my hours in Clockify and using the pomodoro timer, which was a natural transition. I now needed a means to automate the process of taking the tasks. Incedentally, my job involves building integrations, so I was in a good position to build a custom integration.
 
+### What is Integration
+
 ### Notes
 
 * Build the integration.
