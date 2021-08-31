@@ -19,8 +19,16 @@ This book is broken down into four main sections:
 
 #### Step I: D is for Definition
 
+Define a new game instead of giving into assumptions.
+
 #### Step II: E is for Elimination
+
+Be more efficient and effective with your time and be more productive.
 
 #### Step III: A is for Automation
 
+Automate your income and delegate your tasks.
+
 #### Step IV: L is for Liberation
+
+Free yourself from having to be location-dependent.
