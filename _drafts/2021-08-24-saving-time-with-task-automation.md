@@ -25,6 +25,8 @@ I began tracking my hours in Clockify and using the pomodoro timer, which was a 
 
 ### What is Integration
 
+Simply put, integration is 
+
 ### Notes
 
 * Build the integration.
