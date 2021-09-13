@@ -18,3 +18,15 @@ I first read *Mastery* by Robert Greene when I was in university. At the time, I
 5. Awaken the Dimensional Mind: The Creative-Active
 
 6. Fuse the Intuitive with the Rational: Mastery
+
+### Discovering Your Calling
+
+### Submit to Reality: The Ideal Apprenticeship
+
+### Absorb the Master’s Power: The Mentor Dynamic
+
+### See People as they Are: Social Intelligence
+
+### Awaken the Dimensional Mind: The Creative-Active
+
+### Fuse the Intuitive with the Rational: Mastery
