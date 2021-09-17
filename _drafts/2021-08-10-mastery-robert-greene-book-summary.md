@@ -7,6 +7,16 @@ I first read *Mastery* by Robert Greene when I was in university. At the time, I
 
 ### Summary
 
+The journey to mastery involves three distinct phases or levels:
+
+1. Apprenticeship
+
+2. Creative-Active
+
+3. Mastery
+
+---
+
 1. Discovering Your Calling
 
 2. Submit to Reality: The Ideal Apprenticeship
