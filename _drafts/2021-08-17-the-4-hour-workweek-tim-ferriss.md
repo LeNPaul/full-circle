@@ -97,7 +97,33 @@ A good question to ask yourself is "what excites you", and make plans for what a
 
 #### Step II: E is for Elimination
 
-Be more efficient and effective with your time and be more productive.
+Be more efficient (i.e. doing something as economically as possible) and effective (i.e. doing things that get you closer to your goals) with your time and be more productive. Don't try to do more in one day or to be busy, but to do the most high-impact tasks, eliminating everything else.
+
+1. Doing something unimportant well does not make it important
+
+2. Requiring a lot of time does not make a task important
+
+> What you do is infinitely more important than how you do it.
+
+Pareto's Law (also known as the Pareto Distribution or the 80/20 Principle) states that 80% of the results result from 20% of the effort and time. This can applied in many scenarios.
+
+Parkinson's Law dictates that a task will swell in perceived importance and complexity in relation to the time allotted for its completion.
+
+To increase productivity, define a short to-do list and a not-to-do list, and apply the following:
+
+1. Limit tasks to the important to shorten work time (80/20)
+
+2. Shorten work time to limit tasks to the important (Parkinson's Law)
+
+Go on a low-information diet and cultivate selective ignorance. For example, avoid the news - you can ask people what is going on in the world instead, and the important stuff will come up. Ignore or redirect all information and interruptions that are irrelevant, unimportant, or unactionable. Decrease your input, and increase your output.
+
+Avoid interruptions - anything that prevents the start-to-finish completion of a critical task:
+
+1. Time wasters: anything that can be ignored with little or no consequence, such as email and meetings
+
+2. Time consumers: repetitive tasks or low-level tasks that need to be completed but interrupt high-level work; try and batch tasks where possible
+
+3. Empowerment failures: instances where someone needs approval to make something small happen; give people responsibilities and trust
 
 #### Step III: A is for Automation
 
