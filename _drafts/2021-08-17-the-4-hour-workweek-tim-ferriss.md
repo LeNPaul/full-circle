@@ -127,7 +127,69 @@ Avoid interruptions - anything that prevents the start-to-finish completion of a
 
 #### Step III: A is for Automation
 
-Automate your income and delegate your tasks.
+Automate your income and delegate your tasks. This allows you to remove financial concerns and free your mind to focus on other things - things that you would do if you didn't have to think about money.
+
+Finding your muse - a business that you own that generates cash that you spend very little time on. Many successful companies do this - they outsource their work to other companies and make a profit. It is important to think about cash flow and time.
+
+You will need a product to sell. You can convert expertise into a shippable hard good to escape the limits of a per-hour-based model, although in the beginning constant customer contact makes absence difficult.
+
+##### Step One: Pick an Affordably Reachable Niche Market
+
+Find your market - define your customers - and then find or develop a product for them. Try to find a narrow niche.
+
+##### Step Two: Brainstorm (Do Not Invest In) Products
+
+Brainstorm or find products with your niche market in mind. Come up with well-formed product ideas and spend nothing. Be able to encapsulate the main benefit in one sentence. It should cost the customer $50 - 200 in the high-end price range. It should take no more than 3 to 4 weeks to manufacture. It should be fully explainable in a good online FAQ. There are two options:
+
+1. Resell a Product
+
+2. License a Product
+
+3. Create a Product
+
+Information products are a great option. Being an expert in this case just means knowing more about the topic than the purchaser. Some considerations:
+
+1. What skills are you interesting that you and others would pay to learn? Become an expert in this skill and crate a product to teach the same.
+
+2. Do you have a failure-to-success story that could be turned into a how-to product for others?
+
+How to become an expert in 4 weeks:
+
+1. Join two or three related trade organizations
+
+2. Read the three top-selling books
+
+3. Give one free one-to-three hour seminar
+
+4. Optional: Offer to write one or two articles for trade magazines
+
+5. Join ProfNet
+
+##### Step Three: Micro-Test Your Products
+
+Use inexpensive advertisements to test consumer response to a product prior to manufacturing. Ensure that your product can beat the competition and offer a superior product or guarantee. Test your advertisement. Once you find a good combination of product and advertisement process, you can choose to continue to invest more money and sell your product.
+
+##### Management By Absence
+
+Design a self-correcting business architecture that runs itself so that you don't have to worry about managing people. Start with the end in mind. The goal isn't to create a business that is as large as possible, but a business that bothers us as little as possible. The architecture should place us out of the information flow instead of putting us at the top.
+
+This can be done by contracting outsourcing companies, and ensure that all outsourcers are willing to communicate among themselves to solve problems, and give them written permission to make inexpensive decisions without consulting you first. Determine common questions from customers and create an online FAQ.
+
+The more options you offer the customer, the more indecision you create and the fewer buyers  you will get. More options also results in more complexity when managing your business.
+
+Once you have some cash flow, carefully vet your customers. Try and do business with good customers that are low maintenance, and avoid bad customers that demand too much. Remember the 80/20 principle. Those that spend the least and ask for the most will do the same after the sale. Those who spend the most complain the least. Make your customer base an exclusive club, and treat the members well once they've been accepted.
+
+Utilize lose-win guarantees, where you remove the risk for the consumer. Although it increases financial risk, it ends up being a net positive.
+
+The following are ways to appear like a Fortune 500 company:
+
+1. Don't be the CEO or founder
+
+2. Put multiple email and phone contacts on the website
+
+3. Set up an interactive Voice Response remote receptionist
+
+4. Do not provide home addresses
 
 #### Step IV: L is for Liberation
 
