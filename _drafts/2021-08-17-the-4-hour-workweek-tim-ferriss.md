@@ -193,4 +193,28 @@ The following are ways to appear like a Fortune 500 company:
 
 #### Step IV: L is for Liberation
 
-Free yourself from having to be location-dependent.
+Free yourself from having to be location-dependent. Having unrestricted mobility is a power. The following are steps on how to do this with your job:
+
+1. Increase investment
+
+2. Prove increased output offsite
+
+3. Prepare the quantifiable business benefit
+
+4. Propose a revocable trial period
+
+5. Expand remote time
+
+Being able to quit things that don't work is integral to being a winner. Investing a lot of time and effort into something does not make it worthwhile. It's easier and less painful than you think - it's just a matter of ripping off the bandaid.
+
+Self-imposed suffering can be avoided. There are two types of mistakes: mistakes of ambition and mistakes of sloth. The first is encouraged, and the second should be avoided.
+
+There is no need to wait for retirement to enjoy your life. There is no reason to spend most of your life working to make a lot of money so that you can live comfortably and do what you plan to do when you retire, when you can do that right now. Traveling is a lot cheaper than people think.
+
+As an alternative to binge traveling where you squeeze in a lot of travel into a short period of time, mini-retirements entail relocating to one place for one to six months before going home or moving on. This is not an escape from your life but a re-examination of it. Aim to experience the world in a way that changes you.
+
+True freedom is more than having financial, time, and location freedom. It also includes freedom from material addictions, envy, and other negative emotions. It usually takes two to three months to unplug and become aware of how much we distract ourselves with constant motion. Learn how to slow down and be more intentional. More is less in many cases when it comes to things that you own - try clearing clutter.
+
+The biggest risk in life isn't making mistakes, but regret: missing out on things.
+
+Once you subtract work, you will need to add life back in. It's normal to feel strange and even depressed after you have more time, as you may feel like you have too much idle time being unfulfilled. The goal is to ultimately live and become more.
