@@ -9,9 +9,7 @@ I first read *The 4-Hour Workweek* by Tim Ferriss sometime in my early 20's. As 
 
 This book is about defining a new game instead of giving into assumptions. Common sense rules for the real world are often just fragile collections of socially reinforced illusions.
 
-For example, the traditional path of completing your schooling, getting a job, working for most of your adult life, and then retiring, is assumed to be the best path. However, the New Rich (NR) have chosen to abandon the deferred-life plan and live the lifestyle they want to live in the present.
-
-The NR value time and mobility over money. The goal isn't to have millions in the bank, but to be able to live the life that having millions supposedly allows.
+For example, the traditional path of completing your schooling, getting a job, working for most of your adult life, and then retiring, is assumed to be the best path. However, the New Rich (NR) have chosen to abandon the deferred-life plan and live the lifestyle they want to live in the present. The NR value time and mobility over money. The goal isn't to have millions in the bank, but to be able to live the life that having millions supposedly allows.
 
 > "People don't want to be millionaires—they want to experience what they believe only millions can buy."
 
@@ -41,7 +39,7 @@ There is a difference between challenging the status-quo and being stupid. The f
 
 2. Interest and energy are cyclical
 
-3. Interest and energy are cyclical
+3. Less is not laziness
 
 4. The timing is never right
 
@@ -97,7 +95,7 @@ A good question to ask yourself is "what excites you", and make plans for what a
 
 #### Step II: E is for Elimination
 
-Be more efficient (i.e. doing something as economically as possible) and effective (i.e. doing things that get you closer to your goals) with your time and be more productive. Don't try to do more in one day or to be busy, but to do the most high-impact tasks, eliminating everything else.
+Be more efficient (i.e. doing something as economically as possible) and effective (i.e. doing things that get you closer to your goals) with your time in order to be more productive. Don't try to do more in one day or to be busy, but to do the most high-impact tasks, eliminating everything else.
 
 1. Doing something unimportant well does not make it important
 
@@ -121,25 +119,25 @@ Avoid interruptions - anything that prevents the start-to-finish completion of a
 
 1. Time wasters: anything that can be ignored with little or no consequence, such as email and meetings
 
-2. Time consumers: repetitive tasks or low-level tasks that need to be completed but interrupt high-level work; try and batch tasks where possible
+2. Time consumers: repetitive tasks or low-level tasks that need to be completed but interrupt high-level work - try and batch tasks where possible
 
-3. Empowerment failures: instances where someone needs approval to make something small happen; give people responsibilities and trust
+3. Empowerment failures: instances where someone needs approval to make something small happen - give people responsibilities and trust
 
 #### Step III: A is for Automation
 
 Automate your income and delegate your tasks. This allows you to remove financial concerns and free your mind to focus on other things - things that you would do if you didn't have to think about money.
 
-Finding your muse - a business that you own that generates cash that you spend very little time on. Many successful companies do this - they outsource their work to other companies and make a profit. It is important to think about cash flow and time.
+You will need to find your muse: a business that you own that generates cash that you spend very little time on. Many successful companies do this - they outsource their work to other companies and make a profit. It is important to think about cash flow and time spent to generate that cash flow.
 
-You will need a product to sell. You can convert expertise into a shippable hard good to escape the limits of a per-hour-based model, although in the beginning constant customer contact makes absence difficult.
+To find  your muse, you will need a product to sell. You can convert expertise into a shippable hard good to escape the limits of a per-hour-based model, although in the beginning constant customer contact makes absence difficult.
 
 ##### Step One: Pick an Affordably Reachable Niche Market
 
-Find your market - define your customers - and then find or develop a product for them. Try to find a narrow niche.
+Find your market (define your customers) and then find or develop a product for them. Try to find a narrow niche.
 
 ##### Step Two: Brainstorm (Do Not Invest In) Products
 
-Brainstorm or find products with your niche market in mind. Come up with well-formed product ideas and spend nothing. Be able to encapsulate the main benefit in one sentence. It should cost the customer $50 - 200 in the high-end price range. It should take no more than 3 to 4 weeks to manufacture. It should be fully explainable in a good online FAQ. There are two options:
+Brainstorm or find products with your niche market in mind. Come up with well-formed product ideas and spend nothing. Be able to encapsulate the main benefit in one sentence. It should cost the customer $50 - $200 in the high-end price range. It should take no more than three to four weeks to manufacture. It should be fully explainable in a good online FAQ. There are two options:
 
 1. Resell a Product
 
@@ -169,11 +167,11 @@ How to become an expert in 4 weeks:
 
 Use inexpensive advertisements to test consumer response to a product prior to manufacturing. Ensure that your product can beat the competition and offer a superior product or guarantee. Test your advertisement. Once you find a good combination of product and advertisement process, you can choose to continue to invest more money and sell your product.
 
-##### Management By Absence
+###### Management By Absence
 
 Design a self-correcting business architecture that runs itself so that you don't have to worry about managing people. Start with the end in mind. The goal isn't to create a business that is as large as possible, but a business that bothers us as little as possible. The architecture should place us out of the information flow instead of putting us at the top.
 
-This can be done by contracting outsourcing companies, and ensure that all outsourcers are willing to communicate among themselves to solve problems, and give them written permission to make inexpensive decisions without consulting you first. Determine common questions from customers and create an online FAQ.
+This can be done by contracting outsourcing companies, and ensure that all outsourcers are willing to communicate amongst themselves to solve problems. Give them written permission to make inexpensive decisions without consulting you first. Determine common questions from customers and create an online FAQ.
 
 The more options you offer the customer, the more indecision you create and the fewer buyers  you will get. More options also results in more complexity when managing your business.
 
@@ -218,3 +216,7 @@ True freedom is more than having financial, time, and location freedom. It also 
 The biggest risk in life isn't making mistakes, but regret: missing out on things.
 
 Once you subtract work, you will need to add life back in. It's normal to feel strange and even depressed after you have more time, as you may feel like you have too much idle time being unfulfilled. The goal is to ultimately live and become more.
+
+Once you live all of your external fantasies, you may start to feel bored and unfulfilled. You are not alone - ensure you are around people and making new friends. Be wary of outdated comparisons of having to have more money or more things than others - this was what caused the problems to begin with. Instead, fill your time with being completely focused in the moment on something external: someone or something else.
+
+Life exists to be enjoyed and the most important thing is to feel good about yourself. To live is to learn.
