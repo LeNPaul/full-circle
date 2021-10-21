@@ -13,7 +13,7 @@ Unfortunately, this meant that I would spend a lot of time inputting my hours, a
 
 ### A Potential Solution
 
-I soon came across a method that would save me time. I was always a practitioner of the Pomodoro Technique. I used to use [Pomotodo](https://pomotodo.com/), which was allowed me to not only set Pomodoro timers, but also to keep track of what I did with each Pomodoro. This was how I would put my hours into Harvest: by going through my Pomodoros and counting how many Pomodoros I spent for each task. To me, this was a small change that was easy to implement without making any significant changes to my Pomodoro workflow.
+I soon came across a method that would save me time. I was always a practitioner of the Pomodoro Technique. I used to use [Pomotodo](https://pomotodo.com/), which had allowed me to not only set Pomodoro timers, but also to keep track of what I did with each Pomodoro. This provided another way to keep track of my hours, by going through my Pomodoros and counting how many Pomodoros I spent for each task. To me, this was a small change that was easy to implement without making any significant changes to my Pomodoro workflow.
 
 This was a manual activity that was begging to be automated. For a long time, I put this off, because I thought that the initial trouble of setting up this automation was not worth it. I always thought that task automation was more trouble to set up initially than it was worth.
 
@@ -21,15 +21,25 @@ With the pandemic in full swing, I had more time, and I searched for a solution.
 
 I came across [Clockify](https://clockify.me/), which was a time tracker that also had a Pomodoro timer built in. I can keep track of how I spent my time through time entries, which were divided into roughly 25-minute time blocks. This was perfect.
 
-I began tracking my hours in Clockify and using the pomodoro timer, which was a natural transition. I now needed a means to automate the process of taking the tasks. Incedentally, my job involves building integrations, so I was in a good position to build a custom integration.
+I began tracking my hours in Clockify and using the Pomodoro timer, which was a natural transition. I now needed a means to automate the process of taking the tasks. Incidentally, my job involves building IT integrations, so I was in a good position to build a custom integration for this workflow.
 
 ### What is Integration
 
-Simply put, integration is 
+Simply put, [integration](https://www.redhat.com/en/topics/integration/what-is-integration) in the context of IT is the connection of different systems that were not originally meant to connect to each other in ways that improve efficiency and productivity.
+
+In the field of healthcare IT that I work in, this can mean anything from connecting laboratory information systems (LIS) to electronic medical record (EMR) systems, to connecting databases with various APIs.
+
+In my case, this means connecting Clockify with Harvest, so that the information that is inputted into Clockify is sent to Harvest so that I do not need to enter the same information into two different places.
+
+### Building the Integration
+
+Implementing an integration requires some kind of middleware to facilitate the integration. This can be as simple as a script that is run on a regular basis using some kind of scheduler, or an integration engine that provides a more complete middleware integration experience. For this project, I decided to use an integration engine called [Iguana](https://www.interfaceware.com/iguana), which provides a [Lua](https://www.lua.org/) scripting environment to perform integrations.
+
+Additionally, building an integration requires some kind of interface between the two systems to transfer data and perform actions. Most web applications have comprehensive REST APIs that provide essentially the same functionality as the user interface and act as this interface. Luckily, both [Clockify](https://clockify.me/developers-api) and [Harvest](https://help.getharvest.com/api-v2/) have well-documented APIs.
+
+With all of those requirements for an integration met, the next step was to design the integration workflow.
 
 ### Notes
-
-* Build the integration.
 
 * Compare times saved for putting time into Harvest vs. automating or making it easier to put in time
 
@@ -38,4 +48,3 @@ Simply put, integration is
 * Keyboard shortcuts
 
 * No longer using this integration because I no longer use Clockify to do my Pomodoros, and do not track what was done during a Pomodoro
-
