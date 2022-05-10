@@ -3,4 +3,35 @@ layout: default
 title: "About"
 ---
 
-{% include about.html %}
+<div class="g-5 mb-5">
+  <h1>About Me</h1>
+  <p class="fs-5 col-md-8">There are three things that I am passionate about: solving problems, building things, and learning. I solve problems during the day through my job as a <a href="https://www.interfaceware.com/company">healthcare IT solutions architect</a>. I build things at night through my <a href="https://github.com/LeNPaul">open source projects</a>. I learn things on the weekend and write about them on <a href="/blog">my blog</a>.</p>
+</div>
+
+<div class="g-5 mb-5">
+  <h2 class="mb-3">Some of my best work</h2>
+  <div class="row g-5">
+    <div class="col-md-6">
+      <h5><a href="https://github.com/LeNPaul?tab=repositories&q=%23jekyll&type=&language=&sort=stargazers">Open Source Jekyll Themes</a></h5>
+      <p>I build and maintain open source Jekyll themes used by thousands of people. My GitHub repositories have over one thousand forks and stars in total.</p>
+    </div>
+    <div class="col-md-6">
+      <h5><a href="https://physicsinmotion.ca">Physics in Motion</a></h5>
+      <p>A free, online resource for intuitively learning physics used by students all around the world.</p>
+    </div>
+  </div>
+  <div class="row g-5">
+    <div class="col-md-6">
+      <h5><a href="https://paradone.com">Paradone</a></h5>
+      <p>A personal productivity app that encourages proven paradigms for getting things done.</p>
+    </div>
+  </div>
+</div>
+
+<div class="g-5 mb-5">
+  <h2 class="mb-3">Contact</h2>
+  <div class="row g-5">
+    <div class="col-md-6">
+      <h5><a href="mailto:{{ site.email }}">{{ site.email }}</a></h5>
+    </div>
+</div>
