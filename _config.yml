@@ -2,10 +2,9 @@ title: "paul le"
 email: "hello@paulle.ca"
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'fab fa-github', link: 'https://github.com/LeNPaul'}
+- {icon: 'fab fa-twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'fas fa-envelope', link: 'mailto:hello@paulle.ca'}
 
 google_analytics: "UA-111549056-1"
 mailchimp: "https://hungryminds.us7.list-manage.com/subscribe?u=08fe04e6a6ba1be08842091b9&id=01717016fd"
