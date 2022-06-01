@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Human-centred design in hospital technology"
-permalink: "/articles/human-centred-design-in-hospital-technology"
+permalink: "/articles/human-centred-design-hospital-technology"
 ---
 
 If you have ever read [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman, you have probably heard of the term, “human-centred design”. In simple terms, human-centred design is about designing things for human users. This may sound like an obvious and simple task, but it really isn’t, and is often taken for granted.
@@ -98,7 +98,7 @@ Although a very basic solution, this was a perfect starting point for building a
 
 After sketching out a few ideas on how this would all look, I came up with the following wireframes showing the general workflow of the application:
 
-![Wireframes and workflow diagram]({{ site.baseurl }}{{ "/assets/img/2020-05-12-human-centred-design-in-hospital-technology/workflow-diagram.png" }})
+![Wireframes and workflow diagram]({{ site.baseurl }}{{ "/assets/img/2020-05-12-human-centred-design-hospital-technology/workflow-diagram.png" }})
 
 1. When a healthcare provider opens the application, they will see a home page with two large buttons, indicating if they want to add a new patient, or view current patients in the ER.
 
