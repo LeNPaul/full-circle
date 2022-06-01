@@ -1,6 +1,4 @@
 ---
-layout: default
+layout: about
 title: "About"
 ---
-
-{% include about.html %}

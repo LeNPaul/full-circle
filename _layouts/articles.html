@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="pt-2">
+  {% for post in site.articles %}
+  <div class="row mb-5">
+    <div class="col-md-8">
+      <a href="{{ post.url }}" class="text-dark">
+        <h5>{{ post.title }}</h5>
+        <p>{{ post.content | strip_html | truncate: 350 }}</p>
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</div>
