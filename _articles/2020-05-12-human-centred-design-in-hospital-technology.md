@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Human-centred design in hospital technology"
-permalink: "human-centred-design-in-hospital-technology"
+permalink: "/articles/human-centred-design-in-hospital-technology"
 ---
 
 If you have ever read [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman, you have probably heard of the term, “human-centred design”. In simple terms, human-centred design is about designing things for human users. This may sound like an obvious and simple task, but it really isn’t, and is often taken for granted.
@@ -121,8 +121,6 @@ I ended up almost pulling an all-night the night before my interview to get the 
 The code that I had put together was not perfect, or anything I would even consider good. It was very messy, had no error handling for invalid inputs, did not consider cases such as when identical names exist in the patient database, and there were no security measures implemented at all. But it worked as a prototype.
 
 The interview ended up going very well. I went in with the mindset that I was most likely not going to get the job, as I was probably not qualified for the job (I was an astrophysics major, after all). I wanted to use this as an opportunity to add something to my portfolio, as well as potentially network further with the hiring manager. If anything, I learned a lot throughout this whole process, and that was already a big win for me.
-
----
 
 Of course, the solution that I had come up with was a very naive one — I had no delusions or any ideas that this would actually help in a real ER setting, and it’s possible that [there was already a better solution out there for the problem I was trying to solve](https://www.canhealth.com/2020/05/01/new-system-rapidly-screens-and-triages-patients/).
 
