@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Improving Support Workflow Through Human-Centered Design"
-permalink: "improving-support-workflow-human-centered-design"
+permalink: "/improving-support-workflow-human-centered-design"
 ---
 
 Part of my job at work involves taking on support tickets that come in from our clients. This entails taking responsibility for the ticket, responding to it in a timely matter, following through until it is resolved, and ensuring the client is satisfied. All of this is done in addition to other projects that I do at work.
