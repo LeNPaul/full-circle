@@ -11,19 +11,17 @@ permalink: "/book-notes"
 
 <div class="g-5 mb-5">
   <div class="row g-5">
-    <!--
     <div class="col-md-6">
       <h5><a href="/book-notes/power-habit-charles-duhigg">The Power of Habit by Charles Duhigg Book Summary</a></h5>
       <p>We depend on habits to live our lives. Habits allow us to do a variety of complicated activities without requiring significant brain power. However, this can become detrimental when we lose control of our habits.</p>
     </div>
-    -->
     <div class="col-md-6">
       <h5><a href="/book-notes/inner-game-tennis-timothy-gallwey">The Inner Game of Tennis by Timothy Gallwey Book Summary</a></h5>
       <p>Every game is composed of two parts: an outer game, and an inner game. The outer game is the physical component, while the inner game is the mental component. Although the inner game is very important, it is often neglected.</p>
     </div>
   </div>
 </div>
-<!--
+
 <div class="g-5 mb-5">
   <div class="row g-5">
     <div class="col-md-6">
@@ -36,4 +34,3 @@ permalink: "/book-notes"
     </div>
   </div>
 </div>
--->
