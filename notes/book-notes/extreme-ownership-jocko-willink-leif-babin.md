@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink and Leif Babin Book Summary"
+title:  "Extreme Ownership by Jocko Willink and Leif Babin Book Summary"
 permalink: "/book-notes/extreme-ownership-jocko-willink-leif-babin"
 ---
 
-![Extreme Ownership: How U.S. Navy SEALs Lead and Win]({{ site.baseurl }}{{ "/assets/img/extreme-ownership-jocko-willink-leif-babin/cover.png" }})
+![Extreme Ownership]({{ site.baseurl }}{{ "/assets/img/extreme-ownership-jocko-willink-leif-babin/cover.png" }})
 
 I first discovered Jocko Willink through [his appearance on the Joe Rogan Experience](https://www.youtube.com/watch?v=NnKcquMobHQ). Although I was initially uninterested in the topic of war, the conversation on leadership resonated with me. The lessons that I learned from that podcast have since had a big influence on my life.
 

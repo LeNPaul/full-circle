@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  "Linchpin: Are You Indispensable? by Seth Godin Book Summary"
+title:  "Linchpin by Seth Godin Book Summary"
 permalink: "/book-notes/linchpin-seth-godin"
 ---
 
-![Linchpin: Are You Indispensable?]({{ site.baseurl }}{{ "/assets/img/linchpin-seth-godin/cover.png" }})
+![Linchpin]({{ site.baseurl }}{{ "/assets/img/linchpin-seth-godin/cover.png" }})
 
 *Linchpin: Are You Indispensable?* by Seth Godin is a book that has had a big influence on my life in the past few years. Although there is a lot of repetition in this book, which could have been condensed into a single blog post, I would still recommend this book. It is essentially a collection of related blog posts that are fun to read on their own, and there are some interesting tidbits of information scattered throughout. The main ideas in the book are summarized below.
 

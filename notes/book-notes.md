@@ -25,12 +25,21 @@ permalink: "/book-notes"
 <div class="g-5 mb-5">
   <div class="row g-5">
     <div class="col-md-6">
-      <h5><a href="/book-notes/linchpin-seth-godin">Linchpin: Are You Indispensable? by Seth Godin Book Summary</a></h5>
+      <h5><a href="/book-notes/linchpin-seth-godin">Linchpin by Seth Godin Book Summary</a></h5>
       <p>We all grew up being taught to conform to the system, where we follow instructions and obey the rules. This is no longer relevant or a good strategy for success.</p>
     </div>
     <div class="col-md-6">
-      <h5><a href="/book-notes/extreme-ownership-jocko-willink-leif-babin">Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink and Leif Babin Book Summary</a></h5>
+      <h5><a href="/book-notes/extreme-ownership-jocko-willink-leif-babin">Extreme Ownership by Jocko Willink and Leif Babin Book Summary</a></h5>
       <p>When it comes to achieving any kind of mission involving more than one person, leadership is the single most important factor for success. The following principles for achieving optimal leadership are divided into three groups: winning the war within, the laws of combat, and sustaining victory.</p>
+    </div>
+  </div>
+</div>
+
+<div class="g-5 mb-5">
+  <div class="row g-5">
+    <div class="col-md-6">
+      <h5><a href="/book-notes/4-hour-workweek-tim-ferriss">The 4-Hour Workweek by Tim Ferriss Book Summary</a></h5>
+      <p>This book is about defining a new game instead of giving into assumptions. Common sense rules for the real world are often just fragile collections of socially reinforced illusions.</p>
     </div>
   </div>
 </div>
