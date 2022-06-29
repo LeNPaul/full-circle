@@ -10,7 +10,7 @@ In physics, many problems do not have exact, analytical solutions. What this mea
 
 Fortunately, thanks to mathematicians, we do have a variety of tools in the form of numerical methods that can approximate, often to a very accurate degree, solutions to many of the problems in physics. The only drawback is that these techniques require numerous calculations to be done over and over again - maybe thousands, or even millions of times - before an approximate solution is arrived at.
 
-Prior to the mid-20th century, if someone wanted to perform a numerical integration technique in order to solve or model a problem, they would have to employ a team (or an unlucky individual) to sit in a room and spend their days performing the calculations over and over again. Here is a quote from "Structure and the Evolution of Stars" by Martin Schwarzchild (1958) on solving the equations of stellar structure:
+Prior to the mid-20th century, if someone wanted to perform a numerical integration technique in order to solve or model a problem, they would have to employ a team (or an unlucky individual) to sit in a room and spend their days performing the calculations over and over again. Here is a quote from "Structure and the Evolution of Stars" by Martin Schwarzschild (1958) on solving the equations of stellar structure:
 
 > A person can usually accomplish more than twenty integration steps per day for a set of differential equations… Thus for a typical single integration consisting of, say, forty steps less than two days are needed... the entire numerical work for this fairly typical case can be accomplished by one person in one month.
 
@@ -26,4 +26,4 @@ They saw the opportunity early on and took advantage, with the rise of computers
 
 Since then, physicists have had a close relationship with computer programming. Today, it’s rare to call yourself a physicist without having some kind of programming ability, even just in Matlab. Many physics departments require that their students take at least one course dedicated to scientific computing, with many other physics and math courses actually being programming courses in disguise.
 
-As an undergraduate student, I took a course on Stellar Structures, where we did the exact same numerical integration that Martin Schwarzchild did in his 1954 paper, except instead of taking a month to get a solution by hand, we were able to get the solutions in less than a second.
+As an undergraduate student, I took a course on Stellar Structures, where we did the exact same numerical integration that Martin Schwarzschild did in his 1954 paper, except instead of taking a month to get a solution by hand, we were able to get the solutions in less than a second.
