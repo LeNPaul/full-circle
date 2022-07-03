@@ -47,3 +47,12 @@ permalink: "/book-notes"
     </div>
   </div>
 </div>
+
+<div class="g-5 mb-5">
+  <div class="row g-5">
+    <div class="col-md-6">
+      <h5><a href="/book-notes/first-20-hours-josh-kaufman">The First 20 Hours: How to Learn Anything... Fast! by Josh Kaufman Book Summary</a></h5>
+      <p>Malcolm Gladwell popularized the idea that you need 10,000 hours to learn something. What he really meant was that this was how long it took to become a *master* of something, to be on the level of chess grandmasters and NBA players, for example.</p>
+    </div>
+  </div>
+</div>
