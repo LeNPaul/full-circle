@@ -1,9 +1,8 @@
 ---
 layout: post
-title: ""
+title: "Lessons Learned From Breaking Habits"
 permalink: "/newsletter/:year-:month-:day-lessons-learned-breaking-habits"
 ---
-Lessons Learned From Breaking Habits
 
 One of the first personal development books I have ever read was [The Power of Habit by Charles Duhigg](/book-notes/power-habit-charles-duhigg). This book introduced me to the genre of popular psychology, one that is often characterized by interesting and useful psychology combined with storytelling. This book looked at [the science behind habits and how to change them](/personal-development/habits#how-are-habits-formed).
 
