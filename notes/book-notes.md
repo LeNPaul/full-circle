@@ -54,5 +54,9 @@ permalink: "/book-notes"
       <h5><a href="/book-notes/first-20-hours-josh-kaufman">The First 20 Hours: How to Learn Anything... Fast! by Josh Kaufman Book Summary</a></h5>
       <p>Malcolm Gladwell popularized the idea that you need 10,000 hours to learn something. What he really meant was that this was how long it took to become a *master* of something, to be on the level of chess grandmasters and NBA players, for example.</p>
     </div>
+    <div class="col-md-6">
+      <h5><a href="/book-notes/100-dollar-startup-chris-guillebeau">The $100 Startup by Chris Guillebeau Book Summary</a></h5>
+      <p>Everyone has the skills they need to become an entrepreneur - they just need to know where to look. Many projects start with related skills as opposed to directly requiring certain skills. To start a business, you need three things: a product or service, a group of people willing to pay for it, and a way to get paid.</p>
+    </div>
   </div>
 </div>
