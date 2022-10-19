@@ -4,11 +4,11 @@ title: "Improve Your Life With Social Media"
 permalink: "/newsletter/:year-:month-:day-improve-life-social-media"
 ---
 
-There is a good side to social media that is not often discussed. The following are general principles that I follow in order to [avoid the bad side of social media](/2022-10-13-avoiding-negative-loops-social-media) while using it to improve my life, along with some examples at the end.
+There is a good side to social media that is not often discussed. The following are general principles that I follow in order to [avoid the bad side of social media](/newsletter/2022-10-13-avoiding-negative-loops-social-media) while using it to improve my life, along with some examples at the end.
 
 **Principles**
 
-1. Avoid anything that is shown to you that you did not intentionally want to see. This means [blocking news feeds and recommendations](/2022-10-13-avoiding-negative-loops-social-media). You should [only see content that you subscribed to.](/2022-07-26-using-social-media-mindfully)
+1. Avoid anything that is shown to you that you did not intentionally want to see. This means [blocking news feeds and recommendations](/newsletter/2022-10-13-avoiding-negative-loops-social-media). You should [only see content that you subscribed to.](/newsletter/2022-07-26-using-social-media-mindfully)
 
 2. Only subscribe to quality content that you will consistently consume. It should add to your life in a positive way.
 
