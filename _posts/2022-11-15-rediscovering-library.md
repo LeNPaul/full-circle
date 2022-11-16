@@ -10,6 +10,6 @@ However, when I got to high school, I stopped going to the library and reading f
 
 A few years ago, I discovered that my local library offered free membership to online courses, which I found to be useful for professional development. I had also heard a while back that many libraries even allow you to borrow ebooks and audiobooks. All of these online services were free for anyone with a library card.
 
-It wasn’t until last summer that I finally decided to really take advantage of the latter service, which reinvigorated my love of reading for pleasure again. Having access to so many books gave me freedom to explore and discover new books. This eventually led me to start visiting the library again, which I’ve found to be a great place to do work at.
+It wasn’t until last summer that I finally decided to really take advantage of the latter service, which reinvigorated my love of reading for pleasure again. Having access to so many books online gave me freedom to easily explore and discover new books. This eventually led me to start visiting the library again, which I’ve found to be a great place to do work at.
 
 The library is an underrated free resource that very few people take advantage of once they finish school. I highly recommend that everyone visit their local library to see what they might have to offer.
